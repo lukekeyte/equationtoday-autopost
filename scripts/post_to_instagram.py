@@ -109,10 +109,12 @@ def wait_for_container(container_id, max_wait=60):
 def refresh_token():
     """Refresh the long-lived token to reset the 60-day expiry."""
     response = requests.get(
-        "https://graph.instagram.com/refresh_access_token",
+        f"{BASE_URL}/oauth/access_token",
         params={
-            "grant_type": "ig_refresh_token",
-            "access_token": ACCESS_TOKEN,
+            "grant_type": "fb_exchange_token",
+            "client_id": os.environ.get("FB_APP_ID", ""),
+            "client_secret": os.environ.get("FB_APP_SECRET", ""),
+            "fb_exchange_token": ACCESS_TOKEN,
         },
     )
     if response.ok:
