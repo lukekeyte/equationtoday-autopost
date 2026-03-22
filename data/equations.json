@@ -1,0 +1,772 @@
+{
+  "adams_williamson_equation": {
+    "name": "Adams-Williamson Equation",
+    "caption": "This equation describes how pressure and density vary with depth inside Earth, helping us understand our planet's interior structure. It's the foundation of geophysics and seismology, revealing what lies beneath our feet.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #geophysics #seismology #earth #research #theoreticalphysics #appliedmathematics #physicist #mathematician #nerd #geek #university #gradstudent #planet #gravity #pressure"
+  },
+  "advection_equation": {
+    "name": "Advection Equation",
+    "caption": "Watch how quantities transport through space! The advection equation models everything from pollutant dispersion in air to salt movement in ocean currents. It's essential for weather prediction and environmental science.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #fluidmechanics #atmosphere #weather #research #appliedmathematics #mathematician #nerd #geek #university #gradstudent #transport #dynamics #climate #environment #simulation"
+  },
+  "alfven_velocity": {
+    "name": "Alfvén Velocity",
+    "caption": "Named after physicist Hannes Alfvén, this equation describes the speed of magnetic waves in plasma—crucial for understanding solar flares, auroras, and fusion reactor behavior. Plasma physics gets wild!",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #plasma #magnetic #solar #aurora #fusion #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #space #waves #energy"
+  },
+  "ampere_law_v1": {
+    "name": "Ampère's Law (Version 1)",
+    "caption": "One of Maxwell's legendary equations! Ampère's Law connects electric currents to the magnetic fields they create. Without it, we'd have no motors, generators, or understanding of electromagnetism.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #electromagnetism #maxwells #electric #magnetic #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #electricity #technology #innovation"
+  },
+  "ampere_law_v2": {
+    "name": "Ampère's Law (Version 2)",
+    "caption": "The differential form of Ampère's Law reveals how magnetic fields curl around electric currents at every point in space. This is the mathematical language Maxwell used to unify electricity and magnetism.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #electromagnetism #maxwells #calculus #differential #research #theoreticalphysics #appliedmathematics #physicist #mathematician #nerd #geek #university #gradstudent #fields #currents"
+  },
+  "angular_frequency": {
+    "name": "Angular Frequency",
+    "caption": "Express oscillations in radians per second instead of cycles per second! Angular frequency ω simplifies the mathematics of waves, vibrations, and quantum systems. It's the natural unit for periodic motion.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #waves #oscillations #vibrations #quantum #research #theoreticalphysics #appliedmathematics #mathematician #nerd #geek #university #gradstudent #frequency #periodic #dynamics"
+  },
+  "angular_impulse": {
+    "name": "Angular Impulse",
+    "caption": "Just as force creates linear momentum, torque creates angular momentum through angular impulse. This principle explains why spinning ice skaters pull their arms in to spin faster—conservation of angular momentum at work!",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #mechanics #rotational #momentum #torque #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #dynamics #motion #rotation"
+  },
+  "angular_jerk": {
+    "name": "Angular Jerk",
+    "caption": "The third derivative of angle with respect to time! Angular jerk measures how rapidly angular acceleration changes, essential for understanding rigid body dynamics and robotic motion control. It's pure calculus in motion.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #calculus #derivatives #robotics #mechanics #research #theoreticalphysics #appliedmathematics #mathematician #nerd #geek #university #gradstudent #acceleration #dynamics #motion"
+  },
+  "angular_momentum_cross_product": {
+    "name": "Angular Momentum (Cross Product Form)",
+    "caption": "L = r × p: Angular momentum emerges from the cross product of position and momentum vectors. This vector quantity defines the amount of rotation in a system and is conserved in isolated systems.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #vectors #mechanics #rotational #momentum #research #theoreticalphysics #appliedmathematics #physicist #mathematician #nerd #geek #university #gradstudent #conservationlaws #dynamics"
+  },
+  "angular_momentum_rotational": {
+    "name": "Angular Momentum (Rotational Form)",
+    "caption": "L = Iω connects rotational inertia to angular velocity. Understand why compact spinning objects rotate faster—it's the rotational analog of F=ma, governing all spinning motion from atoms to galaxies.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #mechanics #rotational #inertia #dynamics #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #motion #conservation #angular"
+  },
+  "angular_velocity": {
+    "name": "Angular Velocity",
+    "caption": "How fast does something spin? Angular velocity ω measures rotation rate in radians per second. It's fundamental for understanding everything from planetary orbits to centrifuges to quantum mechanical angular momentum.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #mechanics #rotational #dynamics #orbits #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #motion #rotation #frequency"
+  },
+  "archimedes_principle": {
+    "name": "Archimedes' Principle",
+    "caption": "The buoyant force equals the weight of displaced fluid—an ancient insight that explains why ships float and hot air balloons rise. This principle has shaped engineering for over 2000 years!",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #buoyancy #fluids #forces #history #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #ancient #innovation #sciencefacts"
+  },
+  "arrhenius_equation": {
+    "name": "Arrhenius Equation",
+    "caption": "This exponential equation governs reaction rates and temperature dependence—tiny changes in temperature cause huge changes in reaction speed. Understanding it is key to chemistry, catalysis, and industrial processes.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #chemistry #kinetics #reactions #temperature #research #theoreticalphysics #appliedmathematics #chemist #nerd #geek #university #gradstudent #catalysis #exponential #rates"
+  },
+  "barometric_formula": {
+    "name": "Barometric Formula",
+    "caption": "Why does air get thinner as you climb? The barometric formula describes exponential pressure decay with altitude—explaining why mountaineers need oxygen at high elevations and why satellites eventually fall.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #atmosphere #pressure #exponential #altitude #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #air #gravity #environment"
+  },
+  "bekenstein_hawking_entropy": {
+    "name": "Bekenstein-Hawking Entropy",
+    "caption": "Black holes have entropy proportional to their surface area—mind-bending physics at the intersection of gravity and thermodynamics. This equation hints at deep connections between black holes and information theory.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #blackholes #entropy #thermodynamics #quantum #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #gravity #information #cosmology #sciencefacts"
+  },
+  "bernoulli_equation": {
+    "name": "Bernoulli's Equation",
+    "caption": "Energy conservation in flowing fluids! Bernoulli's equation explains why faster-flowing water has lower pressure—the principle behind airplane wings, carburetors, and water jets. Fluid dynamics masterpiece.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #fluids #aerodynamics #energy #flow #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #pressure #aircraft #innovation"
+  },
+  "bohr_model": {
+    "name": "Bohr Model Equation",
+    "caption": "Niels Bohr cracked the atomic code with this equation describing electron orbits in hydrogen. Though superseded by quantum mechanics, it beautifully shows how discrete energy levels arise from quantum rules.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #quantum #atoms #electrons #bohr #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #atomicphysics #energy #history #sciencefacts"
+  },
+  "boltzmann_distribution": {
+    "name": "Boltzmann Distribution",
+    "caption": "What fraction of molecules have energy E at temperature T? Boltzmann distribution answers this, governing everything from gas molecules to stellar atmospheres. It's the statistical foundation of thermodynamics.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #thermodynamics #statistical #probability #energy #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #temperature #molecules #exponential"
+  },
+  "boltzmann_entropy": {
+    "name": "Boltzmann Entropy",
+    "caption": "S = k ln(Ω): Entropy measures disorder through the logarithm of possible microstates. Boltzmann's insight connects microscopic randomness to macroscopic thermodynamics—one of physics' deepest ideas.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #entropy #thermodynamics #statistical #disorder #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #probability #information #sciencefacts"
+  },
+  "borda_carnot_equation": {
+    "name": "Borda-Carnot Equation",
+    "caption": "Energy loss in fluid flows strikes again! The Borda-Carnot equation quantifies head loss when flowing fluid encounters sudden area changes. Critical for designing pipelines, dams, and water treatment systems.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #fluids #hydraulics #energy #loss #research #appliedmathematics #engineer #nerd #geek #university #gradstudent #flow #pipes #infrastructure #sciencefacts"
+  },
+  "born_rule": {
+    "name": "Born Rule",
+    "caption": "The Born rule is quantum mechanics' interpretation—the probability of measuring outcome equals the squared amplitude of the wavefunction. It's how randomness enters our universe at the deepest level.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #quantum #probability #wavefunction #mechanics #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #interpretation #measurement #randomness #sciencefacts"
+  },
+  "capacitance": {
+    "name": "Capacitance",
+    "caption": "C = Q/V: How much charge can a capacitor store per volt? Capacitance is everywhere in electronics—from smartphone screens to power systems. This simple ratio defines a crucial electrical property.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #electronics #electricity #circuits #research #appliedmathematics #engineer #nerd #geek #university #gradstudent #technology #charge #voltage #sciencefacts #physicsnerds"
+  },
+  "capacitive_reactance": {
+    "name": "Capacitive Reactance",
+    "caption": "In AC circuits, capacitors resist current flow with frequency-dependent reactance Xc = 1/(ωC). Higher frequencies flow through easily while DC blocks completely—the foundation of AC circuit analysis and filter design.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #electronics #circuits #AC #frequency #research #appliedmathematics #engineer #nerd #geek #university #gradstudent #electricity #impedance #signals #sciencefacts"
+  },
+  "cauchy_momentum_equation_v1": {
+    "name": "Cauchy Momentum Equation (Version 1)",
+    "caption": "Newton's second law for fluids! This equation extends F=ma to continuous media, describing how pressure gradients and body forces accelerate fluid elements. It's foundational for computational fluid dynamics.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #fluids #mechanics #forces #momentum #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #dynamics #acceleration #cfd"
+  },
+  "cauchy_momentum_equation_v2": {
+    "name": "Cauchy Momentum Equation (Version 2)",
+    "caption": "The stress tensor form reveals internal forces in flowing fluids—how pressure and viscous forces combine to create motion. This equation runs every weather simulation and aerodynamic calculation.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #fluids #stress #tensor #dynamics #research #appliedmathematics #engineer #physicist #nerd #geek #university #gradstudent #simulation #weather #aerodynamics"
+  },
+  "centrifugal_force": {
+    "name": "Centrifugal Force",
+    "caption": "Feel the outward push in a spinning reference frame? Centrifugal force appears as a pseudo-force in rotating coordinates—useful for analyzing motion in carousels, hurricanes, and rotating machinery.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #mechanics #rotational #forces #reference #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #acceleration #rotation #frames"
+  },
+  "centripetal_acceleration": {
+    "name": "Centripetal Acceleration",
+    "caption": "Keep it together: a = v²/r is the inward acceleration needed to maintain circular motion. Whether it's gravity holding planets or friction keeping cars on curves, centripetal acceleration is always working.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #mechanics #circular #motion #acceleration #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #forces #orbits #curves"
+  },
+  "charles_law": {
+    "name": "Charles' Law",
+    "caption": "V/T = constant for gases at constant pressure: volume and temperature are proportional. This fundamental gas law explains why hot air rises and why tire pressure increases when heated.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #thermodynamics #gases #temperature #pressure #research #theoreticalphysics #appliedmathematics #chemist #nerd #geek #university #gradstudent #volume #laws #properties"
+  },
+  "continuity_equation": {
+    "name": "Continuity Equation",
+    "caption": "Matter can't vanish: ∂ρ/∂t + ∇·(ρv) = 0 expresses conservation of mass in fluid flow. Faster flows in narrow pipes is a direct consequence—what goes in must come out!",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #fluids #conservation #mass #flow #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #dynamics #density #velocity"
+  },
+  "coulombs_law": {
+    "name": "Coulomb's Law",
+    "caption": "The electrostatic force between charges: F = kq₁q₂/r². This inverse-square law governs atomic forces, chemical bonding, and the entire electromagnetic framework. Elegant, powerful, foundational.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #electromagnetism #electricity #forces #charges #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #interaction #atoms #bonding"
+  },
+  "crackle_fifth_derivative": {
+    "name": "Crackle (Fifth Derivative)",
+    "caption": "Beyond jerk comes crackle—the fifth time derivative of position! While rarely used in physics, it appears in high-precision trajectory planning and demonstrates the beauty of calculus's higher derivatives.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #calculus #derivatives #kinematics #research #theoreticalphysics #appliedmathematics #mathematician #nerd #geek #university #gradstudent #analysis #motion #computation #sciencefacts"
+  },
+  "dalembert_operator": {
+    "name": "d'Alembert Operator",
+    "caption": "The wave operator ∂²/∂t² - c²∇² unifies spacetime in relativity! Also called the d'Alembertian, it describes how waves propagate through space and time with universal speed c.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #relativity #waves #spacetime #light #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #fields #operators #quantum"
+  },
+  "daltons_law": {
+    "name": "Dalton's Law",
+    "caption": "Total pressure = sum of partial pressures in gas mixtures! Dalton's law of partial pressures explains atmosphere composition and enables scuba diving calculations. Simple but profoundly useful.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #gases #pressure #mixtures #atmosphere #research #theoreticalphysics #appliedmathematics #chemist #nerd #geek #university #gradstudent #composition #properties #diving"
+  },
+  "darcy_law": {
+    "name": "Darcy's Law",
+    "caption": "Flow through porous media: Q = -KA(dh/dx) governs groundwater movement, soil drainage, and filtration. Darcy's law explains why some soils stay wet while others drain quickly.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #hydrology #fluids #porous #soil #research #appliedmathematics #engineer #geologist #nerd #geek #university #gradstudent #water #flow #permeability"
+  },
+  "darcy_weisbach_equation": {
+    "name": "Darcy-Weisbach Equation",
+    "caption": "Friction loss in pipes: hf = f(L/D)(V²/2g) calculates pressure drop in fluid flow. Essential for pipeline design, engineers use this daily to size pumps and predict flow rates.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #fluids #friction #pipes #research #appliedmathematics #engineer #nerd #geek #university #gradstudent #flow #hydraulics #infrastructure #sciencefacts #physicsnerds"
+  },
+  "de_broglie_relation": {
+    "name": "de Broglie Relation",
+    "caption": "λ = h/p: Matter has wavelength! de Broglie's insight revolutionized physics—electrons, atoms, and molecules exhibit wave behavior. This bridges the quantum and classical worlds fundamentally.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #quantum #waves #matter #wavelength #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #duality #particles #planck #sciencefacts"
+  },
+  "digamma_function": {
+    "name": "Digamma Function",
+    "caption": "The logarithmic derivative of the gamma function, the digamma function appears in complex analysis, statistics, and quantum field theory. Pure mathematical elegance underlying physics.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #functions #analysis #quantum #research #theoreticalphysics #appliedmathematics #mathematician #nerd #geek #university #gradstudent #calculus #special #sciencefacts #physicsnerds"
+  },
+  "distance_modulus": {
+    "name": "Distance Modulus",
+    "caption": "Astronomers measure cosmic distances using the distance modulus relating apparent and absolute magnitude! This equation connects observations of distant supernovae to universe expansion and dark energy.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #astronomy #cosmology #distance #magnitude #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #universe #stars #light #sciencefacts"
+  },
+  "doppler_effect": {
+    "name": "Doppler Effect",
+    "caption": "Observer motion changes observed frequency—sirens pitch-shift as they pass, light from moving stars shifts red or blue. The Doppler effect reveals motion in the universe and powers velocity measurements.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #waves #sound #light #motion #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #frequency #velocity #redshift"
+  },
+  "drag_equation": {
+    "name": "Drag Equation",
+    "caption": "F_drag = 0.5ρv²ACD: Air resistance rises with the square of velocity! This equation explains why skydivers reach terminal velocity and why aerodynamic design matters for speed and efficiency.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #fluids #aerodynamics #forces #velocity #research #appliedmathematics #engineer #physicist #nerd #geek #university #gradstudent #resistance #design #sports"
+  },
+  "drift_velocity": {
+    "name": "Drift Velocity",
+    "caption": "Electrons in wires move surprisingly slowly—millimeters per second! Despite this, electrical signals propagate near light speed due to field effects. Drift velocity reconciles everyday electricity with physics.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #electricity #electrons #circuits #velocity #research #appliedmathematics #engineer #physicist #nerd #geek #university #gradstudent #current #fields #propagation"
+  },
+  "einstein_field_equations_no_lambda_v1": {
+    "name": "Einstein Field Equations (No Lambda, Version 1)",
+    "caption": "Gμν = 8πGTμν: Einstein's masterpiece relates spacetime curvature to mass-energy distribution. Without dark energy, this equation describes gravity and the universe's large-scale structure.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #relativity #gravity #spacetime #cosmology #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #einstein #fields #universe #sciencefacts"
+  },
+  "einstein_field_equations_no_lambda_v2": {
+    "name": "Einstein Field Equations (No Lambda, Version 2)",
+    "caption": "Different notation, same revolutionary insight: gravity emerges from curved spacetime! Einstein's equations are nature's blueprint, explaining black holes, gravitational waves, and the universe's fate.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #relativity #gravity #spacetime #fields #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #einstein #curvature #dynamics #sciencefacts"
+  },
+  "einstein_field_equations_with_lambda_v1": {
+    "name": "Einstein Field Equations (With Lambda, Version 1)",
+    "caption": "Add the cosmological constant Λ, and suddenly dark energy appears! Modern cosmology hinges on this term—explaining the accelerating expansion of our universe and its eventual heat death.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #cosmology #darkenergy #universe #expansion #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #spacetime #relativity #gravity #sciencefacts"
+  },
+  "einstein_field_equations_with_lambda_v2": {
+    "name": "Einstein Field Equations (With Lambda, Version 2)",
+    "caption": "The universe's ultimate fate rests on this one constant! The cosmological constant Λ drives acceleration, and understanding it might be the key to unifying quantum mechanics and gravity.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #cosmology #gravity #universe #expansion #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #einstein #dark #mysteries #sciencefacts"
+  },
+  "einstein_relation_diffusion": {
+    "name": "Einstein Relation (Diffusion)",
+    "caption": "D = kT/6πηr connects diffusion coefficient to molecular properties! Einstein showed random molecular motion leads to diffusion—a bridge between Brownian motion and thermodynamics.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #diffusion #statistical #brownian #molecules #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #temperature #viscosity #mobility"
+  },
+  "electrical_power": {
+    "name": "Electrical Power",
+    "caption": "P = IV = I²R = V²/R: Multiple forms of one fundamental equation describing power dissipation in circuits. Understanding this equation is crucial for electronics, power systems, and energy efficiency.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #electricity #power #circuits #research #appliedmathematics #engineer #nerd #geek #university #gradstudent #energy #technology #efficiency #sciencefacts #physicsnerds"
+  },
+  "energy_momentum_relation": {
+    "name": "Energy-Momentum Relation",
+    "caption": "E² = (pc)² + (mc²)²: The relativistic relation between energy and momentum reveals rest mass energy mc²! Without this, there's no understanding of particle physics or nuclear power.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #relativity #energy #particles #quantum #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #mass #momentum #light #sciencefacts"
+  },
+  "enthalpy": {
+    "name": "Enthalpy",
+    "caption": "H = U + PV: Enthalpy measures the total heat content of a system at constant pressure. Chemical reactions are described by enthalpy changes, making this crucial for chemistry and thermodynamics.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #thermodynamics #chemistry #energy #heat #research #appliedmathematics #chemist #physicist #nerd #geek #university #gradstudent #reactions #pressure #systems"
+  },
+  "escape_velocity": {
+    "name": "Escape Velocity",
+    "caption": "v = √(2GM/r): The minimum speed needed to escape a celestial body's gravity. This equation explains why Earth's escape velocity is 11 km/s while the Moon's is just 2.4 km/s.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #gravity #space #velocity #planets #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #rockets #orbits #celestial #sciencefacts"
+  },
+  "eulers_formula": {
+    "name": "Euler's Formula",
+    "caption": "e^(iπ) + 1 = 0: Perhaps mathematics' most beautiful equation! This connects five fundamental constants in one elegant relation, appearing throughout physics, engineering, and pure mathematics.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #euler #exponential #complex #research #theoreticalphysics #appliedmathematics #mathematician #nerd #geek #university #gradstudent #analysis #constants #beautiful #sciencefacts"
+  },
+  "eulers_identity": {
+    "name": "Euler's Identity",
+    "caption": "e^(iθ) = cos(θ) + i·sin(θ): This identity reveals the deep connection between exponentials and trigonometric functions—foundational for complex analysis, Fourier transforms, and quantum mechanics.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #euler #complex #trigonometry #research #theoreticalphysics #appliedmathematics #mathematician #nerd #geek #university #gradstudent #analysis #waves #quantum #sciencefacts"
+  },
+  "eyring_equation": {
+    "name": "Eyring Equation",
+    "caption": "Eyring's absolute reaction rate theory provides an alternative to Arrhenius for chemical kinetics. It incorporates quantum mechanics and transition state theory—more sophisticated and physically revealing.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #chemistry #kinetics #quantum #reactions #research #appliedmathematics #chemist #physicist #nerd #geek #university #gradstudent #rate #mechanisms #theory"
+  },
+  "faradays_law_v1": {
+    "name": "Faraday's Law (Version 1)",
+    "caption": "Changing magnetic flux induces electric fields! Faraday's law powers electric generators, transformers, and induction cooktops. It's one of Maxwell's four pillars of electromagnetism.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #electromagnetism #faraday #induction #magnetic #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #electricity #fields #generators"
+  },
+  "faradays_law_v2": {
+    "name": "Faraday's Law (Version 2)",
+    "caption": "The integral form reveals magnetic flux through loops induces circulating electric fields. This understanding enables wireless power, MRI machines, and transformers worldwide.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #electromagnetism #induction #flux #fields #research #theoreticalphysics #appliedmathematics #engineer #physicist #nerd #geek #university #gradstudent #electricity #technology"
+  },
+  "fick_first_law": {
+    "name": "Fick's First Law",
+    "caption": "Diffusion flux is proportional to concentration gradient: J = -D∇C. Fick's elegant law describes spreading of perfume, heat conduction analog, and molecular motion fundamentals.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #diffusion #concentration #transport #molecules #research #appliedmathematics #chemist #physicist #nerd #geek #university #gradstudent #gradients #flow #mechanisms"
+  },
+  "fick_second_law": {
+    "name": "Fick's Second Law",
+    "caption": "∂C/∂t = D∇²C describes how concentration evolves—the diffusion equation! Used everywhere from semiconductor processing to pollutant dispersion, it's fundamental to transport phenomena.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #diffusion #transport #pde #concentration #research #appliedmathematics #engineer #chemist #nerd #geek #university #gradstudent #kinetics #simulation #evolution"
+  },
+  "first_law_thermodynamics_v1": {
+    "name": "First Law of Thermodynamics (Version 1)",
+    "caption": "ΔU = Q - W: Energy conservation in thermodynamic form! Internal energy change equals heat added minus work done. This law explains why perpetual motion machines are impossible.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #thermodynamics #energy #conservation #laws #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #heat #work #entropy"
+  },
+  "first_law_thermodynamics_v2": {
+    "name": "First Law of Thermodynamics (Version 2)",
+    "caption": "dU = δQ - δW: The differential form emphasizes infinitesimal energy changes. This microscopic perspective connects thermodynamics to statistical mechanics and molecular motion.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #thermodynamics #calculus #energy #statistical #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #conservation #fundamental #laws"
+  },
+  "fouriers_law": {
+    "name": "Fourier's Law",
+    "caption": "Heat flow is proportional to temperature gradient: q = -k∇T. Fourier's law governs heat conduction in buildings, electronics cooling, and explains why metal spoons burn your hand.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #heat #thermodynamics #conduction #temperature #research #appliedmathematics #engineer #physicist #nerd #geek #university #gradstudent #gradient #thermal #transport"
+  },
+  "free_fall_equation": {
+    "name": "Free Fall Equation",
+    "caption": "h = 0.5gt²: Objects accelerate downward at g regardless of mass! Galileo's insight that all objects fall equally revolutionized physics and led to the principle of equivalence.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #mechanics #gravity #kinematics #acceleration #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #galileo #motion #projectiles #sciencefacts"
+  },
+  "gamma_function": {
+    "name": "Gamma Function",
+    "caption": "Γ(n) = (n-1)! for integers, extended to all complex numbers: the gamma function generalizes factorials! It appears in probability distributions, quantum field theory, and special functions.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #functions #special #analysis #research #theoreticalphysics #appliedmathematics #mathematician #nerd #geek #university #gradstudent #calculus #probability #quantum #sciencefacts"
+  },
+  "gauss_law_electricity_integral": {
+    "name": "Gauss' Law - Electricity (Integral Form)",
+    "caption": "Electrical flux through a closed surface equals enclosed charge divided by ε₀. Gauss' law simplifies calculations of electric fields—one of Maxwell's four fundamental equations.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #electromagnetism #gauss #flux #electric #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #fields #charges #maxwells"
+  },
+  "gauss_law_electricity_v1": {
+    "name": "Gauss' Law - Electricity (Version 1)",
+    "caption": "∇·E = ρ/ε₀: The divergence of electric field is proportional to charge density. This differential form reveals how charges create electric fields locally, point by point.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #electromagnetism #electric #divergence #fields #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #calculus #charge #density"
+  },
+  "gauss_law_electricity_v2": {
+    "name": "Gauss' Law - Electricity (Version 2)",
+    "caption": "Different notation, same profound insight: electric field source is electric charge. This equation underlies everything from atomic structure to capacitors to atmospheric electricity.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #electromagnetism #electric #fields #charges #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #maxwells #divergence #atoms"
+  },
+  "gauss_law_electricity_v3": {
+    "name": "Gauss' Law - Electricity (Version 3)",
+    "caption": "Yet another form of Gauss' law showing charge distribution creates electric potential. No matter which form, the underlying physics remains: charges are sources of electric fields.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #electromagnetism #electric #potential #charges #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #fields #poisson #gauss"
+  },
+  "gauss_law_gravity_v1": {
+    "name": "Gauss' Law - Gravity (Version 1)",
+    "caption": "Gravitational analog to electric Gauss' law: gravitational flux equals enclosed mass. This elegant formulation shows gravity and electromagnetism share deep mathematical structure.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #gravity #gauss #flux #mass #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #fields #analogy #sciencefacts"
+  },
+  "gauss_law_gravity_v2": {
+    "name": "Gauss' Law - Gravity (Version 2)",
+    "caption": "∇·g = 4πGρ: The divergence of gravitational field is proportional to mass density. This differential form enables calculating gravitational fields from any mass distribution.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #gravity #divergence #fields #mass #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #calculus #planets #structures"
+  },
+  "gauss_law_gravity_v3": {
+    "name": "Gauss' Law - Gravity (Version 3)",
+    "caption": "The gravitational potential form reveals gravitational fields arise from mass distributions. Understanding this enables calculating orbits, tidal forces, and structure formation in the universe.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #gravity #potential #mass #fields #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #orbits #tides #cosmology"
+  },
+  "gauss_law_magnetism_differential_v1": {
+    "name": "Gauss' Law - Magnetism (Differential, Version 1)",
+    "caption": "∇·B = 0: Magnetic field divergence is zero everywhere—no magnetic monopoles exist in nature! This asymmetry between electricity and magnetism hints at deeper physics.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #magnetism #divergence #fields #maxwells #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #monopoles #particles #symmetry"
+  },
+  "gauss_law_magnetism_differential_v2": {
+    "name": "Gauss' Law - Magnetism (Differential, Version 2)",
+    "caption": "No magnetic charges anywhere: magnetic field lines form closed loops with no beginning or end. This conservation of magnetic flux underpins electromagnetic phenomena throughout nature.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #magnetism #fields #conservation #divergence #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #topology #maxwells #flux"
+  },
+  "gauss_law_magnetism_integral": {
+    "name": "Gauss' Law - Magnetism (Integral Form)",
+    "caption": "Magnetic flux through any closed surface equals zero—direct consequence of no monopoles. This constraint shapes magnetic field topologies and enables magnetic confinement in fusion reactors.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #magnetism #flux #fields #maxwells #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #conservation #topology #fusion"
+  },
+  "gravitational_force_v1": {
+    "name": "Gravitational Force (Version 1)",
+    "caption": "F = GMm/r²: Newton's inverse-square law of gravity! Two masses attract proportionally to their product and inversely to distance squared. It explained planetary orbits and changed science forever.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #gravity #newton #forces #orbits #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #planets #space #history"
+  },
+  "gravitational_force_v2": {
+    "name": "Gravitational Force (Version 2)",
+    "caption": "From Newton's law comes the gravitational field and potential energy. This formulation connects forces to fields, laying groundwork for Einstein's geometric interpretation of gravity.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #gravity #fields #forces #potential #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #energy #newton #einstein"
+  },
+  "gyroscopic_precession": {
+    "name": "Gyroscopic Precession",
+    "caption": "Spinning objects precess when a torque is applied perpendicular to their spin axis! Gyroscopes stabilize bicycles and spacecraft—angular momentum's resistance to change in action.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #mechanics #rotational #angular #torque #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #momentum #dynamics #stability"
+  },
+  "hagen_poiseuille_equation": {
+    "name": "Hagen-Poiseuille Equation",
+    "caption": "Flow rate through a pipe depends on the fourth power of radius! Q = πr⁴ΔP/(8ηL) explains why arteries need larger diameters for adequate blood flow and why pipelines require specific dimensions.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #fluids #viscosity #flow #pipes #research #appliedmathematics #engineer #physicist #nerd #geek #university #gradstudent #biology #medicine #hydraulics"
+  },
+  "half_life": {
+    "name": "Half-Life",
+    "caption": "Radioactive nuclei decay exponentially with characteristic half-life—time for half to decay. Half-life enables radiometric dating of ancient samples and medical applications of isotopes.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #nuclear #radioactivity #exponential #decay #research #appliedmathematics #physicist #nerd #geek #university #gradstudent #dating #medicine #atoms #sciencefacts"
+  },
+  "half_life_copy": {
+    "name": "Half-Life (Second Form)",
+    "caption": "The exponential decay form reveals how quickly radioactive material reduces to half its initial amount. Applications range from carbon dating archaeology to medical imaging.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #nuclear #decay #exponential #time #research #appliedmathematics #physicist #nerd #geek #university #gradstudent #radioactive #applications #medicine #sciencefacts"
+  },
+  "harish_chandra_formula": {
+    "name": "Harish-Chandra Formula",
+    "caption": "Advanced representation theory formula appearing in quantum field theory and high-energy physics. This formula connects group theory to particle physics calculations—abstract mathematics meets experiment.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #quantum #grouptheory #particles #representation #research #theoreticalphysics #mathematician #physicist #nerd #geek #university #gradstudent #abstract #symmetry #advanced"
+  },
+  "hawking_temperature": {
+    "name": "Hawking Temperature",
+    "caption": "Black holes aren't black—they emit radiation with temperature inversely proportional to mass! Hawking's discovery fundamentally changed black hole physics and united gravity with quantum mechanics.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #blackholes #quantum #temperature #radiation #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #hawking #gravity #thermodynamics #sciencefacts"
+  },
+  "heisenberg_uncertainty_energy_time": {
+    "name": "Heisenberg Uncertainty - Energy/Time",
+    "caption": "ΔE·Δt ≥ ℏ/2: You cannot simultaneously know exact energy and exact time of measurement! This uncertainty principle underlies quantum mechanics—nature's fundamental limit on precision.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #quantum #uncertainty #heisenberg #energy #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #fundamental #measurement #time #sciencefacts"
+  },
+  "heisenberg_uncertainty_position_momentum": {
+    "name": "Heisenberg Uncertainty - Position/Momentum",
+    "caption": "Δx·Δp ≥ ℏ/2: More precisely you know position, less you know momentum and vice versa. This trade-off is quantum mechanics' most famous uncertainty—it's not measurement error but nature itself!",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #quantum #uncertainty #heisenberg #fundamental #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #measurement #waves #particles #sciencefacts"
+  },
+  "helmholtz_free_energy_v1": {
+    "name": "Helmholtz Free Energy (Version 1)",
+    "caption": "F = U - TS: At constant temperature and volume, free energy decreases as reactions proceed. Helmholtz free energy is crucial for chemical equilibrium and thermodynamic predictions.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #thermodynamics #energy #entropy #chemistry #research #appliedmathematics #chemist #physicist #nerd #geek #university #gradstudent #equilibrium #reactions #systems"
+  },
+  "helmholtz_free_energy_v2": {
+    "name": "Helmholtz Free Energy (Version 2)",
+    "caption": "The differential form dF = -SdT - PdV connects entropy, temperature, pressure, and volume. This reveals thermodynamic relationships for systems at constant temperature.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #thermodynamics #free #energy #differential #research #appliedmathematics #chemist #physicist #nerd #geek #university #gradstudent #potentials #systems #equilibrium"
+  },
+  "hookes_law": {
+    "name": "Hooke's Law",
+    "caption": "F = -kx: Force on a spring is proportional to displacement! Hooke's law explains elastic behavior of springs, rubber bands, and materials—fundamental to mechanical engineering and physics.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #mechanics #elasticity #springs #forces #research #appliedmathematics #engineer #physicist #nerd #geek #university #gradstudent #materials #harmonic #oscillations"
+  },
+  "ideal_gas_law": {
+    "name": "Ideal Gas Law",
+    "caption": "PV = nRT: The most important equation in chemistry and thermodynamics! This relates pressure, volume, temperature, and amount of gas—explaining behavior of air, ideal gases, and more.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #gases #thermodynamics #chemistry #pressure #research #appliedmathematics #chemist #physicist #nerd #geek #university #gradstudent #temperature #volume #molecules"
+  },
+  "impulse_v1": {
+    "name": "Impulse (Version 1)",
+    "caption": "Impulse J = F·Δt equals change in momentum. A force applied for longer creates more impulse—explaining why airbags save lives by extending collision time.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #mechanics #momentum #forces #time #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #collisions #conservation #dynamics"
+  },
+  "impulse_v2": {
+    "name": "Impulse (Version 2)",
+    "caption": "The integral form J = ∫F dt reveals impulse as accumulated force over time. Rockets, explosions, and sports involve impulse—understanding it is key to controlling motion.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #mechanics #integral #momentum #forces #research #appliedmathematics #engineer #physicist #nerd #geek #university #gradstudent #dynamics #calculus #applications"
+  },
+  "jurin_law_capillary_rise": {
+    "name": "Jurin's Law - Capillary Rise",
+    "caption": "h = 2σcosθ/(ρgr): Capillary rise height depends on surface tension and tube radius! Jurin's law explains why water climbs narrow tubes and how plants transport water via capillary action.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #surface #tension #fluids #capillary #research #appliedmathematics #physicist #engineer #nerd #geek #university #gradstudent #biology #water #molecules"
+  },
+  "kepler_third_law": {
+    "name": "Kepler's Third Law",
+    "caption": "T² ∝ a³: Orbital period squared is proportional to semi-major axis cubed! Kepler's elegant law describes planetary orbits and enabled Newton to derive his gravity law.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #orbits #gravity #planets #kepler #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #astronomy #space #history #sciencefacts"
+  },
+  "kinetic_energy": {
+    "name": "Kinetic Energy",
+    "caption": "KE = 0.5mv²: Moving objects possess kinetic energy proportional to mass and velocity squared. This fundamental form of energy powers everything from molecules to galaxies.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #energy #mechanics #motion #velocity #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #work #dynamics #conservation"
+  },
+  "kronecker_delta": {
+    "name": "Kronecker Delta",
+    "caption": "δij = 1 if i=j, else 0: This simple but powerful function appears throughout mathematics, physics, and engineering for index calculations and orthogonality conditions.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #delta #function #index #research #theoreticalphysics #appliedmathematics #mathematician #nerd #geek #university #gradstudent #linear #algebra #orthogonal #sciencefacts"
+  },
+  "lane_emden_equation": {
+    "name": "Lane-Emden Equation",
+    "caption": "This differential equation describes the structure of self-gravitating, polytropic spheres like stars! The Lane-Emden equation is fundamental to stellar structure theory and astrophysics.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #astrophysics #stars #gravity #structure #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #differential #stellar #polytrope"
+  },
+  "langevin_equation": {
+    "name": "Langevin Equation",
+    "caption": "m(dv/dt) = F - γv + f(t): This stochastic differential equation describes Brownian motion, friction, and random forces! Essential for understanding molecular dynamics and statistical mechanics.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #brownian #stochastic #molecular #dynamics #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #random #friction #statistical"
+  },
+  "laplace_equation_v1": {
+    "name": "Laplace's Equation (Version 1)",
+    "caption": "∇²φ = 0: Laplace's equation describes steady-state potential fields with no sources. It appears in electrostatics, gravity, and heat flow—one of physics' most important PDEs.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #pde #laplace #potential #fields #research #appliedmathematics #mathematician #physicist #nerd #geek #university #gradstudent #divergence #boundary #elliptic"
+  },
+  "laplace_equation_v2": {
+    "name": "Laplace's Equation (Version 2)",
+    "caption": "Different notation, same powerful equation: Laplacian of potential vanishes everywhere. Solving Laplace's equation with boundary conditions unlocks countless physics problems.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #pde #harmonic #potential #fields #research #appliedmathematics #mathematician #physicist #nerd #geek #university #gradstudent #electrostatics #gravity #heat"
+  },
+  "laplace_transform": {
+    "name": "Laplace Transform",
+    "caption": "F(s) = ∫₀^∞ e^(-st) f(t) dt: The Laplace transform converts differential equations to algebraic form! Indispensable for control theory, electrical engineering, and solving ODEs.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #transforms #calculus #differential #signal #research #appliedmathematics #engineer #mathematician #nerd #geek #university #gradstudent #control #analysis #sciencefacts"
+  },
+  "lorentz_force_v1": {
+    "name": "Lorentz Force (Version 1)",
+    "caption": "F = q(E + v × B): Charged particles experience forces from electric and magnetic fields! The Lorentz force governs particle motion in plasma, accelerators, and magnetospheres.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #electromagnetism #forces #fields #particles #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #energy #charge #motion"
+  },
+  "lorentz_force_v2": {
+    "name": "Lorentz Force (Version 2)",
+    "caption": "The field form reveals how electromagnetic fields create forces on charged particles. Lorentz force is the bridge connecting field theory to particle dynamics.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #electromagnetism #fields #particles #forces #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #charge #motion #sciencefacts"
+  },
+  "luminosity_v1": {
+    "name": "Luminosity (Version 1)",
+    "caption": "L = 4πr²F: Luminosity is the total power radiated by a star, calculated from flux and distance! Understanding stellar luminosity unlocks the HR diagram and stellar evolution.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #astronomy #stars #power #light #research #theoreticalphysics #astrophysicist #nerd #geek #university #gradstudent #radiation #energy #stellar #sciencefacts"
+  },
+  "luminosity_v2": {
+    "name": "Luminosity (Version 2)",
+    "caption": "Different forms relate luminosity to intrinsic star properties and observed brightness. Measuring luminosity distances to supernovae revealed the universe's accelerating expansion!",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #cosmology #distance #universe #expansion #research #theoreticalphysics #astrophysicist #nerd #geek #university #gradstudent #supernovae #measurement #sciencefacts #physicsnerds"
+  },
+  "majorana_equation": {
+    "name": "Majorana Equation",
+    "caption": "Describing massive neutrinos and exotic particles, the Majorana equation is a fundamental equation in quantum field theory. It predicts particles that are their own antiparticles!",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #quantum #particles #neutrinos #relativistic #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #fieldtheory #exotic #symmetry #sciencefacts"
+  },
+  "malus_law": {
+    "name": "Malus' Law",
+    "caption": "I = I₀cos²θ: Intensity of polarized light through a polarizer depends on angle squared! Malus' law explains sunglasses, LCD screens, and quantum measurement foundations.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #optics #light #polarization #quantum #research #appliedmathematics #physicist #nerd #geek #university #gradstudent #measurement #waves #intensity #sciencefacts"
+  },
+  "mass_energy_equivalence": {
+    "name": "Mass-Energy Equivalence",
+    "caption": "E = mc²: Energy and mass are interchangeable! Einstein's most famous equation unified matter and energy, explaining nuclear power, particle creation, and the universe's evolution.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #relativity #einstein #energy #mass #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #nuclear #particles #fundamental #sciencefacts"
+  },
+  "moment_of_inertia": {
+    "name": "Moment of Inertia",
+    "caption": "I = ∫r²dm: Moment of inertia measures how mass is distributed relative to a rotation axis. It's the rotational analog of mass in Newton's second law for rotations.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #mechanics #rotational #inertia #mass #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #angular #dynamics #distribution"
+  },
+  "newton_law_viscosity": {
+    "name": "Newton's Law of Viscosity",
+    "caption": "Shear stress is proportional to strain rate: τ = μ(du/dy). This law defines Newtonian fluids and enables calculating viscous forces in pipe flow, lubrication, and blood flow.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #fluids #viscosity #stress #forces #research #appliedmathematics #engineer #physicist #nerd #geek #university #gradstudent #flow #shear #friction"
+  },
+  "partition_function": {
+    "name": "Partition Function",
+    "caption": "Z = Σe^(-βEᵢ): The partition function encodes all statistical information about a system! From it, you can derive energy, entropy, and all thermodynamic properties.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #statistical #thermodynamics #quantum #energy #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #mechanics #probability #systems"
+  },
+  "photoelectric_effect": {
+    "name": "Photoelectric Effect",
+    "caption": "E = hf: Light hits metal and ejects electrons—energy comes in photons! Einstein's explanation of the photoelectric effect won him the Nobel Prize and launched quantum mechanics.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #quantum #light #photons #planck #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #einstein #energy #electrons #sciencefacts"
+  },
+  "photon_energy": {
+    "name": "Photon Energy",
+    "caption": "E = hf = hc/λ: Photon energy depends on frequency or inversely on wavelength! This equation connects particle properties (energy) to wave properties (frequency).",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #light #photons #quantum #waves #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #planck #frequency #wavelength #sciencefacts"
+  },
+  "poisson_equation_v1": {
+    "name": "Poisson's Equation (Version 1)",
+    "caption": "∇²φ = ρ: Poisson's equation extends Laplace's with source terms! It governs electrostatic potential from charge distribution and gravitational potential from mass.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #pde #poisson #potential #sources #research #appliedmathematics #mathematician #physicist #nerd #geek #university #gradstudent #elliptic #boundary #fields"
+  },
+  "poisson_equation_v2": {
+    "name": "Poisson's Equation (Version 2)",
+    "caption": "Different form, same fundamental equation linking Laplacian to source: Poisson's equation is essential for electrostatics and gravity calculations with localized sources.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #pde #differential #potential #charge #research #appliedmathematics #mathematician #physicist #nerd #geek #university #gradstudent #gravity #sources #fields"
+  },
+  "pop_sixth_derivative": {
+    "name": "Pop (Sixth Derivative)",
+    "caption": "Pop is the sixth time derivative of position—beyond crackle! While rarely used in physics, higher derivatives showcase calculus' power and appear in robotics and advanced control systems.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #calculus #derivatives #analysis #research #theoreticalphysics #appliedmathematics #mathematician #nerd #geek #university #gradstudent #kinematics #control #advanced #sciencefacts"
+  },
+  "potential_flow": {
+    "name": "Potential Flow",
+    "caption": "Flow where velocity is the gradient of a potential: v = ∇φ. Potential flow simplifies fluid dynamics calculations and works well for inviscid, irrotational flows.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #fluids #flow #velocity #potential #research #appliedmathematics #engineer #physicist #nerd #geek #university #gradstudent #aerodynamics #streamfunction #circulation"
+  },
+  "poynting_vector": {
+    "name": "Poynting Vector",
+    "caption": "S = E × B: The Poynting vector describes electromagnetic energy flux and direction! It shows how energy flows with electromagnetic waves—crucial for understanding light and radio.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #electromagnetism #energy #waves #light #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #fields #radiation #power"
+  },
+  "pressure_head": {
+    "name": "Pressure Head",
+    "caption": "h = P/(ρg): Pressure converted to equivalent height of fluid column! Pressure head is useful for visualizing pressure in pipes and understanding hydraulic systems.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #fluids #pressure #hydraulics #height #research #appliedmathematics #engineer #physicist #nerd #geek #university #gradstudent #gravity #water #systems"
+  },
+  "prony_equation": {
+    "name": "Prony Equation",
+    "caption": "Ancient formula for estimating pipe friction: Prony's equation predates Darcy-Weisbach! Though largely superseded, it represents early engineering science connecting experiments to equations.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #history #friction #pipes #research #appliedmathematics #engineer #physicist #nerd #geek #university #gradstudent #fluids #historical #empirical #sciencefacts"
+  },
+  "pythagorean_theorem": {
+    "name": "Pythagorean Theorem",
+    "caption": "a² + b² = c²: The foundation of geometry for 2500 years! This theorem enables calculating distances, designing buildings, and is essential for physics from vectors to relativity.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #geometry #basics #vectors #research #theoreticalphysics #appliedmathematics #mathematician #nerd #geek #university #gradstudent #ancient #fundamental #euclidean #sciencefacts"
+  },
+  "quadratic_formula_v1": {
+    "name": "Quadratic Formula (Version 1)",
+    "caption": "x = (-b ± √(b²-4ac)) / 2a: The most famous formula for solving quadratics! Essential tool in algebra, physics, and engineering for decades of students worldwide.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #algebra #solutions #roots #research #appliedmathematics #mathematician #nerd #geek #university #gradstudent #polynomial #fundamental #solver #sciencefacts #physicsnerds"
+  },
+  "quadratic_formula_v2": {
+    "name": "Quadratic Formula (Version 2)",
+    "caption": "Different forms of the same formula emphasize different mathematical aspects. The quadratic formula's elegance inspired generations of mathematicians and physicists.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #algebra #polynomial #solutions #research #appliedmathematics #mathematician #nerd #geek #university #gradstudent #formula #elegant #fundamental #sciencefacts #physicsnerds"
+  },
+  "quantum_momentum_operator": {
+    "name": "Quantum Momentum Operator",
+    "caption": "p̂ = -iℏ∇: The momentum operator in quantum mechanics lets you find particle momentum from the wavefunction! It's the foundation of quantum dynamics and the Schrödinger equation.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #quantum #operators #mechanics #momentum #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #wavefunction #observables #derivatives #sciencefacts"
+  },
+  "rayleigh_criterion": {
+    "name": "Rayleigh Criterion",
+    "caption": "θ = 1.22λ/D: Minimum angular separation to resolve two point sources depends on wavelength and aperture! The Rayleigh criterion limits telescope resolution and optical imaging.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #optics #resolution #diffraction #light #research #appliedmathematics #physicist #engineer #nerd #geek #university #gradstudent #telescopes #wavelength #aperture"
+  },
+  "rayleigh_jeans_law": {
+    "name": "Rayleigh-Jeans Law",
+    "caption": "Classical prediction for blackbody radiation—it fails catastrophically at high frequencies! The ultraviolet catastrophe drove Planck to quantum mechanics and changed physics forever.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #quantum #radiation #blackbody #history #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #planck #wavelength #classical #sciencefacts"
+  },
+  "redshift_equation": {
+    "name": "Redshift Equation",
+    "caption": "z = Δλ/λ: Cosmological redshift measures how much wavelengths stretched from expanding universe! Hubble's observations of redshift revealed the universe expands and led to the Big Bang.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #cosmology #universe #expansion #light #research #theoreticalphysics #astrophysicist #nerd #geek #university #gradstudent #doppler #wavelength #hubble #sciencefacts"
+  },
+  "riemann_silberstein_vector": {
+    "name": "Riemann-Silberstein Vector",
+    "caption": "Advanced electromagnetic theory construct combining electric and magnetic fields into a complex vector! Used in modern quantum optics and exotic light-matter interactions.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #optics #quantum #fields #complex #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #vector #electromagnetic #advanced #sciencefacts"
+  },
+  "riemann_zeta_function_v1": {
+    "name": "Riemann Zeta Function (Version 1)",
+    "caption": "ζ(s) = Σ(1/n^s) from n=1 to ∞: This function connects prime numbers to physics! The Riemann Hypothesis about its zeros might be the deepest unsolved problem in mathematics.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #primes #analysis #special #research #theoreticalphysics #appliedmathematics #mathematician #nerd #geek #university #gradstudent #unsolved #hypothesis #series #sciencefacts"
+  },
+  "riemann_zeta_function_v2": {
+    "name": "Riemann Zeta Function (Version 2)",
+    "caption": "The analytic continuation of the zeta function reveals zeros on the critical line—if the Riemann Hypothesis is true! These zeros might encode information about quantum chaos.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #zeta #primes #quantum #research #theoreticalphysics #appliedmathematics #mathematician #nerd #geek #university #gradstudent #hypothesis #analytical #mystery #sciencefacts"
+  },
+  "rogers_ramanujan_continued_fraction": {
+    "name": "Rogers-Ramanujan Continued Fraction",
+    "caption": "A beautiful continued fraction appearing in partition functions and modular forms! Named after Rogers and Ramanujan, it connects number theory to mathematical physics.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #number #partitions #special #research #theoreticalphysics #appliedmathematics #mathematician #nerd #geek #university #gradstudent #analysis #fractions #beautiful #sciencefacts"
+  },
+  "rotatum": {
+    "name": "Rotatum (Fourth Derivative)",
+    "caption": "Rotatum is the fourth time derivative of position—also called snap! Though uncommon in physics, it appears in trajectory smoothing and high-precision spacecraft maneuvering.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #calculus #derivatives #kinematics #research #appliedmathematics #engineer #mathematician #nerd #geek #university #gradstudent #motion #control #space #sciencefacts"
+  },
+  "rydberg_formula": {
+    "name": "Rydberg Formula",
+    "caption": "1/λ = R(1/n₁² - 1/n₂²): This empirical formula predicts atomic spectral lines with stunning precision! It led to Bohr's model and demonstrated quantum mechanics' power.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #quantum #atoms #spectroscopy #wavelength #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #energy #light #electrons #sciencefacts"
+  },
+  "scale_height": {
+    "name": "Scale Height",
+    "caption": "H = kT/(mg): Atmosphere scale height determines how fast pressure drops with altitude. Mount Everest is only ~0.5 scale heights high—dramatic effect on oxygen availability.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #atmosphere #pressure #altitude #temperature #research #appliedmathematics #physicist #geophysicist #nerd #geek #university #gradstudent #gravity #exponential #earth"
+  },
+  "schrodinger_equation": {
+    "name": "Schrödinger Equation",
+    "caption": "iℏ∂ψ/∂t = -ℏ²/2m ∇²ψ + Vψ: The cornerstone of quantum mechanics describes how wavefunctions evolve! Schrödinger's equation is as fundamental to quantum as Newton's is to classical mechanics.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #quantum #schrodinger #wavefunction #mechanics #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #fundamental #evolution #probability #sciencefacts"
+  },
+  "schwarzschild_radius": {
+    "name": "Schwarzschild Radius",
+    "caption": "rs = 2GM/c²: Collapse any mass into this radius and you create a black hole's event horizon! Schwarzschild radius reveals when gravity becomes so strong that not even light escapes.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #blackholes #gravity #relativity #light #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #event #horizon #spacetime #sciencefacts"
+  },
+  "shannon_entropy": {
+    "name": "Shannon Entropy",
+    "caption": "H = -Σp(x)log₂p(x): Information theory's fundamental measure of uncertainty and data compression limits! Shannon entropy connects physics, mathematics, computer science, and biology.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #information #entropy #probability #compression #research #appliedmathematics #mathematician #nerd #geek #university #gradstudent #data #theory #bits #sciencefacts"
+  },
+  "simple_harmonic_motion": {
+    "name": "Simple Harmonic Motion",
+    "caption": "a = -ω²x: Restoring force proportional to displacement creates oscillation! Simple harmonic motion appears everywhere—springs, pendulums, atoms—foundational to physics.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #oscillations #harmonic #motion #acceleration #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #waves #vibrations #periodic"
+  },
+  "snap_fourth_derivative": {
+    "name": "Snap (Fourth Derivative)",
+    "caption": "Snap is the fourth time derivative of position! While snap is rarely used directly, it matters in comfort (avoiding jerky transitions) and robotics trajectory planning.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #calculus #derivatives #kinematics #jerk #research #appliedmathematics #engineer #mathematician #nerd #geek #university #gradstudent #motion #robotics #control"
+  },
+  "snells_law": {
+    "name": "Snell's Law",
+    "caption": "n₁sinθ₁ = n₂sinθ₂: Light bends when entering different media! Snell's law explains rainbows, lenses, and fiber optic cables—governing light refraction universally.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #optics #light #refraction #angles #research #appliedmathematics #physicist #engineer #nerd #geek #university #gradstudent #waves #lenses #materials"
+  },
+  "standard_deviation": {
+    "name": "Standard Deviation",
+    "caption": "σ = √(Σ(x-μ)²/N): Measures spread of data around mean—how much variation exists! Standard deviation is crucial for statistics, error analysis, and understanding measurement uncertainty.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #statistics #probability #variance #distribution #research #appliedmathematics #mathematician #nerd #geek #university #gradstudent #data #analysis #uncertainty #sciencefacts"
+  },
+  "stefan_boltzmann_law": {
+    "name": "Stefan-Boltzmann Law",
+    "caption": "P = σAT⁴: Total power radiated by object rises with absolute temperature to the fourth power! Stefan-Boltzmann law explains why hot objects glow, stars cool, and climate depends on temperature.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #radiation #thermodynamics #temperature #power #research #appliedmathematics #physicist #nerd #geek #university #gradstudent #heat #blackbody #stars #sciencefacts"
+  },
+  "stokes_einstein_equation": {
+    "name": "Stokes-Einstein Equation",
+    "caption": "D = kT/(6πηr): Connects diffusion coefficient to viscosity and particle size! This equation bridges molecular properties and macroscopic transport phenomena.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #diffusion #viscosity #molecules #transport #research #appliedmathematics #chemist #physicist #nerd #geek #university #gradstudent #thermal #mobility #brownian"
+  },
+  "stokes_law_v1": {
+    "name": "Stokes' Law (Version 1)",
+    "caption": "F = 6πηrv: Drag force on a sphere in viscous fluid—Stokes' law explains raindrops' terminal velocity and particle settling! Used to measure viscosity and analyze colloidal systems.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #drag #fluids #viscosity #forces #research #appliedmathematics #physicist #engineer #nerd #geek #university #gradstudent #flow #settling #colloidal"
+  },
+  "stokes_law_v2": {
+    "name": "Stokes' Law (Version 2)",
+    "caption": "Different form of Stokes' drag showing force dependence on radius and velocity. Essential for understanding particle motion in fluids and biological flows.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #fluids #drag #viscosity #motion #research #appliedmathematics #physicist #engineer #nerd #geek #university #gradstudent #spheres #transport #forces"
+  },
+  "stokes_law_v3": {
+    "name": "Stokes' Law (Version 3)",
+    "caption": "Stokes' law in yet another form emphasizing different aspects of viscous drag. Whether written simply or complexly, Stokes' law is practical physics at work.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #fluids #forces #drag #particles #research #appliedmathematics #engineer #physicist #nerd #geek #university #gradstudent #viscous #motion #hydrodynamics"
+  },
+  "thermodynamic_entropy": {
+    "name": "Thermodynamic Entropy",
+    "caption": "dS = δQ/T: Entropy change from heat transfer at temperature reveals spontaneity direction! Thermodynamic entropy predicts which processes occur naturally—the arrow of time.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #entropy #thermodynamics #heat #disorder #research #appliedmathematics #physicist #nerd #geek #university #gradstudent #second #law #irreversible #sciencefacts"
+  },
+  "toomre_stability_criterion": {
+    "name": "Toomre Stability Criterion",
+    "caption": "Q = σ/(3.36Gμ): Measures disk stability against collapse—critical in galaxy and accretion disk physics! Toomre's criterion determines when flat structures fragment into stars and rings.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #astrophysics #galaxies #stability #gravity #research #theoreticalphysics #astrophysicist #nerd #geek #university #gradstudent #disk #structure #fragmentation #sciencefacts"
+  },
+  "torque": {
+    "name": "Torque",
+    "caption": "τ = r × F: Torque measures rotational force—the rotational analog of force in linear motion! Torque governs everything from opening doors to planetary spin.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #mechanics #rotational #forces #moment #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #angular #dynamics #motion"
+  },
+  "tsiolkovsky_rocket_equation": {
+    "name": "Tsiolkovsky Rocket Equation",
+    "caption": "Δv = vₑ ln(m₀/mf): Final velocity change depends on exhaust velocity and mass ratio! Tsiolkovsky's equation is the foundation of rocketry—every space mission follows it.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #rockets #space #propulsion #research #appliedmathematics #engineer #physicist #nerd #geek #university #gradstudent #velocity #mass #momentum #sciencefacts"
+  },
+  "van_t_hoff_equation": {
+    "name": "van 't Hoff Equation",
+    "caption": "ln(K) = -ΔH/RT + ΔS/R: Relates equilibrium constant to temperature, enabling prediction of reaction equilibrium shifts! Essential for chemistry and biochemistry.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #chemistry #equilibrium #thermodynamics #reactions #research #appliedmathematics #chemist #nerd #geek #university #gradstudent #temperature #entropy #kinetics #sciencefacts"
+  },
+  "vis_viva_equation": {
+    "name": "Vis Viva Equation",
+    "caption": "v² = GM(2/r - 1/a): Orbital velocity at any distance depends on semi-major axis! Vis viva (living force) equation simplifies orbital mechanics for any eccentricity.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #orbits #gravity #velocity #mechanics #research #theoreticalphysics #astrophysicist #nerd #geek #university #gradstudent #kepler #energy #elliptical #sciencefacts"
+  },
+  "vorticity_equation": {
+    "name": "Vorticity Equation",
+    "caption": "∂ω/∂t + (u·∇)ω = (ω·∇)u + ν∇²ω: Describes how fluid rotation evolves! Vorticity equation underlies turbulence modeling and complex fluid dynamics.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #fluids #turbulence #vorticity #dynamics #research #appliedmathematics #engineer #physicist #nerd #geek #university #gradstudent #flow #rotation #viscous"
+  },
+  "wave_equation_v1": {
+    "name": "Wave Equation (Version 1)",
+    "caption": "∂²u/∂t² = c²∇²u: The wave equation describes propagation of waves through any medium! Sound, light, water—all obey this fundamental PDE governing wave phenomena.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #waves #pde #propagation #velocity #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #hyperbolic #dynamics #media"
+  },
+  "wave_equation_v2": {
+    "name": "Wave Equation (Version 2)",
+    "caption": "Different form emphasizing d'Alembertian operator: the wave equation unifies spacetime in relativity. Einstein used this equation to describe gravitational waves.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #waves #relativity #gravity #propagation #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #spacetime #fields #einstein"
+  },
+  "wien_displacement_law": {
+    "name": "Wien Displacement Law",
+    "caption": "λₘₐₓ = b/T: Peak wavelength of blackbody radiation shifts with temperature! Wien's law explains why hot objects emit visible light while cool ones emit infrared.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #radiation #temperature #wavelength #blackbody #research #appliedmathematics #physicist #nerd #geek #university #gradstudent #thermal #stars #light #sciencefacts"
+  },
+  "work_energy_theorem": {
+    "name": "Work-Energy Theorem",
+    "caption": "W = ΔKE: Work done equals change in kinetic energy! This fundamental theorem connects forces and motion, simplifying mechanics problems throughout classical physics.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #mechanics #energy #work #forces #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #conservation #kinetic #motion"
+  },
+  "young_laplace_equation": {
+    "name": "Young-Laplace Equation",
+    "caption": "ΔP = 2σ/r: Pressure difference across curved interface depends on surface tension and radius! Young-Laplace explains why small bubbles burst first and governs capillary phenomena.",
+    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #surface #tension #pressure #interface #research #appliedmathematics #physicist #engineer #nerd #geek #university #gradstudent #bubbles #capillary #fluids"
+  }
+}
