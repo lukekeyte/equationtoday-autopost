@@ -339,11 +339,6 @@
     "caption": "∇·g = 4πGρ: The divergence of gravitational field is proportional to mass density. This differential form enables calculating gravitational fields from any mass distribution.",
     "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #gravity #divergence #fields #mass #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #calculus #planets #structures"
   },
-  "gauss_law_gravity_v3": {
-    "name": "Gauss' Law - Gravity (Version 3)",
-    "caption": "The gravitational potential form reveals gravitational fields arise from mass distributions. Understanding this enables calculating orbits, tidal forces, and structure formation in the universe.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #gravity #potential #mass #fields #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #orbits #tides #cosmology"
-  },
   "gauss_law_magnetism_differential_v1": {
     "name": "Gauss' Law - Magnetism (Differential, Version 1)",
     "caption": "∇·B = 0: Magnetic field divergence is zero everywhere—no magnetic monopoles exist in nature! This asymmetry between electricity and magnetism hints at deeper physics.",
@@ -703,11 +698,6 @@
     "name": "Stokes' Law (Version 2)",
     "caption": "Different form of Stokes' drag showing force dependence on radius and velocity. Essential for understanding particle motion in fluids and biological flows.",
     "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #fluids #drag #viscosity #motion #research #appliedmathematics #physicist #engineer #nerd #geek #university #gradstudent #spheres #transport #forces"
-  },
-  "stokes_law_v3": {
-    "name": "Stokes' Law (Version 3)",
-    "caption": "Stokes' law in yet another form emphasizing different aspects of viscous drag. Whether written simply or complexly, Stokes' law is practical physics at work.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #fluids #forces #drag #particles #research #appliedmathematics #engineer #physicist #nerd #geek #university #gradstudent #viscous #motion #hydrodynamics"
   },
   "thermodynamic_entropy": {
     "name": "Thermodynamic Entropy",
