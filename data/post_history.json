@@ -64,5 +64,11 @@
     "name": "Gauss' Law - Gravity (Version 1)",
     "posted_at": "2026-03-31T13:44:13.783299+00:00",
     "post_id": "18350851252237590"
+  },
+  {
+    "id": "poisson_equation_v1",
+    "name": "Poisson's Equation (Version 1)",
+    "posted_at": "2026-04-01T13:46:18.042234+00:00",
+    "post_id": "18077346329147026"
   }
 ]
