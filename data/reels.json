@@ -1,0 +1,247 @@
+{
+  "ampere_law": {
+    "filename": "ampere_law.mp4",
+    "caption": "Magnetic fields don't just appear — electric currents CREATE them. Ampère's Law reveals the deep link between electricity and magnetism that powers every motor on Earth. ⚡🧲",
+    "hashtags": "#AmperesLaw #Electromagnetism #Physics #MagneticField #ElectricCurrent #MaxwellsEquations #PhysicsLovers #ScienceFacts #LearnPhysics #PhysicsNerd #STEM #ScienceEducation #PhysicsStudent #Electrodynamics #AppliedPhysics #EngineeringPhysics #PhysicsIsBeautiful #ScienceIsAwesome #PhysicsFacts #ClassicalPhysics"
+  },
+  "angular_acceleration": {
+    "filename": "angular_acceleration.mp4",
+    "caption": "Ever wonder why a spinning figure skater speeds up when they pull in their arms? It all comes down to angular acceleration — rotational motion's most dramatic secret. 🌀",
+    "hashtags": "#AngularAcceleration #RotationalMotion #Physics #Mechanics #ClassicalMechanics #PhysicsFacts #ScienceFacts #LearnPhysics #PhysicsLovers #STEM #ScienceEducation #PhysicsNerd #Dynamics #RigidBodyMotion #PhysicsIsBeautiful #EngineeringPhysics #PhysicsStudent #ScienceIsAwesome #AppliedPhysics #PhysicsDaily"
+  },
+  "angular_momentum": {
+    "filename": "angular_momentum.mp4",
+    "caption": "The universe conserves angular momentum — it's why planets orbit, galaxies spiral, and ice skaters spin faster. One equation governs them all. 🌍💫",
+    "hashtags": "#AngularMomentum #ConservationLaws #Physics #RotationalMotion #ClassicalMechanics #PhysicsLovers #ScienceFacts #STEM #LearnPhysics #PhysicsNerd #ScienceEducation #Astrophysics #PhysicsIsBeautiful #SpinPhysics #Dynamics #PhysicsStudent #ScienceIsAwesome #PhysicsFacts #EngineeringPhysics #PhysicsDaily"
+  },
+  "beer_lambert_law": {
+    "filename": "beer_lambert_law.mp4",
+    "caption": "How do scientists measure the concentration of a solution just by shining light through it? The Beer-Lambert Law turns light into a precision instrument. 🔬💡",
+    "hashtags": "#BeerLambertLaw #Spectroscopy #Chemistry #Physics #AnalyticalChemistry #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #Optics #LearnPhysics #PhysicsNerd #Spectrophotometry #LightAbsorption #PhysicsLovers #MolecularScience #AppliedPhysics #ScienceIsAwesome #LabScience #PhysicsDaily"
+  },
+  "bragg_law": {
+    "filename": "bragg_law.mp4",
+    "caption": "How do we 'see' atoms when they're far too small for any microscope? Bragg's Law lets us use X-rays to map the hidden architecture of crystals. 💎🔬",
+    "hashtags": "#BraggsLaw #XRayDiffraction #Physics #Crystallography #CondensedMatterPhysics #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsNerd #AtomicStructure #PhysicsLovers #MaterialsScience #PhysicsIsBeautiful #AppliedPhysics #ScienceIsAwesome #XRayCrystallography #PhysicsStudent #PhysicsDaily"
+  },
+  "capacitance": {
+    "filename": "capacitance.mp4",
+    "caption": "Every phone, circuit, and power grid relies on one deceptively simple concept: the ability to store electric charge. This is capacitance — the battery's quieter cousin. ⚡📱",
+    "hashtags": "#Capacitance #Electronics #Physics #ElectricalEngineering #Circuits #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsNerd #Capacitor #PhysicsLovers #ElectronicComponents #PhysicsIsBeautiful #AppliedPhysics #ScienceIsAwesome #CircuitDesign #EngineeringPhysics #PhysicsDaily"
+  },
+  "centripetal_force": {
+    "filename": "centripetal_force.mp4",
+    "caption": "What stops you flying off a rollercoaster loop? What keeps the Moon orbiting Earth? The same force — centripetal force — the invisible hand of circular motion. 🎢🌕",
+    "hashtags": "#CentripetalForce #CircularMotion #Physics #ClassicalMechanics #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #Dynamics #PhysicsIsBeautiful #NewtonianPhysics #AppliedPhysics #ScienceIsAwesome #ForceAndMotion #EngineeringPhysics #PhysicsStudent #PhysicsDaily"
+  },
+  "coefficient_of_friction": {
+    "filename": "coefficient_of_friction.mp4",
+    "caption": "Friction is why we can walk, drive, and grip things — and why machines wear out. The coefficient of friction puts a number on one of physics' most everyday forces. 👟⚙️",
+    "hashtags": "#CoefficientOfFriction #Friction #Physics #ClassicalMechanics #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #Tribology #PhysicsIsBeautiful #AppliedPhysics #EngineeringPhysics #ScienceIsAwesome #ForceAndMotion #MechanicalEngineering #PhysicsStudent #PhysicsDaily"
+  },
+  "continuity_equation": {
+    "filename": "continuity_equation.mp4",
+    "caption": "Why does a river flow faster through a narrow gorge? The continuity equation is conservation of mass in fluid form — elegant, simple, and everywhere in nature. 🌊🏞️",
+    "hashtags": "#ContinuityEquation #FluidDynamics #Physics #FluidMechanics #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #ConservationOfMass #PhysicsIsBeautiful #EngineeringPhysics #HydroDynamics #ScienceIsAwesome #AppliedPhysics #MechanicalEngineering #PhysicsStudent #PhysicsDaily"
+  },
+  "coulombs_law": {
+    "filename": "coulombs_law.mp4",
+    "caption": "The electric force between charges follows the exact same mathematical structure as gravity — but can be 10³⁶ times stronger. Coulomb's Law is electrostatics at its finest. ⚡🔋",
+    "hashtags": "#CoulombsLaw #Electrostatics #Physics #ElectricForce #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #MaxwellsEquations #PhysicsIsBeautiful #ClassicalPhysics #ElectricField #ScienceIsAwesome #AppliedPhysics #EngineeringPhysics #PhysicsStudent #PhysicsDaily"
+  },
+  "density": {
+    "filename": "density.mp4",
+    "caption": "One of the simplest equations in physics hides some of the universe's biggest secrets — from why ice floats to how neutron stars cram a Sun's worth of mass into a city. 🧊⭐",
+    "hashtags": "#Density #Physics #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #FluidMechanics #PhysicsIsBeautiful #Matter #ClassicalPhysics #ScienceIsAwesome #AppliedPhysics #Astrophysics #PhysicsStudent #ChemistryPhysics #PhysicsDaily #ScienceForAll"
+  },
+  "doppler_effect": {
+    "filename": "doppler_effect.mp4",
+    "caption": "The sound of a racing car drops in pitch as it passes you. Galaxies move away from us because their light is redshifted. One effect — the Doppler Effect — explains both. 🚗🌌",
+    "hashtags": "#DopplerEffect #Physics #SoundWaves #Redshift #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #WavePhysics #PhysicsIsBeautiful #Astrophysics #ScienceIsAwesome #Acoustics #Cosmology #AppliedPhysics #PhysicsStudent #PhysicsDaily"
+  },
+  "elastic_potential_energy": {
+    "filename": "elastic_potential_energy.mp4",
+    "caption": "Every stretched spring, every drawn bow, every bouncing ball stores energy invisibly. Elastic potential energy is nature's way of saving power for later. 🏹🌀",
+    "hashtags": "#ElasticPotentialEnergy #PotentialEnergy #Physics #ClassicalMechanics #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #HookesLaw #PhysicsIsBeautiful #ConservationOfEnergy #ScienceIsAwesome #AppliedPhysics #EngineeringPhysics #PhysicsStudent #SpringPhysics #PhysicsDaily"
+  },
+  "electric_power": {
+    "filename": "electric_power.mp4",
+    "caption": "P = IV. Three symbols. Every power station, every circuit, every LED bulb on Earth obeys this equation. Electric power is the lifeblood of modern civilisation. 💡⚡",
+    "hashtags": "#ElectricPower #Physics #ElectricalEngineering #Circuits #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #OhmsLaw #PhysicsIsBeautiful #Electronics #ScienceIsAwesome #AppliedPhysics #EngineeringPhysics #PhysicsStudent #Electricity #PhysicsDaily"
+  },
+  "escape_velocity": {
+    "filename": "escape_velocity.mp4",
+    "caption": "To leave Earth forever, you need to hit exactly 11.2 km/s. No more, no less — that's escape velocity. The equation that turned space travel from dream to reality. 🚀🌍",
+    "hashtags": "#EscapeVelocity #SpacePhysics #Physics #Astrophysics #Gravity #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #SpaceScience #PhysicsIsBeautiful #Cosmology #ScienceIsAwesome #AppliedPhysics #SpaceExploration #PhysicsStudent #PhysicsDaily"
+  },
+  "faraday_law": {
+    "filename": "faraday_law.mp4",
+    "caption": "Every generator on Earth works because of one discovery: a changing magnetic field creates electricity. Faraday's Law literally powers the modern world. ⚡🔄",
+    "hashtags": "#FaradayLaw #Electromagnetism #Physics #ElectromagneticInduction #MaxwellsEquations #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #ElectricalEngineering #ScienceIsAwesome #AppliedPhysics #EngineeringPhysics #MichaelFaraday #PhysicsStudent #PhysicsDaily"
+  },
+  "first_law_thermodynamics": {
+    "filename": "first_law_thermodynamics.mp4",
+    "caption": "Energy cannot be created or destroyed — only transformed. The First Law of Thermodynamics is perhaps the most important statement in all of science. 🔥🔋",
+    "hashtags": "#FirstLawThermodynamics #Thermodynamics #Physics #ConservationOfEnergy #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #ThermalPhysics #ScienceIsAwesome #AppliedPhysics #EngineeringPhysics #HeatTransfer #ClassicalPhysics #PhysicsStudent #PhysicsDaily"
+  },
+  "frequency_period": {
+    "filename": "frequency_period.mp4",
+    "caption": "Frequency and period are two sides of the same coin — one tells you how fast, the other tells you how long. Together they describe every wave in the universe. 〰️🌊",
+    "hashtags": "#FrequencyAndPeriod #WavePhysics #Physics #Oscillations #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #Waves #ScienceIsAwesome #AppliedPhysics #SimpleHarmonicMotion #Acoustics #Electromagnetism #PhysicsStudent #PhysicsDaily"
+  },
+  "gauss_law": {
+    "filename": "gauss_law.mp4",
+    "caption": "Gauss's Law might be the most elegant equation in electrostatics — it connects the total electric flux through any closed surface directly to the charge inside. Pure genius. 🔵⚡",
+    "hashtags": "#GaussLaw #Electrostatics #Physics #MaxwellsEquations #ElectricField #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #ClassicalElectrodynamics #ScienceIsAwesome #AppliedPhysics #EngineeringPhysics #PhysicsStudent #VectorCalculus #PhysicsDaily"
+  },
+  "gravity_law": {
+    "filename": "gravity_law.mp4",
+    "caption": "An apple falls from a tree. The Moon stays in orbit. Newton realised these were the SAME phenomenon — and wrote the equation that unified the heavens and the Earth. 🍎🌕",
+    "hashtags": "#NewtonsGravity #GravitationLaw #Physics #ClassicalMechanics #Gravity #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #IsaacNewton #PhysicsIsBeautiful #Astrophysics #ScienceIsAwesome #UniversalGravitation #AppliedPhysics #PhysicsHistory #PhysicsDaily"
+  },
+  "inductance": {
+    "filename": "inductance.mp4",
+    "caption": "An inductor resists changes in electric current — it's like inertia, but for electricity. Without inductance, every transformer and wireless charger would be impossible. 🔄⚡",
+    "hashtags": "#Inductance #Electromagnetism #Physics #ElectricalEngineering #Circuits #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #Inductor #PhysicsIsBeautiful #Electronics #ScienceIsAwesome #AppliedPhysics #FaradayLaw #PhysicsStudent #PhysicsDaily"
+  },
+  "length_contraction": {
+    "filename": "length_contraction.mp4",
+    "caption": "At near-light speed, space itself compresses in the direction of travel. Length contraction isn't science fiction — it's Special Relativity, and it's very real. 🚀📏",
+    "hashtags": "#LengthContraction #SpecialRelativity #Physics #Einstein #Relativity #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #SpacetimePhysics #ScienceIsAwesome #ModernPhysics #AlbertEinstein #RelativisticPhysics #PhysicsStudent #PhysicsDaily"
+  },
+  "lorentz_factor": {
+    "filename": "lorentz_factor.mp4",
+    "caption": "The Lorentz factor (γ) is where Special Relativity hides all its drama. As you approach the speed of light, γ shoots toward infinity — and physics gets wonderfully weird. ∞🚀",
+    "hashtags": "#LorentzFactor #SpecialRelativity #Physics #Einstein #Relativity #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #SpeedOfLight #ScienceIsAwesome #ModernPhysics #TimeDilation #RelativisticPhysics #PhysicsStudent #PhysicsDaily"
+  },
+  "lorentz_force": {
+    "filename": "lorentz_force.mp4",
+    "caption": "A moving charge in a magnetic field gets pushed sideways. This bizarre perpendicular force — the Lorentz force — drives every electric motor and particle accelerator on Earth. ⚡🧲",
+    "hashtags": "#LorentzForce #Electromagnetism #Physics #MagneticForce #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #ParticlePhysics #ScienceIsAwesome #AppliedPhysics #ElectricMotors #EngineeringPhysics #PhysicsStudent #MaxwellsEquations #PhysicsDaily"
+  },
+  "magnetic_force_wire": {
+    "filename": "magnetic_force_wire.mp4",
+    "caption": "Run current through a wire inside a magnetic field and it MOVES. This is the entire principle behind every electric motor ever built. Physics put to work. ⚡🔧",
+    "hashtags": "#MagneticForceWire #Electromagnetism #Physics #ElectricMotor #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #EngineeringPhysics #ScienceIsAwesome #AppliedPhysics #LorentzForce #ElectricalEngineering #MagneticField #PhysicsStudent #PhysicsDaily"
+  },
+  "moment_of_inertia": {
+    "filename": "moment_of_inertia.mp4",
+    "caption": "Moment of inertia is 'mass' for rotation — it tells you how hard it is to spin something up or slow it down. Engineers obsess over it for everything from flywheels to figure skating. 🌀⚙️",
+    "hashtags": "#MomentOfInertia #RotationalMotion #Physics #ClassicalMechanics #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #RigidBodyDynamics #ScienceIsAwesome #EngineeringPhysics #AppliedPhysics #AngularMomentum #MechanicalEngineering #PhysicsStudent #PhysicsDaily"
+  },
+  "momentum": {
+    "filename": "momentum.mp4",
+    "caption": "p = mv. The most important quantity in collisions, explosions, and rocket science. Conservation of momentum is a law the universe NEVER breaks. 💥🚀",
+    "hashtags": "#Momentum #ConservationOfMomentum #Physics #ClassicalMechanics #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #NewtonianPhysics #ScienceIsAwesome #AppliedPhysics #CollisionPhysics #ForceAndMotion #EngineeringPhysics #PhysicsStudent #PhysicsDaily"
+  },
+  "newtons_second_law": {
+    "filename": "newtons_second_law.mp4",
+    "caption": "F = ma. Three letters that launched the scientific revolution. Newton's Second Law is the cornerstone of classical mechanics and the most famous equation after E=mc². 🍎⚡",
+    "hashtags": "#NewtonsSecondLaw #NewtonsLaws #Physics #ClassicalMechanics #ForceAndMotion #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #IsaacNewton #ScienceIsAwesome #AppliedPhysics #EngineeringPhysics #PhysicsHistory #PhysicsStudent #PhysicsDaily"
+  },
+  "ohms_law": {
+    "filename": "ohms_law.mp4",
+    "caption": "V = IR. If you understand this one equation, you understand the fundamentals of every electrical circuit ever built. Ohm's Law is the alphabet of electronics. 🔌💡",
+    "hashtags": "#OhmsLaw #Electricity #Physics #ElectricalEngineering #Circuits #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #Electronics #ScienceIsAwesome #AppliedPhysics #Voltage #Resistance #PhysicsStudent #PhysicsDaily"
+  },
+  "photoelectric_effect": {
+    "filename": "photoelectric_effect.mp4",
+    "caption": "Einstein won the Nobel Prize for THIS — not relativity. Light kicks electrons out of metal, proving light comes in packets. The photoelectric effect launched quantum mechanics. 💡⚛️",
+    "hashtags": "#PhotoelectricEffect #QuantumPhysics #Physics #Einstein #QuantumMechanics #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #PhotonPhysics #ScienceIsAwesome #ModernPhysics #AlbertEinstein #NobelPrize #PhysicsStudent #PhysicsDaily"
+  },
+  "poiseuille_law": {
+    "filename": "poiseuille_law.mp4",
+    "caption": "Why does halving the width of an artery reduce blood flow by 16×? Poiseuille's Law governs how fluids move through pipes — and it's the key to understanding cardiovascular medicine. 🩸🔬",
+    "hashtags": "#PoiseuillesLaw #FluidDynamics #Physics #FluidMechanics #Biophysics #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #Viscosity #ScienceIsAwesome #AppliedPhysics #MedicalPhysics #CardiovascularPhysics #PhysicsStudent #PhysicsDaily"
+  },
+  "potential_energy": {
+    "filename": "potential_energy.mp4",
+    "caption": "Every object held at a height is silently storing energy, waiting to be released. Gravitational potential energy is stored patience — and it shapes everything from dams to roller coasters. ⛰️🎢",
+    "hashtags": "#PotentialEnergy #GravitationalEnergy #Physics #ClassicalMechanics #ConservationOfEnergy #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #EnergyPhysics #ScienceIsAwesome #AppliedPhysics #EngineeringPhysics #PhysicsStudent #WorkEnergyTheorem #PhysicsDaily"
+  },
+  "power_formula": {
+    "filename": "power_formula.mp4",
+    "caption": "Power isn't just about how much work you do — it's about how fast you do it. The power formula is what separates a sprinter from a marathon runner, and a sports car from a truck. 🏎️⚡",
+    "hashtags": "#PowerFormula #Physics #ClassicalMechanics #WorkEnergyTheorem #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #EnergyPhysics #ScienceIsAwesome #AppliedPhysics #EngineeringPhysics #MechanicalEngineering #PhysicsStudent #Thermodynamics #PhysicsDaily"
+  },
+  "pressure_formula": {
+    "filename": "pressure_formula.mp4",
+    "caption": "Pressure is force spread over an area — which is why a stiletto heel does more damage to a floor than an elephant's foot. Simple equation, profound consequences. 👠🐘",
+    "hashtags": "#PressureFormula #Physics #FluidMechanics #ClassicalMechanics #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #AppliedPhysics #ScienceIsAwesome #EngineeringPhysics #Hydrostatics #AtmosphericPressure #PhysicsStudent #FluidDynamics #PhysicsDaily"
+  },
+  "radioactive_decay": {
+    "filename": "radioactive_decay.mp4",
+    "caption": "Radioactive decay is perfectly random at the quantum level — yet in bulk, it follows a precise mathematical law. Half-lives power everything from carbon dating to nuclear medicine. ☢️🌍",
+    "hashtags": "#RadioactiveDecay #NuclearPhysics #Physics #HalfLife #QuantumPhysics #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #NuclearScience #ScienceIsAwesome #Radioactivity #CarbonDating #ModernPhysics #PhysicsStudent #PhysicsDaily"
+  },
+  "rc_time_constant": {
+    "filename": "rc_time_constant.mp4",
+    "caption": "The RC time constant determines how fast a capacitor charges and discharges. It's the heartbeat of timing circuits — from camera flashes to the rhythm of your digital devices. ⏱️🔋",
+    "hashtags": "#RCTimeConstant #Electronics #Physics #ElectricalEngineering #Circuits #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #Capacitor #ScienceIsAwesome #AppliedPhysics #CircuitDesign #Resistor #PhysicsStudent #PhysicsDaily"
+  },
+  "relativistic_energy": {
+    "filename": "relativistic_energy.mp4",
+    "caption": "E = mc². The most famous equation in history tells us that mass IS energy — frozen, concentrated, waiting to be unleashed. Relativity rewrote our understanding of reality itself. 💥🌌",
+    "hashtags": "#RelativisticEnergy #EMC2 #SpecialRelativity #Physics #Einstein #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #AlbertEinstein #ScienceIsAwesome #ModernPhysics #MassEnergy #NuclearPhysics #PhysicsStudent #PhysicsDaily"
+  },
+  "relativistic_momentum": {
+    "filename": "relativistic_momentum.mp4",
+    "caption": "At everyday speeds, p = mv works fine. But near the speed of light, momentum grows toward infinity — no matter how hard you push. Relativistic momentum is why c is the cosmic speed limit. 🚀∞",
+    "hashtags": "#RelativisticMomentum #SpecialRelativity #Physics #Einstein #SpeedOfLight #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #RelativisticPhysics #ScienceIsAwesome #ModernPhysics #LorentzFactor #ParticlePhysics #PhysicsStudent #PhysicsDaily"
+  },
+  "resistance_formula": {
+    "filename": "resistance_formula.mp4",
+    "caption": "Resistance isn't futile — it's fundamental. The resistance formula explains why thick copper wires power your home and thin nichrome wires glow in your toaster. 🔌🍞",
+    "hashtags": "#ResistanceFormula #Electricity #Physics #ElectricalEngineering #Circuits #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #OhmsLaw #ScienceIsAwesome #AppliedPhysics #Resistivity #Electronics #PhysicsStudent #PhysicsDaily"
+  },
+  "rotational_kinetic_energy": {
+    "filename": "rotational_kinetic_energy.mp4",
+    "caption": "A spinning flywheel stores enormous energy invisibly. Rotational kinetic energy is the rotational twin of regular kinetic energy — and it's why tops spin, wheels roll, and planets rotate. 🌍⚙️",
+    "hashtags": "#RotationalKineticEnergy #RotationalMotion #Physics #ClassicalMechanics #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #EnergyPhysics #ScienceIsAwesome #EngineeringPhysics #MomentOfInertia #AngularVelocity #PhysicsStudent #Flywheel #PhysicsDaily"
+  },
+  "rydberg_formula": {
+    "filename": "rydberg_formula.mp4",
+    "caption": "Before quantum mechanics existed, Rydberg cracked the code of hydrogen's spectral lines with a single elegant formula. It was the first crack in the wall of classical physics. 🌈⚛️",
+    "hashtags": "#RydbergFormula #AtomicPhysics #Physics #QuantumMechanics #SpectralLines #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #HydrogenAtom #ScienceIsAwesome #ModernPhysics #Spectroscopy #BohrModel #PhysicsStudent #PhysicsDaily"
+  },
+  "schrodinger_equation": {
+    "filename": "schrodinger_equation.mp4",
+    "caption": "The Schrödinger Equation doesn't tell you where a particle IS — it tells you where it might be. It's the master equation of quantum mechanics, and reality gets strange from here. 🐱⚛️",
+    "hashtags": "#SchrodingerEquation #QuantumMechanics #Physics #QuantumPhysics #WaveFunction #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #SchrodingersCat #ScienceIsAwesome #ModernPhysics #QuantumTheory #ParticlePhysics #PhysicsStudent #PhysicsDaily"
+  },
+  "stefan_boltzmann_law": {
+    "filename": "stefan_boltzmann_law.mp4",
+    "caption": "Double the temperature of a star and it radiates 16× more energy. The Stefan-Boltzmann Law governs how every hot object glows — from a candle flame to a supernova. 🌟🔥",
+    "hashtags": "#StefanBoltzmannLaw #Thermodynamics #Physics #BlackBodyRadiation #Astrophysics #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #ThermalRadiation #ScienceIsAwesome #ModernPhysics #StellarPhysics #Cosmology #PhysicsStudent #PhysicsDaily"
+  },
+  "thermal_expansion": {
+    "filename": "thermal_expansion.mp4",
+    "caption": "Bridges have expansion gaps. Railway tracks buckle in summer. Thermometers work by expansion. Thermal expansion is one of the most quietly consequential equations in engineering. 🌡️🌉",
+    "hashtags": "#ThermalExpansion #Thermodynamics #Physics #ThermalPhysics #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #MaterialsScience #ScienceIsAwesome #AppliedPhysics #EngineeringPhysics #MechanicalEngineering #PhysicsStudent #HeatTransfer #PhysicsDaily"
+  },
+  "time_dilation": {
+    "filename": "time_dilation.mp4",
+    "caption": "Time passes slower for someone moving fast or sitting in a strong gravitational field. GPS satellites would be useless without correcting for time dilation. Einstein was right. ⏳🛰️",
+    "hashtags": "#TimeDilation #SpecialRelativity #Physics #Einstein #Relativity #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #SpacetimePhysics #ScienceIsAwesome #ModernPhysics #GeneralRelativity #AlbertEinstein #PhysicsStudent #PhysicsDaily"
+  },
+  "torque": {
+    "filename": "torque.mp4",
+    "caption": "Torque is the rotational version of force — it's why a long wrench loosens a stubborn bolt and why door handles are placed far from the hinge. Leverage is physics made practical. 🔧🚪",
+    "hashtags": "#Torque #RotationalMotion #Physics #ClassicalMechanics #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #EngineeringPhysics #ScienceIsAwesome #AppliedPhysics #MechanicalEngineering #ForceAndMotion #PhysicsStudent #Leverage #PhysicsDaily"
+  },
+  "velocity_formula": {
+    "filename": "velocity_formula.mp4",
+    "caption": "Speed tells you how fast. Velocity tells you how fast AND in which direction. That difference changes everything in physics — from projectile motion to relativity. 🏃➡️",
+    "hashtags": "#VelocityFormula #Physics #ClassicalMechanics #Kinematics #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #ForceAndMotion #ScienceIsAwesome #AppliedPhysics #NewtonianPhysics #SpeedVsVelocity #PhysicsStudent #Dynamics #PhysicsDaily"
+  },
+  "wave_equation": {
+    "filename": "wave_equation.mp4",
+    "caption": "Sound, light, water ripples, quantum particles — they're all described by the wave equation. One mathematical structure governs the oscillating heartbeat of the universe. 🌊🔊",
+    "hashtags": "#WaveEquation #WavePhysics #Physics #QuantumMechanics #Optics #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #Acoustics #ScienceIsAwesome #AppliedPhysics #Electromagnetism #ClassicalPhysics #PhysicsStudent #PhysicsDaily"
+  },
+  "work_energy": {
+    "filename": "work_energy.mp4",
+    "caption": "Work is force applied over a distance — and every joule of work done changes the kinetic energy of an object by exactly the same amount. The work-energy theorem is physics keeping score. 💪⚡",
+    "hashtags": "#WorkEnergyTheorem #WorkAndEnergy #Physics #ClassicalMechanics #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #ConservationOfEnergy #ScienceIsAwesome #AppliedPhysics #NewtonianPhysics #EnergyPhysics #PhysicsStudent #KineticEnergy #PhysicsDaily"
+  }
+}
