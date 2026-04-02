@@ -18,7 +18,7 @@ HISTORY_FILE = "data/post_history.json"
 
 # How many posts before an equation can be reused
 # With ~194 equations, this means roughly 6 months before a repeat
-COOLDOWN = 150
+COOLDOWN = 120
 
 
 def load_json(path):
