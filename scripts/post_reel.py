@@ -17,7 +17,7 @@ REELS_FILE = "data/reels.json"
 HISTORY_FILE = "data/reel_history.json"
 
 # How many posts before a reel can be reused
-COOLDOWN = 150
+COOLDOWN = 30
 
 
 def load_json(path):
