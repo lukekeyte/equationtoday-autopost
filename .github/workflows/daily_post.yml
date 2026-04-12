@@ -2,7 +2,7 @@ name: Daily Instagram Post
 
 on:
   schedule:
-    - cron: '0 11 * * *'
+    - cron: '0 12 * * *'
   workflow_dispatch:
 
 permissions:
