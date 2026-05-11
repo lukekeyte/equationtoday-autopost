@@ -304,5 +304,11 @@
     "name": "Darcy-Weisbach Equation",
     "posted_at": "2026-05-10T14:54:05.475117+00:00",
     "post_id": "18097369313134867"
+  },
+  {
+    "id": "tsiolkovsky_rocket_equation",
+    "name": "Tsiolkovsky Rocket Equation",
+    "posted_at": "2026-05-11T16:33:19.929913+00:00",
+    "post_id": "17863932003684171"
   }
 ]
