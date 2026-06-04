@@ -382,5 +382,11 @@
     "name": "Helmholtz Free Energy (Version 2)",
     "posted_at": "2026-06-03T18:23:53.924283+00:00",
     "post_id": "18102461893953059"
+  },
+  {
+    "id": "heisenberg_uncertainty_energy_time",
+    "name": "Heisenberg Uncertainty - Energy/Time",
+    "posted_at": "2026-06-04T16:54:41.809537+00:00",
+    "post_id": "17929475844304080"
   }
 ]
