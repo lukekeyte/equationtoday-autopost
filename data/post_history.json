@@ -400,5 +400,11 @@
     "name": "Gauss' Law - Magnetism (Differential, Version 1)",
     "posted_at": "2026-06-06T15:16:17.478046+00:00",
     "post_id": "18014405258903384"
+  },
+  {
+    "id": "gauss_law_magnetism_integral",
+    "name": "Gauss' Law - Magnetism (Integral Form)",
+    "posted_at": "2026-06-07T15:24:06.214213+00:00",
+    "post_id": "18014615060705353"
   }
 ]
