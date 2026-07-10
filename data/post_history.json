@@ -592,5 +592,11 @@
     "name": "Vorticity Equation",
     "posted_at": "2026-07-09T16:27:34.516277+00:00",
     "post_id": "18013227665865025"
+  },
+  {
+    "id": "jurin_law_capillary_rise",
+    "name": "Jurin's Law - Capillary Rise",
+    "posted_at": "2026-07-10T16:25:03.371796+00:00",
+    "post_id": "18122535994751821"
   }
 ]
