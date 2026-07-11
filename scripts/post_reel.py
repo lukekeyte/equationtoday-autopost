@@ -19,6 +19,15 @@ HISTORY_FILE = "data/reel_history.json"
 # How many posts before a reel can be reused
 COOLDOWN = 30
 
+# ─── Posting cadence ───
+# Minimum whole days between reels. 2 = every other day.
+# The GitHub Actions workflow still runs daily (6h after the
+# carousel); on off-days this script simply exits without posting.
+# Basing this on reel_history.json rather than odd/even calendar
+# dates makes it self-healing: if a run ever fails, the next day's
+# run posts, and the every-2-days rhythm continues from there.
+MIN_DAYS_BETWEEN_REELS = 2
+
 
 def load_json(path):
     with open(path, "r") as f:
@@ -28,6 +37,37 @@ def load_json(path):
 def save_json(path, data):
     with open(path, "w") as f:
         json.dump(data, f, indent=2)
+
+
+def due_today(history):
+    """Return True if at least MIN_DAYS_BETWEEN_REELS whole days have
+    passed since the last reel was posted.
+
+    Set FORCE_REEL=1 in the environment (exposed as a manual toggle in
+    the workflow) to bypass the check for testing.
+    """
+    if os.environ.get("FORCE_REEL") == "1":
+        print("FORCE_REEL=1 set — bypassing cadence check.")
+        return True
+
+    if not history:
+        return True
+
+    try:
+        last = datetime.fromisoformat(history[-1]["posted_at"]).date()
+    except (KeyError, ValueError) as e:
+        print(f"Warning: couldn't parse last posted_at ({e}) — posting anyway.")
+        return True
+
+    days_since = (datetime.now(timezone.utc).date() - last).days
+    if days_since < MIN_DAYS_BETWEEN_REELS:
+        print(
+            f"Last reel went out {days_since} day(s) ago ({last}). "
+            f"Cadence is every {MIN_DAYS_BETWEEN_REELS} days — skipping today."
+        )
+        return False
+
+    return True
 
 
 def pick_reel(reels, history):
@@ -107,6 +147,10 @@ def main():
 
     if not reels:
         print("No reels configured in reels.json — skipping.")
+        return
+
+    # Every-2-days cadence gate
+    if not due_today(history):
         return
 
     # Pick a reel
