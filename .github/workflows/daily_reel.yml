@@ -1,0 +1,51 @@
+name: Daily Instagram Reel
+
+on:
+  schedule:
+    # 6 hours after the carousel workflow (daily_post.yml, cron '0 14 * * *').
+    # This fires EVERY day on purpose: scripts/post_reel.py checks
+    # data/reel_history.json and only posts if the last reel is >= 2 days
+    # old, so the every-other-day cadence is handled in the script and
+    # self-heals if a run ever fails. Do not use '*/2' day-of-month cron
+    # syntax — it double-posts across month boundaries (31st -> 1st).
+    - cron: '0 20 * * *'
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Post even if a reel went out within the last 2 days'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Post reel
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          VIDEO_BASE_URL: ${{ secrets.VIDEO_BASE_URL }}
+          FORCE_REEL: ${{ inputs.force && '1' || '0' }}
+        run: python scripts/post_reel.py
+
+      - name: Commit updated history
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/reel_history.json
+          git diff --staged --quiet || git commit -m "Update reel history [skip ci]"
+          git push
