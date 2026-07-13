@@ -2,11 +2,20 @@ name: Daily Instagram Post
 
 on:
   schedule:
-    - cron: '0 14 * * *'
+    # Afternoon carousel (4 slides). 16:00 UTC = 17:00 London / 12:00 New York
+    # / 09:00 LA — a strong cross-timezone window, and the day's main post.
+    # Posts the equation chosen by the morning story job (via
+    # data/today_equation.json); falls back to a random pick if that's absent.
+    - cron: '0 16 * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
+
+# Serialise repo-writing jobs so their history commits never race.
+concurrency:
+  group: equationtoday-posts
+  cancel-in-progress: false
 
 jobs:
   post:
@@ -38,4 +47,5 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/post_history.json
           git diff --staged --quiet || git commit -m "Update post history [skip ci]"
+          git pull --rebase origin ${GITHUB_REF_NAME} || true
           git push

@@ -2,22 +2,28 @@ name: Daily Instagram Reel
 
 on:
   schedule:
-    # 6 hours after the carousel workflow (daily_post.yml, cron '0 14 * * *').
+    # 6 hours after the carousel workflow (daily_post.yml, cron '0 16 * * *').
+    # 22:00 UTC = 18:00 New York — the US evening reel window.
     # This fires EVERY day on purpose: scripts/post_reel.py checks
-    # data/reel_history.json and only posts if the last reel is >= 2 days
-    # old, so the every-other-day cadence is handled in the script and
-    # self-heals if a run ever fails. Do not use '*/2' day-of-month cron
-    # syntax — it double-posts across month boundaries (31st -> 1st).
-    - cron: '0 20 * * *'
+    # data/reel_history.json and only posts if the last reel is >= 3 days
+    # old, so the every-3-days cadence is handled in the script and
+    # self-heals if a run ever fails. Do not use '*/3' day-of-month cron
+    # syntax — it double-posts across month boundaries.
+    - cron: '0 22 * * *'
   workflow_dispatch:
     inputs:
       force:
-        description: 'Post even if a reel went out within the last 2 days'
+        description: 'Post even if a reel went out within the last 3 days'
         type: boolean
         default: false
 
 permissions:
   contents: write
+
+# Serialise repo-writing jobs so their history commits never race.
+concurrency:
+  group: equationtoday-posts
+  cancel-in-progress: false
 
 jobs:
   post:
@@ -48,4 +54,5 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/reel_history.json
           git diff --staged --quiet || git commit -m "Update reel history [skip ci]"
+          git pull --rebase origin ${GITHUB_REF_NAME} || true
           git push

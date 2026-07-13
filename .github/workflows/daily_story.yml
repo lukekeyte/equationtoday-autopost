@@ -1,0 +1,49 @@
+name: Daily Instagram Story
+
+on:
+  schedule:
+    # Morning story (both slides). 09:00 UTC = 10:00 London / 04:00 New York.
+    # Chosen for the European morning scroll; the story then accumulates views
+    # through the day. This job also records the day's equation in
+    # data/today_equation.json so the afternoon carousel matches it.
+    - cron: '0 9 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Serialise repo-writing jobs so their history commits never race.
+concurrency:
+  group: equationtoday-posts
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Post morning story
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          STORY_BASE_URL: ${{ secrets.STORY_BASE_URL }}
+        run: python scripts/post_story.py
+
+      - name: Commit updated history
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/story_history.json data/today_equation.json
+          git diff --staged --quiet || git commit -m "Update story history [skip ci]"
+          git pull --rebase origin ${GITHUB_REF_NAME} || true
+          git push

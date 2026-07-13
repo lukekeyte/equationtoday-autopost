@@ -20,13 +20,13 @@ HISTORY_FILE = "data/reel_history.json"
 COOLDOWN = 30
 
 # ─── Posting cadence ───
-# Minimum whole days between reels. 2 = every other day.
+# Minimum whole days between reels. 3 = once every three days.
 # The GitHub Actions workflow still runs daily (6h after the
 # carousel); on off-days this script simply exits without posting.
-# Basing this on reel_history.json rather than odd/even calendar
+# Basing this on reel_history.json rather than calendar-modulo
 # dates makes it self-healing: if a run ever fails, the next day's
-# run posts, and the every-2-days rhythm continues from there.
-MIN_DAYS_BETWEEN_REELS = 2
+# run posts, and the every-3-days rhythm continues from there.
+MIN_DAYS_BETWEEN_REELS = 3
 
 
 def load_json(path):
@@ -41,7 +41,7 @@ def save_json(path, data):
 
 def due_today(history):
     """Return True if at least MIN_DAYS_BETWEEN_REELS whole days have
-    passed since the last reel was posted.
+    passed since the last reel was posted (i.e. once every 3 days).
 
     Set FORCE_REEL=1 in the environment (exposed as a manual toggle in
     the workflow) to bypass the check for testing.
