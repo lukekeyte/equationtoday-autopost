@@ -6,7 +6,7 @@ on:
     # / 09:00 LA — a strong cross-timezone window, and the day's main post.
     # Posts the equation chosen by the morning story job (via
     # data/today_equation.json); falls back to a random pick if that's absent.
-    - cron: '0 16 * * *'
+    - cron: '0 13 * * *'
   workflow_dispatch:
 
 permissions:
