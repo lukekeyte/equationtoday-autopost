@@ -1,762 +1,762 @@
 {
   "adams_williamson_equation": {
     "name": "Adams-Williamson Equation",
-    "caption": "Can you name this equation? Hint: it's how we know what's inside the Earth without ever digging.\nDrop your guess in the comments before you swipe — no peeking 👉\n\nANSWER: Adams-Williamson Equation\n\nThis equation describes how pressure and density vary with depth inside Earth, helping us understand our planet's interior structure. It's the foundation of geophysics and seismology, revealing what lies beneath our feet.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #geophysics #seismology #earth #research #theoreticalphysics #appliedmathematics #physicist #mathematician #nerd #geek #university #gradstudent #planet #gravity #pressure"
+    "caption": "Which equation reveals Earth's interior structure — how pressure and density change with depth — without ever digging? 🌍\nDrop your guess in the comments before you swipe 👉\n\nA cornerstone of geophysics and seismology, it connects how seismic wave speeds change with depth to the density profile of our planet — letting scientists map the crust, mantle and core, and probe the pressure deep inside a self-gravitating world without drilling a single hole.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#geophysics #earthscience #seismology #scicomm #equationtoday"
   },
   "advection_equation": {
     "name": "Advection Equation",
-    "caption": "Do you know this one? Hint: it tracks how pollution drifts on the wind and salt rides ocean currents.\nComment your answer first, then swipe to slide 2 to check yourself 👉\n\nANSWER: Advection Equation\n\nWatch how quantities transport through space! The advection equation models everything from pollutant dispersion in air to salt movement in ocean currents. It's essential for weather prediction and environmental science.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #fluidmechanics #atmosphere #weather #research #appliedmathematics #mathematician #nerd #geek #university #gradstudent #transport #dynamics #climate #environment #simulation"
+    "caption": "Which equation tracks how a quantity is transported through space — pollution drifting on the wind, salt riding ocean currents? 🌊\nComment your answer before you swipe to check 👉\n\nA foundation of fluid dynamics and transport theory, it models how a scalar field is carried by a flow field, underpinning weather prediction, ocean modelling, atmospheric dispersion and computational fluid dynamics.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#fluiddynamics #appliedmaths #atmosphericscience #scicomm #equationtoday"
   },
   "alfven_velocity": {
     "name": "Alfvén Velocity",
-    "caption": "Name that equation. Hint: it sets the speed of magnetic waves rippling through a plasma.\nType your guess below before you swipe — no cheating, we'll know 👀\n\nANSWER: Alfvén Velocity\n\nNamed after physicist Hannes Alfvén, this equation describes the speed of magnetic waves in plasma—crucial for understanding solar flares, auroras, and fusion reactor behavior. Plasma physics gets wild!",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #plasma #magnetic #solar #aurora #fusion #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #space #waves #energy"
+    "caption": "Which equation sets the speed of magnetic waves rippling through a plasma? ⚡\nName it in the comments, then swipe to reveal 👉\n\nA key result in plasma physics and magnetohydrodynamics, it links magnetic field strength and plasma density to wave speed — essential for understanding solar flares, the solar wind, auroras and magnetic confinement in fusion reactors.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#plasmaphysics #astrophysics #magnetohydrodynamics #scicomm #equationtoday"
   },
   "ampere_law_v1": {
     "name": "Ampère's Law (Version 1)",
-    "caption": "What's this equation called? Hint: electric currents create the magnetic fields inside every motor.\nCommit to an answer in the comments, then swipe to see if you nailed it 👉\n\nANSWER: Ampère's Law\n\nOne of Maxwell's legendary equations! Ampère's Law connects electric currents to the magnetic fields they create. Without it, we'd have no motors, generators, or understanding of electromagnetism.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #electromagnetism #maxwells #electric #magnetic #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #electricity #technology #innovation"
+    "caption": "Which equation says electric currents create the magnetic fields inside every motor and generator? 🧲\nDrop your guess in the comments before you swipe 👉\n\nOne of the four pillars of classical electromagnetism, this differential form relates the curl of the magnetic field to current density, underpinning electric motors, transformers, inductors and the whole theory of electromagnetic fields.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#electromagnetism #physicsstudent #electricalengineering #scicomm #equationtoday"
   },
   "ampere_law_v2": {
     "name": "Ampère's Law (Version 2)",
-    "caption": "Know this one? Hint: how magnetic fields curl around a current-carrying wire, point by point.\nGuess in the comments before checking slide 2 — how many can you get? ✅\n\nANSWER: Ampère's Law\n\nThe differential form of Ampère's Law reveals how magnetic fields curl around electric currents at every point in space. This is the mathematical language Maxwell used to unify electricity and magnetism.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #electromagnetism #maxwells #calculus #differential #research #theoreticalphysics #appliedmathematics #physicist #mathematician #nerd #geek #university #gradstudent #fields #currents"
+    "caption": "Which equation links the magnetic field looping around a wire to the current threading through it? 🧲\nComment your answer before you swipe to check 👉\n\nIn this integral form of classical electromagnetism, the line integral of the magnetic field around a closed loop equals the enclosed current — the workhorse for calculating fields in solenoids, coaxial cables and current-carrying conductors.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#electromagnetism #physicsstudent #electricalengineering #scicomm #equationtoday"
   },
   "angular_frequency": {
     "name": "Angular Frequency",
-    "caption": "Today's challenge: Hint: it counts oscillations in radians per second — the natural clock of waves.\nSay it out loud, drop it in the comments, then swipe to check 👉\n\nANSWER: Angular Frequency\n\nExpress oscillations in radians per second instead of cycles per second! Angular frequency ω simplifies the mathematics of waves, vibrations, and quantum systems. It's the natural unit for periodic motion.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #waves #oscillations #vibrations #quantum #research #theoreticalphysics #appliedmathematics #mathematician #nerd #geek #university #gradstudent #frequency #periodic #dynamics"
+    "caption": "Which equation converts how many cycles per second into radians per second for anything that oscillates? 🔄\nName it in the comments, then swipe to reveal 👉\n\nA staple of oscillations and wave physics, it converts an oscillator’s cycle rate into radians swept per second, describing pendulums, AC circuits, springs and every kind of periodic and rotational motion.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#classicalmechanics #oscillations #physicsstudent #scicomm #equationtoday"
   },
   "angular_impulse": {
     "name": "Angular Impulse",
-    "caption": "Guess the equation. Hint: a twist applied over time — it's how you change how fast something spins.\nComment your guess before you swipe — bonus points for the units 🤓\n\nANSWER: Angular Impulse\n\nJust as force creates linear momentum, torque creates angular momentum through angular impulse. This principle explains why spinning ice skaters pull their arms in to spin faster—conservation of angular momentum at work!",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #mechanics #rotational #momentum #torque #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #dynamics #motion #rotation"
+    "caption": "Which equation says a twist applied over time changes how much an object spins? 🌀\nDrop your guess in the comments before you swipe 👉\n\nA core result in rotational dynamics, it links the torque applied over a time interval to the change in spin, the rotational cousin of linear impulse used across mechanics and engineering.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#rotationaldynamics #classicalmechanics #physicsstudent #scicomm #equationtoday"
   },
   "angular_jerk": {
     "name": "Angular Jerk",
-    "caption": "One equation, one guess. Hint: the third time-derivative of an angle — robots need it for smooth motion.\nDrop your guess in the comments before you swipe — no peeking 👉\n\nANSWER: Angular Jerk\n\nThe third derivative of angle with respect to time! Angular jerk measures how rapidly angular acceleration changes, essential for understanding rigid body dynamics and robotic motion control. It's pure calculus in motion.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #calculus #derivatives #robotics #mechanics #research #theoreticalphysics #appliedmathematics #mathematician #nerd #geek #university #gradstudent #acceleration #dynamics #motion"
+    "caption": "Which equation measures how quickly angular acceleration itself is changing during a spin? 🌀\nComment your answer before you swipe to check 👉\n\nA higher-order quantity in rotational kinematics, it is the rate of change of angular acceleration — relevant to machinery, robotics and the smoothness of any accelerating rotation.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#rotationaldynamics #kinematics #mechanicalengineering #scicomm #equationtoday"
   },
   "angular_momentum_cross_product": {
     "name": "Angular Momentum (Cross Product Form)",
-    "caption": "Can you name this equation? Hint: the conserved quantity that keeps a spinning top upright, written as r × p.\nComment your answer first, then swipe to slide 2 to check yourself 👉\n\nANSWER: Angular Momentum (Cross Product Form)\n\nL = r × p: Angular momentum emerges from the cross product of position and momentum vectors. This vector quantity defines the amount of rotation in a system and is conserved in isolated systems.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #vectors #mechanics #rotational #momentum #research #theoreticalphysics #appliedmathematics #physicist #mathematician #nerd #geek #university #gradstudent #conservationlaws #dynamics"
+    "caption": "Which equation captures an object's rotational motion as the cross product of position and momentum? 🌀\nName it in the comments, then swipe to reveal 👉\n\nA fundamental conserved quantity in classical and quantum mechanics, defined as the vector product of position and linear momentum — governing orbits, spinning tops, planetary motion and the stability of everything that rotates.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#classicalmechanics #rotationaldynamics #physicsstudent #scicomm #equationtoday"
   },
   "angular_momentum_rotational": {
     "name": "Angular Momentum (Rotational Form)",
-    "caption": "Do you know this one? Hint: why an ice skater speeds up the instant they pull their arms in.\nType your guess below before you swipe — no cheating, we'll know 👀\n\nANSWER: Angular Momentum (Rotational Form)\n\nL = Iω connects rotational inertia to angular velocity. Understand why compact spinning objects rotate faster—it's the rotational analog of F=ma, governing all spinning motion from atoms to galaxies.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #mechanics #rotational #inertia #dynamics #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #motion #conservation #angular"
+    "caption": "Which equation gives a rigid body's spin as its resistance-to-rotation times how fast it turns? 🌀\nDrop your guess in the comments before you swipe 👉\n\nA central result in rotational dynamics, expressing spin as the product of the moment of inertia and angular velocity — the reason a figure skater speeds up when pulling their arms in, and a conserved quantity throughout mechanics.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#rotationaldynamics #classicalmechanics #physicsstudent #scicomm #equationtoday"
   },
   "angular_velocity": {
     "name": "Angular Velocity",
-    "caption": "Name that equation. Hint: it measures spin rate in radians per second, from centrifuges to planets.\nCommit to an answer in the comments, then swipe to see if you nailed it 👉\n\nANSWER: Angular Velocity\n\nHow fast does something spin? Angular velocity ω measures rotation rate in radians per second. It's fundamental for understanding everything from planetary orbits to centrifuges to quantum mechanical angular momentum.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #mechanics #rotational #dynamics #orbits #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #motion #rotation #frequency"
+    "caption": "Which equation describes how fast an object rotates, measured in radians swept per second? 🔄\nComment your answer before you swipe to check 👉\n\nThe rotational counterpart of linear speed, it quantifies the rate of change of angular position — foundational to rotational dynamics, orbital mechanics and the physics of gears, turbines and spinning bodies.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#rotationaldynamics #kinematics #physicsstudent #scicomm #equationtoday"
   },
   "archimedes_principle": {
     "name": "Archimedes' Principle",
-    "caption": "What's this equation called? Hint: the 2,000-year-old reason ships float and hot-air balloons climb.\nGuess in the comments before checking slide 2 — how many can you get? ✅\n\nANSWER: Archimedes' Principle\n\nThe buoyant force equals the weight of displaced fluid—an ancient insight that explains why ships float and hot air balloons rise. This principle has shaped engineering for over 2000 years!",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #buoyancy #fluids #forces #history #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #ancient #innovation #sciencefacts"
+    "caption": "Which equation explains why ships float — the upward push equals the weight of fluid pushed aside? 🚢\nName it in the comments, then swipe to reveal 👉\n\nA foundational result in fluid statics, the buoyant force on a submerged body equals the weight of the displaced fluid — explaining flotation, hot-air balloons, submarines and hydrometers.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#fluidmechanics #physicsstudent #buoyancy #scicomm #equationtoday"
   },
   "arrhenius_equation": {
     "name": "Arrhenius Equation",
-    "caption": "Know this one? Hint: why a small rise in temperature can make a chemical reaction dramatically faster.\nSay it out loud, drop it in the comments, then swipe to check 👉\n\nANSWER: Arrhenius Equation\n\nThis exponential equation governs reaction rates and temperature dependence—tiny changes in temperature cause huge changes in reaction speed. Understanding it is key to chemistry, catalysis, and industrial processes.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #chemistry #kinetics #reactions #temperature #research #theoreticalphysics #appliedmathematics #chemist #nerd #geek #university #gradstudent #catalysis #exponential #rates"
+    "caption": "Which equation explains why chemical reactions speed up dramatically as you heat things up? 🔥\nDrop your guess in the comments before you swipe 👉\n\nA cornerstone of chemical kinetics, it links reaction rate to temperature and activation energy through an exponential factor — describing everything from cooking and corrosion to enzyme activity and battery degradation.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#physicalchemistry #chemistry #kinetics #scicomm #equationtoday"
   },
   "barometric_formula": {
     "name": "Barometric Formula",
-    "caption": "Today's challenge: Hint: why the air runs out long before you reach the top of Everest.\nComment your guess before you swipe — bonus points for the units 🤓\n\nANSWER: Barometric Formula\n\nWhy does air get thinner as you climb? The barometric formula describes exponential pressure decay with altitude—explaining why mountaineers need oxygen at high elevations and why satellites eventually fall.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #atmosphere #pressure #exponential #altitude #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #air #gravity #environment"
+    "caption": "Which equation predicts how air pressure falls exponentially as you climb higher into the atmosphere? ⛰️\nComment your answer before you swipe to check 👉\n\nA key result in atmospheric physics, it describes how pressure decreases with altitude in a gravity field, underpinning altimeters, weather balloons, aviation and models of planetary atmospheres.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#atmosphericscience #physics #meteorology #scicomm #equationtoday"
   },
   "bekenstein_hawking_entropy": {
     "name": "Bekenstein-Hawking Entropy",
-    "caption": "Guess the equation. Hint: a black hole's disorder, written on its surface area.\nDrop your guess in the comments before you swipe — no peeking 👉\n\nANSWER: Bekenstein-Hawking Entropy\n\nBlack holes have entropy proportional to their surface area—mind-bending physics at the intersection of gravity and thermodynamics. This equation hints at deep connections between black holes and information theory.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #blackholes #entropy #thermodynamics #quantum #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #gravity #information #cosmology #sciencefacts"
+    "caption": "Which equation says a black hole's entropy is set by the area of its event horizon, not its volume? 🕳️\nName it in the comments, then swipe to reveal 👉\n\nA landmark of black hole thermodynamics, it ties entropy to horizon area and hints at a deep link between gravity, quantum theory and information — a cornerstone of the holographic principle and quantum gravity research.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#blackholes #astrophysics #quantumgravity #scicomm #equationtoday"
   },
   "bernoulli_equation": {
     "name": "Bernoulli's Equation",
-    "caption": "One equation, one guess. Hint: why faster-moving fluid has lower pressure — the secret of aeroplane wings.\nComment your answer first, then swipe to slide 2 to check yourself 👉\n\nANSWER: Bernoulli's Equation\n\nEnergy conservation in flowing fluids! Bernoulli's equation explains why faster-flowing water has lower pressure—the principle behind airplane wings, carburetors, and water jets. Fluid dynamics masterpiece.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #fluids #aerodynamics #energy #flow #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #pressure #aircraft #innovation"
+    "caption": "Which equation says faster-moving fluid has lower pressure — the idea behind how wings generate lift? ✈️\nDrop your guess in the comments before you swipe 👉\n\nA classic of fluid dynamics, it relates a fluid's pressure, speed and height along a streamline via energy conservation — explaining aerofoil lift, venturi meters, carburettors and flow through pipes.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#fluiddynamics #aerodynamics #physicsstudent #scicomm #equationtoday"
   },
   "bohr_model": {
     "name": "Bohr Model Equation",
-    "caption": "Can you name this equation? Hint: the first equation to predict hydrogen's electron orbits and their energies.\nType your guess below before you swipe — no cheating, we'll know 👀\n\nANSWER: Bohr Model Equation\n\nNiels Bohr cracked the atomic code with this equation describing electron orbits in hydrogen. Though superseded by quantum mechanics, it beautifully shows how discrete energy levels arise from quantum rules.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #quantum #atoms #electrons #bohr #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #atomicphysics #energy #history #sciencefacts"
+    "caption": "Which equation gives the quantised energy levels of hydrogen, explaining why atoms emit sharp spectral lines? ⚛️\nComment your answer before you swipe to check 👉\n\nAn early triumph of quantum theory, it predicts the discrete energy levels of the hydrogen atom and the wavelengths of its spectral lines, bridging classical orbits and modern atomic physics.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#quantumphysics #atomicphysics #physicsstudent #scicomm #equationtoday"
   },
   "boltzmann_distribution": {
     "name": "Boltzmann Distribution",
-    "caption": "Do you know this one? Hint: what fraction of molecules have a given energy at temperature T.\nCommit to an answer in the comments, then swipe to see if you nailed it 👉\n\nANSWER: Boltzmann Distribution\n\nWhat fraction of molecules have energy E at temperature T? Boltzmann distribution answers this, governing everything from gas molecules to stellar atmospheres. It's the statistical foundation of thermodynamics.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #thermodynamics #statistical #probability #energy #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #temperature #molecules #exponential"
+    "caption": "Which equation tells you how likely a system is to occupy a state of given energy at a given temperature? 🌡️\nName it in the comments, then swipe to reveal 👉\n\nA foundation of statistical mechanics, it gives the probability of a state as an exponential in energy over temperature — underpinning gas behaviour, reaction rates, semiconductors and the meaning of temperature itself.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#statisticalmechanics #thermodynamics #physicsstudent #scicomm #equationtoday"
   },
   "boltzmann_entropy": {
     "name": "Boltzmann Entropy",
-    "caption": "Name that equation. Hint: disorder as a count of microstates — it's carved on its author's gravestone.\nGuess in the comments before checking slide 2 — how many can you get? ✅\n\nANSWER: Boltzmann Entropy\n\nS = k ln(Ω): Entropy measures disorder through the logarithm of possible microstates. Boltzmann's insight connects microscopic randomness to macroscopic thermodynamics—one of physics' deepest ideas.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #entropy #thermodynamics #statistical #disorder #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #probability #information #sciencefacts"
+    "caption": "Which equation connects entropy to the number of microscopic arrangements a system can have? 🎲\nDrop your guess in the comments before you swipe 👉\n\nA profound bridge between the microscopic and macroscopic, it defines entropy in terms of the count of accessible microstates — the statistical heart of the second law of thermodynamics, famously carved on its discoverer's gravestone.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#statisticalmechanics #thermodynamics #physicsstudent #scicomm #equationtoday"
   },
   "borda_carnot_equation": {
     "name": "Borda-Carnot Equation",
-    "caption": "What's this equation called? Hint: the energy a flowing fluid loses when a pipe suddenly widens.\nSay it out loud, drop it in the comments, then swipe to check 👉\n\nANSWER: Borda-Carnot Equation\n\nEnergy loss in fluid flows strikes again! The Borda-Carnot equation quantifies head loss when flowing fluid encounters sudden area changes. Critical for designing pipelines, dams, and water treatment systems.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #fluids #hydraulics #energy #loss #research #appliedmathematics #engineer #nerd #geek #university #gradstudent #flow #pipes #infrastructure #sciencefacts"
+    "caption": "Which equation estimates the energy lost when a fluid flow suddenly expands or hits an obstacle? 🌊\nComment your answer before you swipe to check 👉\n\nA practical result in fluid mechanics, it quantifies head loss due to abrupt changes in flow, used in pipe network design, hydraulics and analysing turbulence-driven energy dissipation.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#fluidmechanics #hydraulics #engineering #scicomm #equationtoday"
   },
   "born_rule": {
     "name": "Born Rule",
-    "caption": "Know this one? Hint: how a wavefunction becomes the probability of what you'll actually measure.\nComment your guess before you swipe — bonus points for the units 🤓\n\nANSWER: Born Rule\n\nThe Born rule is quantum mechanics' interpretation—the probability of measuring outcome equals the squared amplitude of the wavefunction. It's how randomness enters our universe at the deepest level.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #quantum #probability #wavefunction #mechanics #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #interpretation #measurement #randomness #sciencefacts"
+    "caption": "Which equation turns a quantum wavefunction into the probability of actually measuring a result? 🎲\nName it in the comments, then swipe to reveal 👉\n\nA postulate at the core of quantum mechanics, it states that the probability of an outcome is the squared magnitude of the wavefunction amplitude — the link between quantum formalism and what detectors actually record.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#quantummechanics #quantumphysics #physicsstudent #scicomm #equationtoday"
   },
   "capacitance": {
     "name": "Capacitance",
-    "caption": "Today's challenge: Hint: charge stored per volt — your phone's touchscreen senses you with it.\nDrop your guess in the comments before you swipe — no peeking 👉\n\nANSWER: Capacitance\n\nC = Q/V: How much charge can a capacitor store per volt? Capacitance is everywhere in electronics—from smartphone screens to power systems. This simple ratio defines a crucial electrical property.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #electronics #electricity #circuits #research #appliedmathematics #engineer #nerd #geek #university #gradstudent #technology #charge #voltage #sciencefacts #physicsnerds"
+    "caption": "Which equation measures how much electric charge a component can store per volt applied? 🔋\nDrop your guess in the comments before you swipe 👉\n\nA basic definition in electronics and electromagnetism, relating stored charge to voltage — fundamental to capacitors, filters, timing circuits, touchscreens and energy storage.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#electronics #electromagnetism #circuits #scicomm #equationtoday"
   },
   "capacitive_reactance": {
     "name": "Capacitive Reactance",
-    "caption": "Guess the equation. Hint: why one circuit component blocks DC but waves high frequencies straight through.\nComment your answer first, then swipe to slide 2 to check yourself 👉\n\nANSWER: Capacitive Reactance\n\nIn AC circuits, capacitors resist current flow with frequency-dependent reactance Xc = 1/(ωC). Higher frequencies flow through easily while DC blocks completely—the foundation of AC circuit analysis and filter design.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #electronics #circuits #AC #frequency #research #appliedmathematics #engineer #nerd #geek #university #gradstudent #electricity #impedance #signals #sciencefacts"
+    "caption": "Which equation describes how a capacitor resists alternating current more strongly at low frequencies? 🔌\nComment your answer before you swipe to check 👉\n\nA key relation in AC circuit theory, it gives the frequency-dependent opposition a capacitor presents to alternating current — central to filters, audio crossovers, power electronics and signal processing.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#electronics #circuits #electricalengineering #scicomm #equationtoday"
   },
   "cauchy_momentum_equation_v1": {
     "name": "Cauchy Momentum Equation (Version 1)",
-    "caption": "One equation, one guess. Hint: Newton's second law, rewritten for every little parcel of a flowing fluid.\nType your guess below before you swipe — no cheating, we'll know 👀\n\nANSWER: Cauchy Momentum Equation\n\nNewton's second law for fluids! This equation extends F=ma to continuous media, describing how pressure gradients and body forces accelerate fluid elements. It's foundational for computational fluid dynamics.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #fluids #mechanics #forces #momentum #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #dynamics #acceleration #cfd"
+    "caption": "Which equation expresses Newton's second law for a continuous deforming material, in convective form? 🌊\nName it in the comments, then swipe to reveal 👉\n\nA general statement of momentum conservation in continuum mechanics, relating acceleration of a material element to internal stresses and body forces — the parent of the fluid-flow equations used across engineering and geophysics.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#continuummechanics #fluiddynamics #appliedmaths #scicomm #equationtoday"
   },
   "cauchy_momentum_equation_v2": {
     "name": "Cauchy Momentum Equation (Version 2)",
-    "caption": "Can you name this equation? Hint: how internal stresses push a fluid around — the engine of weather simulations.\nCommit to an answer in the comments, then swipe to see if you nailed it 👉\n\nANSWER: Cauchy Momentum Equation\n\nThe stress tensor form reveals internal forces in flowing fluids—how pressure and viscous forces combine to create motion. This equation runs every weather simulation and aerodynamic calculation.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #fluids #stress #tensor #dynamics #research #appliedmathematics #engineer #physicist #nerd #geek #university #gradstudent #simulation #weather #aerodynamics"
+    "caption": "Which equation states momentum balance for a deforming continuum using the stress tensor divergence? 🌊\nDrop your guess in the comments before you swipe 👉\n\nIn this form, continuum mechanics expresses how the divergence of the stress tensor and body forces drive the motion of a material — the foundation from which fluid and solid dynamics equations are derived.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#continuummechanics #fluiddynamics #appliedmaths #scicomm #equationtoday"
   },
   "centrifugal_force": {
     "name": "Centrifugal Force",
-    "caption": "Do you know this one? Hint: the outward 'push' you feel on a merry-go-round that isn't really there.\nGuess in the comments before checking slide 2 — how many can you get? ✅\n\nANSWER: Centrifugal Force\n\nFeel the outward push in a spinning reference frame? Centrifugal force appears as a pseudo-force in rotating coordinates—useful for analyzing motion in carousels, hurricanes, and rotating machinery.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #mechanics #rotational #forces #reference #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #acceleration #rotation #frames"
+    "caption": "Which equation gives the outward-seeming push you feel when a car whips around a tight bend? 🌀\nComment your answer before you swipe to check 👉\n\nAn inertial effect in rotating reference frames, it depends on mass, rotation rate and radius — explaining spin dryers, centrifuges, banked roads and the apparent forces in non-inertial frames.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#classicalmechanics #rotationaldynamics #physicsstudent #scicomm #equationtoday"
   },
   "centripetal_acceleration": {
     "name": "Centripetal Acceleration",
-    "caption": "Name that equation. Hint: the inward pull, v²/r, that keeps anything moving in a circle.\nSay it out loud, drop it in the comments, then swipe to check 👉\n\nANSWER: Centripetal Acceleration\n\nKeep it together: a = v²/r is the inward acceleration needed to maintain circular motion. Whether it's gravity holding planets or friction keeping cars on curves, centripetal acceleration is always working.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #mechanics #circular #motion #acceleration #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #forces #orbits #curves"
+    "caption": "Which equation gives the inward acceleration that keeps anything moving in a circle? 🔄\nName it in the comments, then swipe to reveal 👉\n\nA fundamental result in circular motion, it depends on speed and radius and points toward the centre — governing orbits, banked curves, spinning machinery and satellites held in their paths.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#classicalmechanics #kinematics #physicsstudent #scicomm #equationtoday"
   },
   "charles_law": {
     "name": "Charles' Law",
-    "caption": "What's this equation called? Hint: warm a gas at constant pressure and its volume grows in lockstep.\nComment your guess before you swipe — bonus points for the units 🤓\n\nANSWER: Charles' Law\n\nV/T = constant for gases at constant pressure: volume and temperature are proportional. This fundamental gas law explains why hot air rises and why tire pressure increases when heated.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #thermodynamics #gases #temperature #pressure #research #theoreticalphysics #appliedmathematics #chemist #nerd #geek #university #gradstudent #volume #laws #properties"
+    "caption": "Which gas equation says heat a trapped gas at fixed pressure and its volume grows in step with temperature? 🎈\nDrop your guess in the comments before you swipe 👉\n\nA classic gas relation in thermodynamics, it states that volume is proportional to absolute temperature at constant pressure — explaining hot-air balloons, thermometers and the behaviour of gases when heated.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#thermodynamics #physicalchemistry #physicsstudent #scicomm #equationtoday"
   },
   "continuity_equation": {
     "name": "Continuity Equation",
-    "caption": "Know this one? Hint: mass can't vanish — it's why a river speeds up through a narrow gorge.\nDrop your guess in the comments before you swipe — no peeking 👉\n\nANSWER: Continuity Equation\n\nMatter can't vanish: ∂ρ/∂t + ∇·(ρv) = 0 expresses conservation of mass in fluid flow. Faster flows in narrow pipes is a direct consequence—what goes in must come out!",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #fluids #conservation #mass #flow #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #dynamics #density #velocity"
+    "caption": "Which equation says whatever flows in must flow out — mass is conserved as a fluid moves? 🌊\nComment your answer before you swipe to check 👉\n\nA statement of local conservation in fluid dynamics and electromagnetism, linking the change of density to the divergence of flux — the reason a narrowing pipe speeds up flow, and a backbone of transport theory.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#fluiddynamics #appliedmaths #physicsstudent #scicomm #equationtoday"
   },
   "coulombs_law": {
     "name": "Coulomb's Law",
-    "caption": "Today's challenge: Hint: the inverse-square push between two charges — electricity's answer to gravity.\nComment your answer first, then swipe to slide 2 to check yourself 👉\n\nANSWER: Coulomb's Law\n\nThe electrostatic force between charges: F = kq₁q₂/r². This inverse-square law governs atomic forces, chemical bonding, and the entire electromagnetic framework. Elegant, powerful, foundational.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #electromagnetism #electricity #forces #charges #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #interaction #atoms #bonding"
+    "caption": "Which equation gives the force between two electric charges, falling off with the square of their separation? ⚡\nName it in the comments, then swipe to reveal 👉\n\nA foundation of electrostatics, it says the force between charges scales with their product and inversely with distance squared — governing everything from static cling to the structure of atoms and molecules.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#electromagnetism #electrostatics #physicsstudent #scicomm #equationtoday"
   },
   "crackle_fifth_derivative": {
     "name": "Crackle (Fifth Derivative)",
-    "caption": "Guess the equation. Hint: position, differentiated five times — it shares a name with a breakfast-cereal mascot.\nType your guess below before you swipe — no cheating, we'll know 👀\n\nANSWER: Crackle (Fifth Derivative)\n\nBeyond jerk comes crackle—the fifth time derivative of position! While rarely used in physics, it appears in high-precision trajectory planning and demonstrates the beauty of calculus's higher derivatives.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #calculus #derivatives #kinematics #research #theoreticalphysics #appliedmathematics #mathematician #nerd #geek #university #gradstudent #analysis #motion #computation #sciencefacts"
+    "caption": "Which quantity is the fifth time-derivative of position — beyond velocity, acceleration, jerk and snap? 🎢\nDrop your guess in the comments before you swipe 👉\n\nA higher-order kinematic quantity, the fifth derivative of position with respect to time, relevant to motion-control, cam design and analysing extremely smooth or jerk-sensitive systems.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#kinematics #classicalmechanics #mechanicalengineering #scicomm #equationtoday"
   },
   "dalembert_operator": {
     "name": "d'Alembert Operator",
-    "caption": "One equation, one guess. Hint: the □ symbol that packs wave propagation through spacetime into one neat object.\nCommit to an answer in the comments, then swipe to see if you nailed it 👉\n\nANSWER: d'Alembert Operator\n\nThe wave operator ∂²/∂t² - c²∇² unifies spacetime in relativity! Also called the d'Alembertian, it describes how waves propagate through space and time with universal speed c.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #relativity #waves #spacetime #light #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #fields #operators #quantum"
+    "caption": "Which operator is the spacetime version of the Laplacian, driving every wave in relativistic physics? 🌐\nComment your answer before you swipe to check 👉\n\nA central object in field theory and special relativity, it combines space and time derivatives to describe wave propagation in a Lorentz-invariant way — appearing in electromagnetism, quantum field theory and gravitational waves.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#theoreticalphysics #fieldtheory #relativity #scicomm #equationtoday"
   },
   "daltons_law": {
     "name": "Dalton's Law",
-    "caption": "Can you name this equation? Hint: add up each gas's own pressure to get the total — vital knowledge for scuba divers.\nGuess in the comments before checking slide 2 — how many can you get? ✅\n\nANSWER: Dalton's Law\n\nTotal pressure = sum of partial pressures in gas mixtures! Dalton's law of partial pressures explains atmosphere composition and enables scuba diving calculations. Simple but profoundly useful.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #gases #pressure #mixtures #atmosphere #research #theoreticalphysics #appliedmathematics #chemist #nerd #geek #university #gradstudent #composition #properties #diving"
+    "caption": "Which equation says the total pressure of a gas mixture is just the sum of each gas's own pressure? 🫧\nName it in the comments, then swipe to reveal 👉\n\nA key relation in the physics of gas mixtures, stating that total pressure equals the sum of partial pressures — essential to respiration, scuba diving, atmospheric chemistry and gas-phase reactions.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#physicalchemistry #thermodynamics #chemistry #scicomm #equationtoday"
   },
   "darcy_law": {
     "name": "Darcy's Law",
-    "caption": "Do you know this one? Hint: how groundwater seeps through soil and coffee drips through the grounds.\nSay it out loud, drop it in the comments, then swipe to check 👉\n\nANSWER: Darcy's Law\n\nFlow through porous media: Q = -KA(dh/dx) governs groundwater movement, soil drainage, and filtration. Darcy's law explains why some soils stay wet while others drain quickly.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #hydrology #fluids #porous #soil #research #appliedmathematics #engineer #geologist #nerd #geek #university #gradstudent #water #flow #permeability"
+    "caption": "Which equation predicts how fast water seeps through soil, sand or porous rock? 💧\nDrop your guess in the comments before you swipe 👉\n\nThe foundation of hydrogeology and porous-media flow, relating flow rate to permeability and pressure gradient — governing groundwater movement, oil reservoirs, filtration and aquifer management.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#hydrogeology #fluidmechanics #geoscience #scicomm #equationtoday"
   },
   "darcy_weisbach_equation": {
     "name": "Darcy-Weisbach Equation",
-    "caption": "Name that equation. Hint: how much pressure a pipeline loses to friction — engineers size pumps with it.\nComment your guess before you swipe — bonus points for the units 🤓\n\nANSWER: Darcy-Weisbach Equation\n\nFriction loss in pipes: hf = f(L/D)(V²/2g) calculates pressure drop in fluid flow. Essential for pipeline design, engineers use this daily to size pumps and predict flow rates.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #fluids #friction #pipes #research #appliedmathematics #engineer #nerd #geek #university #gradstudent #flow #hydraulics #infrastructure #sciencefacts #physicsnerds"
+    "caption": "Which equation tells engineers how much pressure is lost to friction as fluid flows down a pipe? 🚰\nComment your answer before you swipe to check 👉\n\nA workhorse of hydraulics, it relates head loss to pipe length, diameter, flow speed and a friction factor — central to designing water networks, pipelines and HVAC systems.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#hydraulics #fluidmechanics #engineering #scicomm #equationtoday"
   },
   "de_broglie_relation": {
     "name": "de Broglie Relation",
-    "caption": "What's this equation called? Hint: every moving particle has a wavelength — technically, even you do.\nDrop your guess in the comments before you swipe — no peeking 👉\n\nANSWER: de Broglie Relation\n\nλ = h/p: Matter has wavelength! de Broglie's insight revolutionized physics—electrons, atoms, and molecules exhibit wave behavior. This bridges the quantum and classical worlds fundamentally.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #quantum #waves #matter #wavelength #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #duality #particles #planck #sciencefacts"
+    "caption": "Which equation says every particle also behaves as a wave, with a wavelength set by its momentum? 🌊\nName it in the comments, then swipe to reveal 👉\n\nA revolutionary idea in quantum mechanics, linking a particle's momentum to a wavelength — the basis of electron microscopy, matter-wave interference and the wave-particle duality at the heart of the quantum world.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#quantummechanics #quantumphysics #physicsstudent #scicomm #equationtoday"
   },
   "digamma_function": {
     "name": "Digamma Function",
-    "caption": "Know this one? Hint: take the logarithm of the factorial's famous generalisation, then differentiate.\nComment your answer first, then swipe to slide 2 to check yourself 👉\n\nANSWER: Digamma Function\n\nThe logarithmic derivative of the gamma function, the digamma function appears in complex analysis, statistics, and quantum field theory. Pure mathematical elegance underlying physics.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #functions #analysis #quantum #research #theoreticalphysics #appliedmathematics #mathematician #nerd #geek #university #gradstudent #calculus #special #sciencefacts #physicsnerds"
+    "caption": "Which special function is the logarithmic derivative of the factorial-generalising gamma function? ➗\nDrop your guess in the comments before you swipe 👉\n\nAn important special function in analysis and number theory, defined as the derivative of the log of the gamma function — appearing in series summation, statistical distributions and evaluating tricky integrals.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#mathematics #analysis #puremaths #scicomm #equationtoday"
   },
   "distance_modulus": {
     "name": "Distance Modulus",
-    "caption": "Today's challenge: Hint: how astronomers turn 'how bright it looks' into 'how far away it is'.\nType your guess below before you swipe — no cheating, we'll know 👀\n\nANSWER: Distance Modulus\n\nAstronomers measure cosmic distances using the distance modulus relating apparent and absolute magnitude! This equation connects observations of distant supernovae to universe expansion and dark energy.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #astronomy #cosmology #distance #magnitude #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #universe #stars #light #sciencefacts"
+    "caption": "Which astronomy equation turns how bright a star looks versus how bright it truly is into its distance? 🔭\nComment your answer before you swipe to check 👉\n\nA fundamental tool in observational astronomy, relating apparent and absolute magnitude to distance — the basis of the cosmic distance ladder used to measure how far away stars and galaxies lie.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#astrophysics #astronomy #cosmology #scicomm #equationtoday"
   },
   "doppler_effect": {
     "name": "Doppler Effect",
-    "caption": "Guess the equation. Hint: why a siren drops in pitch as it passes — and why distant galaxies look red.\nCommit to an answer in the comments, then swipe to see if you nailed it 👉\n\nANSWER: Doppler Effect\n\nObserver motion changes observed frequency—sirens pitch-shift as they pass, light from moving stars shifts red or blue. The Doppler effect reveals motion in the universe and powers velocity measurements.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #waves #sound #light #motion #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #frequency #velocity #redshift"
+    "caption": "Which equation explains why a siren's pitch drops as it speeds past you? 🚑\nName it in the comments, then swipe to reveal 👉\n\nA wave phenomenon central to physics and astronomy, describing how observed frequency shifts with relative motion — behind radar guns, medical ultrasound, and measuring the motion of stars and galaxies.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#waves #physics #astronomy #scicomm #equationtoday"
   },
   "drag_equation": {
     "name": "Drag Equation",
-    "caption": "One equation, one guess. Hint: air resistance grows with speed squared — it's why skydivers stop accelerating.\nGuess in the comments before checking slide 2 — how many can you get? ✅\n\nANSWER: Drag Equation\n\nF_drag = 0.5ρv²ACD: Air resistance rises with the square of velocity! This equation explains why skydivers reach terminal velocity and why aerodynamic design matters for speed and efficiency.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #fluids #aerodynamics #forces #velocity #research #appliedmathematics #engineer #physicist #nerd #geek #university #gradstudent #resistance #design #sports"
+    "caption": "Which equation gives the resistive force a moving object feels as it pushes through air or water? 🪂\nDrop your guess in the comments before you swipe 👉\n\nA key result in fluid dynamics, relating this resistive force to fluid density, speed squared, area and a shape-dependent coefficient — governing skydivers, car aerodynamics, aircraft design and terminal velocity.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#aerodynamics #fluiddynamics #engineering #scicomm #equationtoday"
   },
   "drift_velocity": {
     "name": "Drift Velocity",
-    "caption": "Can you name this equation? Hint: electrons in your wires crawl at millimetres per second — this is their speed.\nSay it out loud, drop it in the comments, then swipe to check 👉\n\nANSWER: Drift Velocity\n\nElectrons in wires move surprisingly slowly—millimeters per second! Despite this, electrical signals propagate near light speed due to field effects. Drift velocity reconciles everyday electricity with physics.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #electricity #electrons #circuits #velocity #research #appliedmathematics #engineer #physicist #nerd #geek #university #gradstudent #current #fields #propagation"
+    "caption": "Which equation gives the surprisingly slow average speed of electrons carrying a current down a wire? 🔌\nComment your answer before you swipe to check 👉\n\nA concept in solid-state and electrical physics, giving the net speed of charge carriers under an applied field — explaining conduction, current density and how metals and semiconductors carry electricity.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#electromagnetism #solidstatephysics #electronics #scicomm #equationtoday"
   },
   "einstein_field_equations_no_lambda_v1": {
     "name": "Einstein Field Equations (No Lambda, Version 1)",
-    "caption": "Do you know this one? Hint: mass tells spacetime how to curve; spacetime tells mass how to move.\nComment your guess before you swipe — bonus points for the units 🤓\n\nANSWER: Einstein Field Equations (No Lambda)\n\nGμν = 8πGTμν: Einstein's masterpiece relates spacetime curvature to mass-energy distribution. Without dark energy, this equation describes gravity and the universe's large-scale structure.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #relativity #gravity #spacetime #cosmology #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #einstein #fields #universe #sciencefacts"
+    "caption": "Which equation says matter and energy tell spacetime how to curve, and curvature tells matter how to move? 🌌\nName it in the comments, then swipe to reveal 👉\n\nThe heart of general relativity, relating spacetime curvature to the energy and momentum it contains — predicting black holes, gravitational lensing, gravitational waves and the expansion of the universe.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#generalrelativity #astrophysics #theoreticalphysics #scicomm #equationtoday"
   },
   "einstein_field_equations_no_lambda_v2": {
     "name": "Einstein Field Equations (No Lambda, Version 2)",
-    "caption": "Name that equation. Hint: the tensor equations that replaced Newton's gravity with curved spacetime.\nDrop your guess in the comments before you swipe — no peeking 👉\n\nANSWER: Einstein Field Equations (No Lambda)\n\nDifferent notation, same revolutionary insight: gravity emerges from curved spacetime! Einstein's equations are nature's blueprint, explaining black holes, gravitational waves, and the universe's fate.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #relativity #gravity #spacetime #fields #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #einstein #curvature #dynamics #sciencefacts"
+    "caption": "Which equation ties the geometry of spacetime directly to its energy-momentum content, in trace-reversed form? 🌌\nDrop your guess in the comments before you swipe 👉\n\nA compact form of general relativity's gravitational equations, expressing how energy and momentum source spacetime curvature — the mathematical engine behind modern cosmology and gravitational physics.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#generalrelativity #cosmology #theoreticalphysics #scicomm #equationtoday"
   },
   "einstein_field_equations_with_lambda_v1": {
     "name": "Einstein Field Equations (With Lambda, Version 1)",
-    "caption": "What's this equation called? Hint: curved spacetime plus one extra constant — the term behind dark energy.\nComment your answer first, then swipe to slide 2 to check yourself 👉\n\nANSWER: Einstein Field Equations (With Lambda)\n\nAdd the cosmological constant Λ, and suddenly dark energy appears! Modern cosmology hinges on this term—explaining the accelerating expansion of our universe and its eventual heat death.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #cosmology #darkenergy #universe #expansion #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #spacetime #relativity #gravity #sciencefacts"
+    "caption": "Which equation adds a cosmological constant to gravity, encoding the dark energy accelerating the universe? 🌌\nComment your answer before you swipe to check 👉\n\nThe equations of general relativity extended with a cosmological constant, linking spacetime curvature to energy content plus a vacuum term — the framework behind the accelerating expansion and modern cosmology.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#cosmology #generalrelativity #darkenergy #scicomm #equationtoday"
   },
   "einstein_field_equations_with_lambda_v2": {
     "name": "Einstein Field Equations (With Lambda, Version 2)",
-    "caption": "Know this one? Hint: its author called this constant his 'biggest blunder' — now it runs the cosmos.\nType your guess below before you swipe — no cheating, we'll know 👀\n\nANSWER: Einstein Field Equations (With Lambda)\n\nThe universe's ultimate fate rests on this one constant! The cosmological constant Λ drives acceleration, and understanding it might be the key to unifying quantum mechanics and gravity.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #cosmology #gravity #universe #expansion #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #einstein #dark #mysteries #sciencefacts"
+    "caption": "Which equation of gravity carries the vacuum-energy term thought to drive cosmic acceleration? 🌌\nName it in the comments, then swipe to reveal 👉\n\nA form of general relativity's gravitational equations retaining the cosmological constant, connecting geometry to energy-momentum and dark energy — central to the standard model of cosmology.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#cosmology #generalrelativity #darkenergy #scicomm #equationtoday"
   },
   "einstein_relation_diffusion": {
     "name": "Einstein Relation (Diffusion)",
-    "caption": "Today's challenge: Hint: how pollen's random jiggling in water helped prove that atoms are real.\nCommit to an answer in the comments, then swipe to see if you nailed it 👉\n\nANSWER: Einstein Relation (Diffusion)\n\nD = kT/6πηr connects diffusion coefficient to molecular properties! Einstein showed random molecular motion leads to diffusion—a bridge between Brownian motion and thermodynamics.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #diffusion #statistical #brownian #molecules #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #temperature #viscosity #mobility"
+    "caption": "Which equation links how easily particles drift to how vigorously they randomly diffuse? 🌡️\nDrop your guess in the comments before you swipe 👉\n\nA cornerstone of statistical physics, connecting mobility and diffusion through temperature — a fluctuation-dissipation result underpinning Brownian motion, colloids, semiconductors and electrochemistry.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#statisticalmechanics #softmatter #physicalchemistry #scicomm #equationtoday"
   },
   "electrical_power": {
     "name": "Electrical Power",
-    "caption": "Guess the equation. Hint: the rate a circuit turns current into heat and light — your kettle obeys it.\nGuess in the comments before checking slide 2 — how many can you get? ✅\n\nANSWER: Electrical Power\n\nP = IV = I²R = V²/R: Multiple forms of one fundamental equation describing power dissipation in circuits. Understanding this equation is crucial for electronics, power systems, and energy efficiency.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #electricity #power #circuits #research #appliedmathematics #engineer #nerd #geek #university #gradstudent #energy #technology #efficiency #sciencefacts #physicsnerds"
+    "caption": "Which equation tells you the rate at which a device converts electrical energy — volts times amps? 💡\nComment your answer before you swipe to check 👉\n\nA fundamental relation in electrical engineering, giving this rate as the product of voltage and current — the basis of energy bills, appliance ratings, circuit design and electricity distribution.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#electronics #circuits #electricalengineering #scicomm #equationtoday"
   },
   "energy_momentum_relation": {
     "name": "Energy-Momentum Relation",
-    "caption": "One equation, one guess. Hint: special relativity's full upgrade of E = mc², with an extra term for motion.\nSay it out loud, drop it in the comments, then swipe to check 👉\n\nANSWER: Energy-Momentum Relation\n\nE² = (pc)² + (mc²)²: The relativistic relation between energy and momentum reveals rest mass energy mc²! Without this, there's no understanding of particle physics or nuclear power.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #relativity #energy #particles #quantum #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #mass #momentum #light #sciencefacts"
+    "caption": "Which relativistic equation ties a particle's total energy to its momentum and rest mass? ⚡\nName it in the comments, then swipe to reveal 👉\n\nA pillar of special relativity, generalising mass-energy equivalence to moving particles — essential in particle physics, describing photons, relativistic collisions and the kinematics at accelerators.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#relativity #particlephysics #theoreticalphysics #scicomm #equationtoday"
   },
   "enthalpy": {
     "name": "Enthalpy",
-    "caption": "Can you name this equation? Hint: the heat content chemists track in every reaction at constant pressure.\nComment your guess before you swipe — bonus points for the units 🤓\n\nANSWER: Enthalpy\n\nH = U + PV: Enthalpy measures the total heat content of a system at constant pressure. Chemical reactions are described by enthalpy changes, making this crucial for chemistry and thermodynamics.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #thermodynamics #chemistry #energy #heat #research #appliedmathematics #chemist #physicist #nerd #geek #university #gradstudent #reactions #pressure #systems"
+    "caption": "Which thermodynamic quantity bundles a system's internal energy with its pressure-volume work? 🔥\nDrop your guess in the comments before you swipe 👉\n\nA central concept in thermodynamics and chemistry, tracking heat exchanged at constant pressure — the basis of reaction heats, calorimetry, phase changes and chemical engineering energy balances.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#thermodynamics #physicalchemistry #chemistry #scicomm #equationtoday"
   },
   "escape_velocity": {
     "name": "Escape Velocity",
-    "caption": "Do you know this one? Hint: hit 11.2 km/s straight up and Earth can never pull you back.\nDrop your guess in the comments before you swipe — no peeking 👉\n\nANSWER: Escape Velocity\n\nv = √(2GM/r): The minimum speed needed to escape a celestial body's gravity. This equation explains why Earth's escape velocity is 11 km/s while the Moon's is just 2.4 km/s.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #gravity #space #velocity #planets #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #rockets #orbits #celestial #sciencefacts"
+    "caption": "Which equation gives the minimum speed needed to break free of a planet's gravity forever? 🚀\nComment your answer before you swipe to check 👉\n\nA classic result in gravitation and orbital mechanics, depending on a body's mass and radius — governing rocket launches, planetary atmospheres retaining gases, and the threshold for leaving a gravity well.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#astrophysics #orbitalmechanics #gravitation #scicomm #equationtoday"
   },
   "eulers_formula": {
     "name": "Euler's Formula",
-    "caption": "Name that equation. Hint: five fundamental constants in one line — often voted the most beautiful equation.\nComment your answer first, then swipe to slide 2 to check yourself 👉\n\nANSWER: Euler's Formula\n\ne^(iπ) + 1 = 0: Perhaps mathematics' most beautiful equation! This connects five fundamental constants in one elegant relation, appearing throughout physics, engineering, and pure mathematics.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #euler #exponential #complex #research #theoreticalphysics #appliedmathematics #mathematician #nerd #geek #university #gradstudent #analysis #constants #beautiful #sciencefacts"
+    "caption": "Which equation links the exponential of an imaginary number to sine and cosine — the bridge to complex analysis? 🌀\nName it in the comments, then swipe to reveal 👉\n\nA profound identity connecting exponential growth to circular motion, unifying complex exponentials with trigonometry — indispensable in signal processing, Fourier analysis, quantum mechanics and electrical engineering.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#mathematics #complexanalysis #puremaths #scicomm #equationtoday"
   },
   "eulers_identity": {
     "name": "Euler's Identity",
-    "caption": "What's this equation called? Hint: how e^(iθ) secretly contains circles, sines and cosines.\nType your guess below before you swipe — no cheating, we'll know 👀\n\nANSWER: Euler's Identity\n\ne^(iθ) = cos(θ) + i·sin(θ): This identity reveals the deep connection between exponentials and trigonometric functions—foundational for complex analysis, Fourier transforms, and quantum mechanics.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #euler #complex #trigonometry #research #theoreticalphysics #appliedmathematics #mathematician #nerd #geek #university #gradstudent #analysis #waves #quantum #sciencefacts"
+    "caption": "Which single line unites five fundamental constants and is often voted mathematics' most beautiful equation? ✨\nDrop your guess in the comments before you swipe 👉\n\nA celebrated special case linking the exponential, imaginary unit, pi, one and zero in one elegant relation — a striking demonstration of the deep unity between analysis, geometry and algebra.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#mathematics #puremaths #mathisbeautiful #scicomm #equationtoday"
   },
   "eyring_equation": {
     "name": "Eyring Equation",
-    "caption": "Know this one? Hint: reaction rates from transition-state theory — the quantum upgrade to Arrhenius.\nCommit to an answer in the comments, then swipe to see if you nailed it 👉\n\nANSWER: Eyring Equation\n\nEyring's absolute reaction rate theory provides an alternative to Arrhenius for chemical kinetics. It incorporates quantum mechanics and transition state theory—more sophisticated and physically revealing.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #chemistry #kinetics #quantum #reactions #research #appliedmathematics #chemist #physicist #nerd #geek #university #gradstudent #rate #mechanisms #theory"
+    "caption": "Which equation predicts reaction rates from transition-state theory — the quantum upgrade to older rate laws? ⚗️\nComment your answer before you swipe to check 👉\n\nA foundation of chemical kinetics, deriving reaction rate constants from the thermodynamics of the transition state — used across physical chemistry, enzymology and materials science to model how fast reactions proceed.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#physicalchemistry #kinetics #chemistry #scicomm #equationtoday"
   },
   "faradays_law_v1": {
     "name": "Faraday's Law (Version 1)",
-    "caption": "Today's challenge: Hint: wiggle a magnet near a coil and electricity appears — every generator's secret.\nGuess in the comments before checking slide 2 — how many can you get? ✅\n\nANSWER: Faraday's Law\n\nChanging magnetic flux induces electric fields! Faraday's law powers electric generators, transformers, and induction cooktops. It's one of Maxwell's four pillars of electromagnetism.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #electromagnetism #faraday #induction #magnetic #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #electricity #fields #generators"
+    "caption": "Which equation says a changing magnetic field creates a voltage — the principle behind every generator? ⚡\nName it in the comments, then swipe to reveal 👉\n\nA pillar of electromagnetism, stating that a changing magnetic flux induces an electromotive force — the basis of electric generators, transformers, induction cooktops and wireless charging.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#electromagnetism #electricalengineering #physicsstudent #scicomm #equationtoday"
   },
   "faradays_law_v2": {
     "name": "Faraday's Law (Version 2)",
-    "caption": "Guess the equation. Hint: the loop-and-flux form behind transformers, MRI machines and wireless charging.\nSay it out loud, drop it in the comments, then swipe to check 👉\n\nANSWER: Faraday's Law\n\nThe integral form reveals magnetic flux through loops induces circulating electric fields. This understanding enables wireless power, MRI machines, and transformers worldwide.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #electromagnetism #induction #flux #fields #research #theoreticalphysics #appliedmathematics #engineer #physicist #nerd #geek #university #gradstudent #electricity #technology"
+    "caption": "Which equation relates the curl of the electric field to a changing magnetic field over time? ⚡\nDrop your guess in the comments before you swipe 👉\n\nIn differential form, this law of electromagnetism ties the swirl of the electric field to the rate of change of the magnetic field — one of the four equations unifying electricity, magnetism and light.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#electromagnetism #physicsstudent #fieldtheory #scicomm #equationtoday"
   },
   "fick_first_law": {
     "name": "Fick's First Law",
-    "caption": "One equation, one guess. Hint: why perfume crosses a room: stuff flows from crowded regions to empty ones.\nComment your guess before you swipe — bonus points for the units 🤓\n\nANSWER: Fick's First Law\n\nDiffusion flux is proportional to concentration gradient: J = -D∇C. Fick's elegant law describes spreading of perfume, heat conduction analog, and molecular motion fundamentals.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #diffusion #concentration #transport #molecules #research #appliedmathematics #chemist #physicist #nerd #geek #university #gradstudent #gradients #flow #mechanisms"
+    "caption": "Which equation says particles flow from crowded regions to empty ones, driven by concentration differences? 💨\nComment your answer before you swipe to check 👉\n\nThe foundation of diffusion theory, relating particle flux to the concentration gradient — governing gas exchange in lungs, drug delivery, semiconductor doping and mixing in fluids.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#physicalchemistry #transportphenomena #materialsscience #scicomm #equationtoday"
   },
   "fick_second_law": {
     "name": "Fick's Second Law",
-    "caption": "Can you name this equation? Hint: how an ink drop's concentration profile spreads and smooths itself over time.\nDrop your guess in the comments before you swipe — no peeking 👉\n\nANSWER: Fick's Second Law\n\n∂C/∂t = D∇²C describes how concentration evolves—the diffusion equation! Used everywhere from semiconductor processing to pollutant dispersion, it's fundamental to transport phenomena.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #diffusion #transport #pde #concentration #research #appliedmathematics #engineer #chemist #nerd #geek #university #gradstudent #kinetics #simulation #evolution"
+    "caption": "Which equation predicts how a concentration profile spreads and evolves over time as things diffuse? 💨\nName it in the comments, then swipe to reveal 👉\n\nA partial differential equation at the core of diffusion and transport theory, describing how concentration changes in time and space — key to heat treatment of metals, battery design and biological transport.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#transportphenomena #materialsscience #appliedmaths #scicomm #equationtoday"
   },
   "first_law_thermodynamics_v1": {
     "name": "First Law of Thermodynamics (Version 1)",
-    "caption": "Do you know this one? Hint: heat in minus work out — the reason perpetual motion machines always fail.\nType your guess below before you swipe — no cheating, we'll know 👀\n\nANSWER: First Law of Thermodynamics\n\nΔU = Q - W: Energy conservation in thermodynamic form! Internal energy change equals heat added minus work done. This law explains why perpetual motion machines are impossible.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #thermodynamics #energy #conservation #laws #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #heat #work #entropy"
+    "caption": "Which equation is energy conservation for heat engines — internal energy changes by heat added minus work done? 🔥\nDrop your guess in the comments before you swipe 👉\n\nA statement of energy conservation for heat and work, requiring that a system's internal energy changes only through heat exchange and work done — governing engines, refrigerators, chemical reactions and the impossibility of perpetual motion.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#thermodynamics #physicsstudent #engineering #scicomm #equationtoday"
   },
   "first_law_thermodynamics_v2": {
     "name": "First Law of Thermodynamics (Version 2)",
-    "caption": "Name that equation. Hint: the infinitesimal bookkeeping of heat and work — conservation, one dU at a time.\nType your guess below before you swipe — no cheating, we'll know 👀\n\nANSWER: First Law of Thermodynamics\n\ndU = δQ - δW: The differential form emphasizes infinitesimal energy changes. This microscopic perspective connects thermodynamics to statistical mechanics and molecular motion.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #thermodynamics #calculus #energy #statistical #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #conservation #fundamental #laws"
+    "caption": "Which equation, in differential form, balances tiny changes in heat, work and internal energy? 🔥\nComment your answer before you swipe to check 👉\n\nA differential statement of energy conservation in thermodynamics, connecting infinitesimal heat and work to changes in internal energy — the starting point for deriving thermodynamic relations and cycles.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#thermodynamics #physicalchemistry #physicsstudent #scicomm #equationtoday"
   },
   "fouriers_law": {
     "name": "Fourier's Law",
-    "caption": "What's this equation called? Hint: why a metal spoon in hot soup burns your fingers — heat runs down the gradient.\nCommit to an answer in the comments, then swipe to see if you nailed it 👉\n\nANSWER: Fourier's Law\n\nHeat flow is proportional to temperature gradient: q = -k∇T. Fourier's law governs heat conduction in buildings, electronics cooling, and explains why metal spoons burn your hand.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #heat #thermodynamics #conduction #temperature #research #appliedmathematics #engineer #physicist #nerd #geek #university #gradstudent #gradient #thermal #transport"
+    "caption": "Which equation says heat flows from hot to cold at a rate set by the temperature gradient? 🌡️\nName it in the comments, then swipe to reveal 👉\n\nThe foundation of heat conduction, relating heat flux to the temperature gradient and thermal conductivity — essential to insulation, electronics cooling, building design and thermal engineering.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#heattransfer #thermodynamics #engineering #scicomm #equationtoday"
   },
   "free_fall_equation": {
     "name": "Free Fall Equation",
-    "caption": "Know this one? Hint: drop a hammer and a feather on the Moon and they land together — this says why.\nGuess in the comments before checking slide 2 — how many can you get? ✅\n\nANSWER: Free Fall Equation\n\nh = 0.5gt²: Objects accelerate downward at g regardless of mass! Galileo's insight that all objects fall equally revolutionized physics and led to the principle of equivalence.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #mechanics #gravity #kinematics #acceleration #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #galileo #motion #projectiles #sciencefacts"
+    "caption": "Which equation predicts how far an object drops under gravity as time ticks on? 🍎\nDrop your guess in the comments before you swipe 👉\n\nA classic of kinematics, describing motion under constant gravitational acceleration — the basis of projectile motion, falling-body experiments and introductory mechanics.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#classicalmechanics #kinematics #physicsstudent #scicomm #equationtoday"
   },
   "gamma_function": {
     "name": "Gamma Function",
-    "caption": "Today's challenge: Hint: the factorial, extended to fractions and complex numbers.\nSay it out loud, drop it in the comments, then swipe to check 👉\n\nANSWER: Gamma Function\n\nΓ(n) = (n-1)! for integers, extended to all complex numbers: the gamma function generalizes factorials! It appears in probability distributions, quantum field theory, and special functions.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #functions #special #analysis #research #theoreticalphysics #appliedmathematics #mathematician #nerd #geek #university #gradstudent #calculus #probability #quantum #sciencefacts"
+    "caption": "Which function extends the factorial to fractional and complex numbers — what is 'half factorial'? ➗\nComment your answer before you swipe to check 👉\n\nA cornerstone special function in analysis, generalising the factorial beyond whole numbers — appearing throughout probability, complex analysis, number theory and the solutions of differential equations.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#mathematics #analysis #puremaths #scicomm #equationtoday"
   },
   "gauss_law_electricity_integral": {
     "name": "Gauss' Law - Electricity (Integral Form)",
-    "caption": "Guess the equation. Hint: count the flux leaving any closed surface and you've counted the charge inside.\nComment your guess before you swipe — bonus points for the units 🤓\n\nANSWER: Gauss' Law - Electricity (Integral Form)\n\nElectrical flux through a closed surface equals enclosed charge divided by ε₀. Gauss' law simplifies calculations of electric fields—one of Maxwell's four fundamental equations.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #electromagnetism #gauss #flux #electric #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #fields #charges #maxwells"
+    "caption": "Which equation says the electric flux through a closed surface reveals the charge trapped inside? ⚡\nName it in the comments, then swipe to reveal 👉\n\nIn integral form, this law of electromagnetism links the total electric flux through a closed surface to the enclosed charge — a powerful shortcut for fields of symmetric charge distributions.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#electromagnetism #electrostatics #physicsstudent #scicomm #equationtoday"
   },
   "gauss_law_electricity_v1": {
     "name": "Gauss' Law - Electricity (Version 1)",
-    "caption": "One equation, one guess. Hint: the local rule that says electric field lines are born on charges.\nDrop your guess in the comments before you swipe — no peeking 👉\n\nANSWER: Gauss' Law - Electricity\n\n∇·E = ρ/ε₀: The divergence of electric field is proportional to charge density. This differential form reveals how charges create electric fields locally, point by point.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #electromagnetism #electric #divergence #fields #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #calculus #charge #density"
+    "caption": "Which equation ties the divergence of the electric field directly to local charge density? ⚡\nDrop your guess in the comments before you swipe 👉\n\nIn differential form, one of the four laws of electromagnetism, stating that electric charge is the source of diverging electric field lines — foundational to electrostatics and field theory.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#electromagnetism #electrostatics #physicsstudent #scicomm #equationtoday"
   },
   "gauss_law_electricity_v2": {
     "name": "Gauss' Law - Electricity (Version 2)",
-    "caption": "Can you name this equation? Hint: field lines start on positive charge and end on negative — stated point by point.\nComment your answer first, then swipe to slide 2 to check yourself 👉\n\nANSWER: Gauss' Law - Electricity\n\nDifferent notation, same profound insight: electric field source is electric charge. This equation underlies everything from atomic structure to capacitors to atmospheric electricity.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #electromagnetism #electric #fields #charges #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #maxwells #divergence #atoms"
+    "caption": "Which fundamental law states electric field lines spring from charge, written via field divergence? ⚡\nComment your answer before you swipe to check 👉\n\nA member of the four equations of classical electromagnetism, relating the divergence of the electric field to charge density — the basis for understanding capacitors, conductors and electric fields in matter.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#electromagnetism #electrostatics #fieldtheory #scicomm #equationtoday"
   },
   "gauss_law_electricity_v3": {
     "name": "Gauss' Law - Electricity (Version 3)",
-    "caption": "Do you know this one? Hint: the potential-flavoured way of saying charges shape the field around them.\nType your guess below before you swipe — no cheating, we'll know 👀\n\nANSWER: Gauss' Law - Electricity\n\nYet another form of Gauss' law showing charge distribution creates electric potential. No matter which form, the underlying physics remains: charges are sources of electric fields.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #electromagnetism #electric #potential #charges #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #fields #poisson #gauss"
+    "caption": "Which of the four great laws of electromagnetism connects electric flux to enclosed charge? ⚡\nName it in the comments, then swipe to reveal 👉\n\nA statement that electric charge sources the electric field, expressed through flux and the electric displacement field — central to electromagnetism in dielectrics and materials.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#electromagnetism #electrostatics #physicsstudent #scicomm #equationtoday"
   },
   "gauss_law_gravity_v1": {
     "name": "Gauss' Law - Gravity (Version 1)",
-    "caption": "Name that equation. Hint: electrostatics' famous flux law, rewritten with mass as the source.\nCommit to an answer in the comments, then swipe to see if you nailed it 👉\n\nANSWER: Gauss' Law - Gravity\n\nGravitational analog to electric Gauss' law: gravitational flux equals enclosed mass. This elegant formulation shows gravity and electromagnetism share deep mathematical structure.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #gravity #gauss #flux #mass #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #fields #analogy #sciencefacts"
+    "caption": "Which equation is the gravitational twin of the electric flux law, tying field to enclosed mass? 🌍\nDrop your guess in the comments before you swipe 👉\n\nA reformulation of gravitation paralleling electromagnetism, relating the flux of the gravitational field to the mass it encloses — a neat tool for computing fields of spheres, shells and planets.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#gravitation #classicalmechanics #astrophysics #scicomm #equationtoday"
   },
   "gauss_law_gravity_v2": {
     "name": "Gauss' Law - Gravity (Version 2)",
-    "caption": "What's this equation called? Hint: the divergence form: mass density tells you how strongly field lines converge.\nGuess in the comments before checking slide 2 — how many can you get? ✅\n\nANSWER: Gauss' Law - Gravity\n\n∇·g = 4πGρ: The divergence of gravitational field is proportional to mass density. This differential form enables calculating gravitational fields from any mass distribution.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #gravity #divergence #fields #mass #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #calculus #planets #structures"
+    "caption": "Which equation states that mass density is the source of a diverging gravitational field? 🌍\nComment your answer before you swipe to check 👉\n\nIn differential form, this law of gravitation ties the divergence of the gravitational field to mass density — a compact way to express Newtonian gravity used in geophysics and astrophysics.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#gravitation #geophysics #astrophysics #scicomm #equationtoday"
   },
   "gauss_law_magnetism_differential_v1": {
     "name": "Gauss' Law - Magnetism (Differential, Version 1)",
-    "caption": "Know this one? Hint: the four-symbol statement that magnetic monopoles don't exist.\nSay it out loud, drop it in the comments, then swipe to check 👉\n\nANSWER: Gauss' Law - Magnetism (Differential)\n\n∇·B = 0: Magnetic field divergence is zero everywhere—no magnetic monopoles exist in nature! This asymmetry between electricity and magnetism hints at deeper physics.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #magnetism #divergence #fields #maxwells #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #monopoles #particles #symmetry"
+    "caption": "Which equation encodes the fact that isolated magnetic north or south poles have never been found? 🧲\nName it in the comments, then swipe to reveal 👉\n\nOne of the four laws of electromagnetism, stating the magnetic field has zero divergence — the mathematical expression that magnetic monopoles do not appear, so field lines always close on themselves.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#electromagnetism #physicsstudent #fieldtheory #scicomm #equationtoday"
   },
   "gauss_law_magnetism_differential_v2": {
     "name": "Gauss' Law - Magnetism (Differential, Version 2)",
-    "caption": "Today's challenge: Hint: why every magnetic field line loops back on itself — no starts, no ends.\nComment your guess before you swipe — bonus points for the units 🤓\n\nANSWER: Gauss' Law - Magnetism (Differential)\n\nNo magnetic charges anywhere: magnetic field lines form closed loops with no beginning or end. This conservation of magnetic flux underpins electromagnetic phenomena throughout nature.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #magnetism #fields #conservation #divergence #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #topology #maxwells #flux"
+    "caption": "Which law says magnetic field lines never begin or end — there are no magnetic monopoles? 🧲\nDrop your guess in the comments before you swipe 👉\n\nA pillar of classical electromagnetism, requiring the magnetic field to have no sources or sinks — the reason every magnet has paired poles and field lines form closed loops.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#electromagnetism #physicsstudent #magnetism #scicomm #equationtoday"
   },
   "gauss_law_magnetism_integral": {
     "name": "Gauss' Law - Magnetism (Integral Form)",
-    "caption": "Guess the equation. Hint: total magnetic flux out of ANY closed surface: always exactly zero.\nDrop your guess in the comments before you swipe — no peeking 👉\n\nANSWER: Gauss' Law - Magnetism (Integral Form)\n\nMagnetic flux through any closed surface equals zero—direct consequence of no monopoles. This constraint shapes magnetic field topologies and enables magnetic confinement in fusion reactors.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #magnetism #flux #fields #maxwells #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #conservation #topology #fusion"
+    "caption": "Which equation says the net magnetic flux through any closed surface is always exactly zero? 🧲\nComment your answer before you swipe to check 👉\n\nIn integral form, this electromagnetism law states that magnetic flux entering a closed surface equals the flux leaving — the signature of a field with no monopole sources.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#electromagnetism #magnetism #physicsstudent #scicomm #equationtoday"
   },
   "gravitational_force_v1": {
     "name": "Gravitational Force (Version 1)",
-    "caption": "One equation, one guess. Hint: the inverse-square attraction that keeps the Moon on its leash.\nComment your answer first, then swipe to slide 2 to check yourself 👉\n\nANSWER: Gravitational Force\n\nF = GMm/r²: Newton's inverse-square law of gravity! Two masses attract proportionally to their product and inversely to distance squared. It explained planetary orbits and changed science forever.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #gravity #newton #forces #orbits #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #planets #space #history"
+    "caption": "Which equation says every mass attracts every other, weakening with the square of the distance? 🌍\nName it in the comments, then swipe to reveal 👉\n\nThe universal law of gravitation, giving the attractive force between two masses in terms of their product and separation squared — governing falling apples, planetary orbits, tides and the motion of galaxies.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#gravitation #classicalmechanics #astrophysics #scicomm #equationtoday"
   },
   "gravitational_force_v2": {
     "name": "Gravitational Force (Version 2)",
-    "caption": "Can you name this equation? Hint: the same famous attraction, recast as a field filling all of space.\nType your guess below before you swipe — no cheating, we'll know 👀\n\nANSWER: Gravitational Force\n\nFrom Newton's law comes the gravitational field and potential energy. This formulation connects forces to fields, laying groundwork for Einstein's geometric interpretation of gravity.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #gravity #fields #forces #potential #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #energy #newton #einstein"
+    "caption": "Which equation, in vector form, gives the attractive pull between two masses along the line joining them? 🌍\nDrop your guess in the comments before you swipe 👉\n\nA vector statement of universal gravitation, capturing both the strength and direction of attraction between masses — the foundation of celestial mechanics, satellite motion and orbital dynamics.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#gravitation #orbitalmechanics #astrophysics #scicomm #equationtoday"
   },
   "gyroscopic_precession": {
     "name": "Gyroscopic Precession",
-    "caption": "Do you know this one? Hint: push a spinning wheel and it tilts sideways instead — bicycles exploit it.\nCommit to an answer in the comments, then swipe to see if you nailed it 👉\n\nANSWER: Gyroscopic Precession\n\nSpinning objects precess when a torque is applied perpendicular to their spin axis! Gyroscopes stabilize bicycles and spacecraft—angular momentum's resistance to change in action.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #mechanics #rotational #angular #torque #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #momentum #dynamics #stability"
+    "caption": "Which equation explains why a spinning top slowly circles instead of simply toppling over? 🌀\nComment your answer before you swipe to check 👉\n\nA result in rotational dynamics, relating the slow circling of a spin axis to torque and angular momentum — behind gyroscopes, spinning tops, bicycle stability and the slow wobble of the spinning Earth.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#rotationaldynamics #classicalmechanics #physicsstudent #scicomm #equationtoday"
   },
   "hagen_poiseuille_equation": {
     "name": "Hagen-Poiseuille Equation",
-    "caption": "Name that equation. Hint: halve a pipe's radius and the flow drops 16-fold — arteries live by this.\nGuess in the comments before checking slide 2 — how many can you get? ✅\n\nANSWER: Hagen-Poiseuille Equation\n\nFlow rate through a pipe depends on the fourth power of radius! Q = πr⁴ΔP/(8ηL) explains why arteries need larger diameters for adequate blood flow and why pipelines require specific dimensions.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #fluids #viscosity #flow #pipes #research #appliedmathematics #engineer #physicist #nerd #geek #university #gradstudent #biology #medicine #hydraulics"
+    "caption": "Which equation shows that halving a pipe's radius cuts flow to a sixteenth — why narrow tubes throttle flow? 🩸\nName it in the comments, then swipe to reveal 👉\n\nA key result in fluid dynamics, relating flow rate through a tube to pressure, viscosity and the fourth power of radius — governing blood flow, microfluidics and viscous flow in narrow channels.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#fluiddynamics #biophysics #microfluidics #scicomm #equationtoday"
   },
   "half_life": {
     "name": "Half-Life",
-    "caption": "What's this equation called? Hint: the fixed tick of radioactive decay that lets us date Egyptian mummies.\nSay it out loud, drop it in the comments, then swipe to check 👉\n\nANSWER: Half-Life\n\nRadioactive nuclei decay exponentially with characteristic half-life—time for half to decay. Half-life enables radiometric dating of ancient samples and medical applications of isotopes.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #nuclear #radioactivity #exponential #decay #research #appliedmathematics #physicist #nerd #geek #university #gradstudent #dating #medicine #atoms #sciencefacts"
+    "caption": "Which equation describes exponential decay — the time for half of a radioactive sample to disappear? ☢️\nDrop your guess in the comments before you swipe 👉\n\nA fundamental relation in nuclear physics, describing how unstable nuclei decay exponentially over time — the basis of radiometric dating, medical imaging, nuclear power and pharmacokinetics.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#nuclearphysics #physicsstudent #radioactivity #scicomm #equationtoday"
   },
   "half_life_copy": {
     "name": "Half-Life (Second Form)",
-    "caption": "Know this one? Hint: the exponential-decay clock ticking inside every unstable nucleus.\nComment your guess before you swipe — bonus points for the units 🤓\n\nANSWER: Half-Life (Second Form)\n\nThe exponential decay form reveals how quickly radioactive material reduces to half its initial amount. Applications range from carbon dating archaeology to medical imaging.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #nuclear #decay #exponential #time #research #appliedmathematics #physicist #nerd #geek #university #gradstudent #radioactive #applications #medicine #sciencefacts"
+    "caption": "Which equation captures exponential decay — the time for half of an unstable sample to break down? ☢️\nComment your answer before you swipe to check 👉\n\nA core relation in nuclear and physical science, describing exponential decay of unstable populations over time — underpinning carbon dating, radiotracers, drug clearance and nuclear physics.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#nuclearphysics #radioactivity #physicsstudent #scicomm #equationtoday"
   },
   "harish_chandra_formula": {
     "name": "Harish-Chandra Formula",
-    "caption": "Today's challenge: Hint: deep representation theory that sneaks into particle-physics calculations.\nDrop your guess in the comments before you swipe — no peeking 👉\n\nANSWER: Harish-Chandra Formula\n\nAdvanced representation theory formula appearing in quantum field theory and high-energy physics. This formula connects group theory to particle physics calculations—abstract mathematics meets experiment.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #quantum #grouptheory #particles #representation #research #theoreticalphysics #mathematician #physicist #nerd #geek #university #gradstudent #abstract #symmetry #advanced"
+    "caption": "Which deep formula from representation theory computes characters on semisimple Lie groups? ➗\nName it in the comments, then swipe to reveal 👉\n\nAn advanced result in pure mathematics and representation theory, giving explicit character formulas for Lie groups — foundational to harmonic analysis, mathematical physics and the study of symmetry.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#mathematics #puremaths #representationtheory #scicomm #equationtoday"
   },
   "hawking_temperature": {
     "name": "Hawking Temperature",
-    "caption": "Guess the equation. Hint: black holes glow — and the smaller they are, the hotter they burn.\nComment your answer first, then swipe to slide 2 to check yourself 👉\n\nANSWER: Hawking Temperature\n\nBlack holes aren't black—they emit radiation with temperature inversely proportional to mass! Hawking's discovery fundamentally changed black hole physics and united gravity with quantum mechanics.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #blackholes #quantum #temperature #radiation #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #hawking #gravity #thermodynamics #sciencefacts"
+    "caption": "Which equation says black holes aren't truly black — they glow with a faint thermal radiation? 🕳️\nDrop your guess in the comments before you swipe 👉\n\nA landmark of black hole thermodynamics, giving the temperature of radiation emitted from an event horizon via quantum effects — a rare bridge between gravity, quantum theory and thermodynamics.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#blackholes #astrophysics #quantumgravity #scicomm #equationtoday"
   },
   "heisenberg_uncertainty_energy_time": {
     "name": "Heisenberg Uncertainty - Energy/Time",
-    "caption": "One equation, one guess. Hint: the quantum trade-off that lets 'virtual' particles briefly borrow from the vacuum.\nType your guess below before you swipe — no cheating, we'll know 👀\n\nANSWER: Heisenberg Uncertainty - Energy/Time\n\nΔE·Δt ≥ ℏ/2: You cannot simultaneously know exact energy and exact time of measurement! This uncertainty principle underlies quantum mechanics—nature's fundamental limit on precision.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #quantum #uncertainty #heisenberg #energy #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #fundamental #measurement #time #sciencefacts"
+    "caption": "Which principle limits how precisely energy and time can be known together, allowing fleeting virtual particles? ⚛️\nComment your answer before you swipe to check 👉\n\nA fundamental limit in quantum mechanics tying the spread in energy to that in time — explaining natural linewidths, virtual particles and the fuzzy energy of short-lived quantum states.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#quantummechanics #quantumphysics #physicsstudent #scicomm #equationtoday"
   },
   "heisenberg_uncertainty_position_momentum": {
     "name": "Heisenberg Uncertainty - Position/Momentum",
-    "caption": "Can you name this equation? Hint: pin down where a particle is, and you lose track of where it's going.\nCommit to an answer in the comments, then swipe to see if you nailed it 👉\n\nANSWER: Heisenberg Uncertainty - Position/Momentum\n\nΔx·Δp ≥ ℏ/2: More precisely you know position, less you know momentum and vice versa. This trade-off is quantum mechanics' most famous uncertainty—it's not measurement error but nature itself!",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #quantum #uncertainty #heisenberg #fundamental #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #measurement #waves #particles #sciencefacts"
+    "caption": "Which principle says the more precisely you pin a particle's position, the fuzzier its momentum becomes? ⚛️\nName it in the comments, then swipe to reveal 👉\n\nA cornerstone of quantum mechanics setting a hard limit on simultaneously knowing position and momentum — a consequence of wave-particle duality that shapes atomic structure and quantum technology.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#quantummechanics #quantumphysics #physicsstudent #scicomm #equationtoday"
   },
   "helmholtz_free_energy_v1": {
     "name": "Helmholtz Free Energy (Version 1)",
-    "caption": "Do you know this one? Hint: the useful work you can extract at constant temperature and volume.\nGuess in the comments before checking slide 2 — how many can you get? ✅\n\nANSWER: Helmholtz Free Energy\n\nF = U - TS: At constant temperature and volume, free energy decreases as reactions proceed. Helmholtz free energy is crucial for chemical equilibrium and thermodynamic predictions.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #thermodynamics #energy #entropy #chemistry #research #appliedmathematics #chemist #physicist #nerd #geek #university #gradstudent #equilibrium #reactions #systems"
+    "caption": "Which thermodynamic potential tells you the useful work available from a system at constant temperature? 🔥\nDrop your guess in the comments before you swipe 👉\n\nA key potential in thermodynamics and statistical mechanics, combining internal energy and entropy at fixed temperature — governing spontaneity, phase transitions and equilibrium in physical chemistry.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#thermodynamics #statisticalmechanics #physicalchemistry #scicomm #equationtoday"
   },
   "helmholtz_free_energy_v2": {
     "name": "Helmholtz Free Energy (Version 2)",
-    "caption": "Name that equation. Hint: its differential form ties S, T, P and V into one tidy statement.\nSay it out loud, drop it in the comments, then swipe to check 👉\n\nANSWER: Helmholtz Free Energy\n\nThe differential form dF = -SdT - PdV connects entropy, temperature, pressure, and volume. This reveals thermodynamic relationships for systems at constant temperature.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #thermodynamics #free #energy #differential #research #appliedmathematics #chemist #physicist #nerd #geek #university #gradstudent #potentials #systems #equilibrium"
+    "caption": "Which quantity balances internal energy against temperature times entropy to predict equilibrium? 🔥\nComment your answer before you swipe to check 👉\n\nA thermodynamic potential minimised at equilibrium for systems held at constant temperature and volume — central to statistical mechanics, materials science and the study of phase behaviour.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#thermodynamics #statisticalmechanics #materialsscience #scicomm #equationtoday"
   },
   "hookes_law": {
     "name": "Hooke's Law",
-    "caption": "What's this equation called? Hint: stretch a spring twice as far, feel exactly twice the pull back.\nComment your guess before you swipe — bonus points for the units 🤓\n\nANSWER: Hooke's Law\n\nF = -kx: Force on a spring is proportional to displacement! Hooke's law explains elastic behavior of springs, rubber bands, and materials—fundamental to mechanical engineering and physics.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #mechanics #elasticity #springs #forces #research #appliedmathematics #engineer #physicist #nerd #geek #university #gradstudent #materials #harmonic #oscillations"
+    "caption": "Which equation says a spring's restoring force grows in proportion to how far you stretch it? 🌀\nName it in the comments, then swipe to reveal 👉\n\nA foundation of elasticity and mechanics, stating that force is proportional to displacement for small deformations — behind springs, elastic materials, vibrations and structural engineering.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#classicalmechanics #materialsscience #physicsstudent #scicomm #equationtoday"
   },
   "ideal_gas_law": {
     "name": "Ideal Gas Law",
-    "caption": "Know this one? Hint: P, V, T and n in one line — chemistry's single most-used equation.\nDrop your guess in the comments before you swipe — no peeking 👉\n\nANSWER: Ideal Gas Law\n\nPV = nRT: The most important equation in chemistry and thermodynamics! This relates pressure, volume, temperature, and amount of gas—explaining behavior of air, ideal gases, and more.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #gases #thermodynamics #chemistry #pressure #research #appliedmathematics #chemist #physicist #nerd #geek #university #gradstudent #temperature #volume #molecules"
+    "caption": "Which equation links pressure, volume, temperature and amount for a simple gas in one tidy relation? 🎈\nDrop your guess in the comments before you swipe 👉\n\nA central result in thermodynamics, tying together pressure, volume, temperature and number of moles for a dilute gas — the workhorse for chemistry, engines, weather and countless engineering calculations.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#thermodynamics #physicalchemistry #chemistry #scicomm #equationtoday"
   },
   "impulse_v1": {
     "name": "Impulse (Version 1)",
-    "caption": "Today's challenge: Hint: force × time — why airbags save lives by stretching out the crash.\nComment your answer first, then swipe to slide 2 to check yourself 👉\n\nANSWER: Impulse\n\nImpulse J = F·Δt equals change in momentum. A force applied for longer creates more impulse—explaining why airbags save lives by extending collision time.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #mechanics #momentum #forces #time #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #collisions #conservation #dynamics"
+    "caption": "Which equation says a force applied over time changes an object's momentum — why airbags save lives? 🚗\nComment your answer before you swipe to check 👉\n\nA core result in mechanics, equating the force-time product to the change in momentum — explaining collisions, crumple zones, cushioning and the physics of catching a fast ball.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#classicalmechanics #physicsstudent #dynamics #scicomm #equationtoday"
   },
   "impulse_v2": {
     "name": "Impulse (Version 2)",
-    "caption": "Guess the equation. Hint: the integral of force over time — how rockets bank up their momentum change.\nType your guess below before you swipe — no cheating, we'll know 👀\n\nANSWER: Impulse\n\nThe integral form J = ∫F dt reveals impulse as accumulated force over time. Rockets, explosions, and sports involve impulse—understanding it is key to controlling motion.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #mechanics #integral #momentum #forces #research #appliedmathematics #engineer #physicist #nerd #geek #university #gradstudent #dynamics #calculus #applications"
+    "caption": "Which equation integrates force over a time interval to give the total change in momentum? 🚗\nName it in the comments, then swipe to reveal 👉\n\nIn integral form, this mechanics relation sums a varying force over time to yield the momentum change — essential to impact analysis, rocketry and sports biomechanics.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#classicalmechanics #dynamics #physicsstudent #scicomm #equationtoday"
   },
   "jurin_law_capillary_rise": {
     "name": "Jurin's Law - Capillary Rise",
-    "caption": "One equation, one guess. Hint: why water climbs a narrow glass tube — and how trees drink.\nCommit to an answer in the comments, then swipe to see if you nailed it 👉\n\nANSWER: Jurin's Law - Capillary Rise\n\nh = 2σcosθ/(ρgr): Capillary rise height depends on surface tension and tube radius! Jurin's law explains why water climbs narrow tubes and how plants transport water via capillary action.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #surface #tension #fluids #capillary #research #appliedmathematics #physicist #engineer #nerd #geek #university #gradstudent #biology #water #molecules"
+    "caption": "Which equation predicts how high water climbs up a thin tube against gravity, all by itself? 💧\nDrop your guess in the comments before you swipe 👉\n\nA result in fluid statics and surface science, relating how high a liquid climbs to surface tension, tube radius and contact angle — explaining how plants draw water up and how liquids wick through porous materials.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#fluidmechanics #surfacescience #biophysics #scicomm #equationtoday"
   },
   "kepler_third_law": {
     "name": "Kepler's Third Law",
-    "caption": "Can you name this equation? Hint: square a planet's year, cube its distance — the ratio never changes.\nGuess in the comments before checking slide 2 — how many can you get? ✅\n\nANSWER: Kepler's Third Law\n\nT² ∝ a³: Orbital period squared is proportional to semi-major axis cubed! Kepler's elegant law describes planetary orbits and enabled Newton to derive his gravity law.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #orbits #gravity #planets #kepler #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #astronomy #space #history #sciencefacts"
+    "caption": "Which equation ties a planet's orbital period to the size of its orbit — the rhythm of the solar system? 🪐\nComment your answer before you swipe to check 👉\n\nA pillar of orbital mechanics, relating the square of a planet's period to the cube of its orbital radius — the basis for weighing stars, discovering exoplanets and planning spacecraft trajectories.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#orbitalmechanics #astrophysics #astronomy #scicomm #equationtoday"
   },
   "kinetic_energy": {
     "name": "Kinetic Energy",
-    "caption": "Do you know this one? Hint: double a car's speed and its crash punch quadruples.\nSay it out loud, drop it in the comments, then swipe to check 👉\n\nANSWER: Kinetic Energy\n\nKE = 0.5mv²: Moving objects possess kinetic energy proportional to mass and velocity squared. This fundamental form of energy powers everything from molecules to galaxies.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #energy #mechanics #motion #velocity #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #work #dynamics #conservation"
+    "caption": "Which equation gives the energy an object carries purely because it's moving — scaling with speed squared? 🏃\nName it in the comments, then swipe to reveal 👉\n\nA fundamental quantity in mechanics, depending on mass and the square of speed — central to collisions, work-energy analysis, vehicle safety and energy in every moving system.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#classicalmechanics #physicsstudent #dynamics #scicomm #equationtoday"
   },
   "kronecker_delta": {
     "name": "Kronecker Delta",
-    "caption": "Name that equation. Hint: the tiny two-index switch: 1 when they match, 0 when they don't.\nComment your guess before you swipe — bonus points for the units 🤓\n\nANSWER: Kronecker Delta\n\nδij = 1 if i=j, else 0: This simple but powerful function appears throughout mathematics, physics, and engineering for index calculations and orthogonality conditions.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #delta #function #index #research #theoreticalphysics #appliedmathematics #mathematician #nerd #geek #university #gradstudent #linear #algebra #orthogonal #sciencefacts"
+    "caption": "Which mathematical symbol equals one when two indices match and zero otherwise — the identity in disguise? ➗\nDrop your guess in the comments before you swipe 👉\n\nA compact tool across linear algebra, tensor calculus and physics, encoding the identity matrix and orthogonality — indispensable for index notation, quantum mechanics and continuum mechanics.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#mathematics #linearalgebra #tensorcalculus #scicomm #equationtoday"
   },
   "lane_emden_equation": {
     "name": "Lane-Emden Equation",
-    "caption": "What's this equation called? Hint: the ODE that sculpts the insides of stars held up against their own gravity.\nDrop your guess in the comments before you swipe — no peeking 👉\n\nANSWER: Lane-Emden Equation\n\nThis differential equation describes the structure of self-gravitating, polytropic spheres like stars! The Lane-Emden equation is fundamental to stellar structure theory and astrophysics.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #astrophysics #stars #gravity #structure #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #differential #stellar #polytrope"
+    "caption": "Which equation models the internal structure of a self-gravitating star as a balance of gravity and pressure? ⭐\nComment your answer before you swipe to check 👉\n\nA key result in stellar astrophysics, describing how density and pressure vary inside a self-gravitating gas sphere — the basis of polytropic stellar models and understanding stellar interiors.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#astrophysics #stellarphysics #computationalphysics #scicomm #equationtoday"
   },
   "langevin_equation": {
     "name": "Langevin Equation",
-    "caption": "Know this one? Hint: Newton's second law with a random kick — pollen grains dancing in water.\nComment your answer first, then swipe to slide 2 to check yourself 👉\n\nANSWER: Langevin Equation\n\nm(dv/dt) = F - γv + f(t): This stochastic differential equation describes Brownian motion, friction, and random forces! Essential for understanding molecular dynamics and statistical mechanics.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #brownian #stochastic #molecular #dynamics #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #random #friction #statistical"
+    "caption": "Which equation captures a particle jostled randomly by countless molecular kicks, plus friction? 🎲\nName it in the comments, then swipe to reveal 👉\n\nA foundational stochastic differential equation in statistical physics, combining a systematic drag force with random noise — modelling Brownian motion, colloids, molecular dynamics and thermal fluctuations.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#statisticalmechanics #stochasticprocesses #softmatter #scicomm #equationtoday"
   },
   "laplace_equation_v1": {
     "name": "Laplace's Equation (Version 1)",
-    "caption": "Today's challenge: Hint: the source-free equation every steady temperature map and potential obeys.\nType your guess below before you swipe — no cheating, we'll know 👀\n\nANSWER: Laplace's Equation\n\n∇²φ = 0: Laplace's equation describes steady-state potential fields with no sources. It appears in electrostatics, gravity, and heat flow—one of physics' most important PDEs.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #pde #laplace #potential #fields #research #appliedmathematics #mathematician #physicist #nerd #geek #university #gradstudent #divergence #boundary #elliptic"
+    "caption": "Which equation describes steady states with no sources — where a potential smoothly averages its surroundings? 🌐\nDrop your guess in the comments before you swipe 👉\n\nA central partial differential equation in physics and engineering, whose solutions are the harmonic functions describing electrostatic potentials, steady heat, fluid flow and gravitational fields.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#appliedmaths #fieldtheory #physicsstudent #scicomm #equationtoday"
   },
   "laplace_equation_v2": {
     "name": "Laplace's Equation (Version 2)",
-    "caption": "Guess the equation. Hint: smooth, source-free and everywhere in physics — the harmonic condition.\nCommit to an answer in the comments, then swipe to see if you nailed it 👉\n\nANSWER: Laplace's Equation\n\nDifferent notation, same powerful equation: Laplacian of potential vanishes everywhere. Solving Laplace's equation with boundary conditions unlocks countless physics problems.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #pde #harmonic #potential #fields #research #appliedmathematics #mathematician #physicist #nerd #geek #university #gradstudent #electrostatics #gravity #heat"
+    "caption": "Which equation sets the divergence of a gradient to zero, governing equilibrium potentials everywhere? 🌐\nComment your answer before you swipe to check 👉\n\nA workhorse partial differential equation whose smooth, source-free solutions appear in electrostatics, incompressible flow, steady heat conduction and potential theory across physics.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#appliedmaths #mathematicalphysics #fieldtheory #scicomm #equationtoday"
   },
   "laplace_transform": {
     "name": "Laplace Transform",
-    "caption": "One equation, one guess. Hint: it turns nasty differential equations into plain algebra — engineers swear by it.\nGuess in the comments before checking slide 2 — how many can you get? ✅\n\nANSWER: Laplace Transform\n\nF(s) = ∫₀^∞ e^(-st) f(t) dt: The Laplace transform converts differential equations to algebraic form! Indispensable for control theory, electrical engineering, and solving ODEs.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #transforms #calculus #differential #signal #research #appliedmathematics #engineer #mathematician #nerd #geek #university #gradstudent #control #analysis #sciencefacts"
+    "caption": "Which integral transform turns hard differential equations into simple algebra in a new variable? ➗\nName it in the comments, then swipe to reveal 👉\n\nA powerful tool in applied mathematics and engineering, converting differential equations into algebraic ones — indispensable for control systems, circuit analysis and solving initial-value problems.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#appliedmaths #controltheory #engineeringmaths #scicomm #equationtoday"
   },
   "lorentz_force_v1": {
     "name": "Lorentz Force (Version 1)",
-    "caption": "Can you name this equation? Hint: the sideways shove a magnetic field gives a moving charge.\nSay it out loud, drop it in the comments, then swipe to check 👉\n\nANSWER: Lorentz Force\n\nF = q(E + v × B): Charged particles experience forces from electric and magnetic fields! The Lorentz force governs particle motion in plasma, accelerators, and magnetospheres.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #electromagnetism #forces #fields #particles #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #energy #charge #motion"
+    "caption": "Which equation gives the combined push on a charged particle from electric and magnetic fields? ⚡\nDrop your guess in the comments before you swipe 👉\n\nA cornerstone of electromagnetism, giving the force on a moving charge from electric and magnetic fields — behind particle accelerators, mass spectrometers, electric motors and the aurora.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#electromagnetism #particlephysics #physicsstudent #scicomm #equationtoday"
   },
   "lorentz_force_v2": {
     "name": "Lorentz Force (Version 2)",
-    "caption": "Do you know this one? Hint: how electric and magnetic fields team up to steer beams of charged particles.\nComment your guess before you swipe — bonus points for the units 🤓\n\nANSWER: Lorentz Force\n\nThe field form reveals how electromagnetic fields create forces on charged particles. Lorentz force is the bridge connecting field theory to particle dynamics.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #electromagnetism #fields #particles #forces #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #charge #motion #sciencefacts"
+    "caption": "Which equation, in field form, gives the force density on charges and currents in a field? ⚡\nComment your answer before you swipe to check 👉\n\nA statement of the force exerted by electromagnetic fields on charge and current distributions — foundational to plasma physics, magnetohydrodynamics and the design of electromagnetic devices.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#electromagnetism #plasmaphysics #fieldtheory #scicomm #equationtoday"
   },
   "luminosity_v1": {
     "name": "Luminosity (Version 1)",
-    "caption": "Name that equation. Hint: a star's total power output, worked out from its brightness and distance.\nDrop your guess in the comments before you swipe — no peeking 👉\n\nANSWER: Luminosity\n\nL = 4πr²F: Luminosity is the total power radiated by a star, calculated from flux and distance! Understanding stellar luminosity unlocks the HR diagram and stellar evolution.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #astronomy #stars #power #light #research #theoreticalphysics #astrophysicist #nerd #geek #university #gradstudent #radiation #energy #stellar #sciencefacts"
+    "caption": "Which equation gives the total power a star radiates from its temperature and size? ⭐\nName it in the comments, then swipe to reveal 👉\n\nA key relation in astrophysics, linking a star's total radiated power to its radius and surface temperature — central to the Hertzsprung-Russell diagram, stellar classification and measuring cosmic distances.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#astrophysics #stellarphysics #astronomy #scicomm #equationtoday"
   },
   "luminosity_v2": {
     "name": "Luminosity (Version 2)",
-    "caption": "What's this equation called? Hint: the 'standard candle' quantity that exposed the universe's accelerating expansion.\nComment your answer first, then swipe to slide 2 to check yourself 👉\n\nANSWER: Luminosity\n\nDifferent forms relate luminosity to intrinsic star properties and observed brightness. Measuring luminosity distances to supernovae revealed the universe's accelerating expansion!",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #cosmology #distance #universe #expansion #research #theoreticalphysics #astrophysicist #nerd #geek #university #gradstudent #supernovae #measurement #sciencefacts #physicsnerds"
+    "caption": "Which equation connects the brightness we receive from a star to its true power and its distance? ⭐\nDrop your guess in the comments before you swipe 👉\n\nA fundamental astronomy relation tying observed flux to a star’s intrinsic radiated power and distance via the inverse-square law — the basis for the cosmic distance ladder and standard candles.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#astrophysics #astronomy #cosmology #scicomm #equationtoday"
   },
   "majorana_equation": {
     "name": "Majorana Equation",
-    "caption": "Know this one? Hint: it predicts particles that are their own antiparticles.\nType your guess below before you swipe — no cheating, we'll know 👀\n\nANSWER: Majorana Equation\n\nDescribing massive neutrinos and exotic particles, the Majorana equation is a fundamental equation in quantum field theory. It predicts particles that are their own antiparticles!",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #quantum #particles #neutrinos #relativistic #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #fieldtheory #exotic #symmetry #sciencefacts"
+    "caption": "Which relativistic equation describes a fermion that is its very own antiparticle? ⚛️\nComment your answer before you swipe to check 👉\n\nA relativistic wave equation in particle physics for particles identical to their antiparticles — central to neutrino physics, searches for neutrinoless double beta decay and beyond-standard-model theory.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#particlephysics #quantumfieldtheory #theoreticalphysics #scicomm #equationtoday"
   },
   "malus_law": {
     "name": "Malus' Law",
-    "caption": "Today's challenge: Hint: why two polarising filters at 90° block light completely.\nCommit to an answer in the comments, then swipe to see if you nailed it 👉\n\nANSWER: Malus' Law\n\nI = I₀cos²θ: Intensity of polarized light through a polarizer depends on angle squared! Malus' law explains sunglasses, LCD screens, and quantum measurement foundations.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #optics #light #polarization #quantum #research #appliedmathematics #physicist #nerd #geek #university #gradstudent #measurement #waves #intensity #sciencefacts"
+    "caption": "Which equation predicts how much light gets through a polariser as you rotate it? 🕶️\nName it in the comments, then swipe to reveal 👉\n\nA foundational result in optics, giving transmitted intensity through a polariser as the cosine squared of the angle — behind polarised sunglasses, LCD screens and photoelasticity.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#optics #photonics #physicsstudent #scicomm #equationtoday"
   },
   "mass_energy_equivalence": {
     "name": "Mass-Energy Equivalence",
-    "caption": "Guess the equation. Hint: the most famous equation on Earth — three symbols that started the atomic age.\nGuess in the comments before checking slide 2 — how many can you get? ✅\n\nANSWER: Mass-Energy Equivalence\n\nE = mc²: Energy and mass are interchangeable! Einstein's most famous equation unified matter and energy, explaining nuclear power, particle creation, and the universe's evolution.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #relativity #einstein #energy #mass #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #nuclear #particles #fundamental #sciencefacts"
+    "caption": "Which equation reveals that mass and energy are two faces of the same thing — powering stars and reactors? 💥\nDrop your guess in the comments before you swipe 👉\n\nPerhaps the most famous relation in physics, stating that mass and energy are interconvertible — underlying nuclear power, stellar fusion, particle-antiparticle creation and the energy budget of the cosmos.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#relativity #nuclearphysics #particlephysics #scicomm #equationtoday"
   },
   "moment_of_inertia": {
     "name": "Moment of Inertia",
-    "caption": "One equation, one guess. Hint: rotation's stand-in for mass — why a flywheel resists being spun up.\nSay it out loud, drop it in the comments, then swipe to check 👉\n\nANSWER: Moment of Inertia\n\nI = ∫r²dm: Moment of inertia measures how mass is distributed relative to a rotation axis. It's the rotational analog of mass in Newton's second law for rotations.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #mechanics #rotational #inertia #mass #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #angular #dynamics #distribution"
+    "caption": "Which quantity measures how hard it is to change an object's spin, depending on how its mass is spread out? 🌀\nComment your answer before you swipe to check 👉\n\nA key concept in rotational dynamics, quantifying resistance to angular acceleration based on mass distribution — the rotational analogue of mass, essential to flywheels, turbines and spinning bodies.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#rotationaldynamics #classicalmechanics #mechanicalengineering #scicomm #equationtoday"
   },
   "newton_law_viscosity": {
     "name": "Newton's Law of Viscosity",
-    "caption": "Can you name this equation? Hint: why honey pours slowly: shear stress tracks how fast the layers slide.\nComment your guess before you swipe — bonus points for the units 🤓\n\nANSWER: Newton's Law of Viscosity\n\nShear stress is proportional to strain rate: τ = μ(du/dy). This law defines Newtonian fluids and enables calculating viscous forces in pipe flow, lubrication, and blood flow.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #fluids #viscosity #stress #forces #research #appliedmathematics #engineer #physicist #nerd #geek #university #gradstudent #flow #shear #friction"
+    "caption": "Which equation relates the drag between fluid layers to how fast the flow changes across them? 🌊\nName it in the comments, then swipe to reveal 👉\n\nThe defining relation for a thick, syrupy fluid, linking shear stress to the velocity gradient through the fluid’s internal friction — foundational to lubrication, blood flow, polymer processing and fluid mechanics.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#fluidmechanics #rheology #engineering #scicomm #equationtoday"
   },
   "partition_function": {
     "name": "Partition Function",
-    "caption": "Do you know this one? Hint: the single sum Z from which ALL of thermodynamics can be derived.\nDrop your guess in the comments before you swipe — no peeking 👉\n\nANSWER: Partition Function\n\nZ = Σe^(-βEᵢ): The partition function encodes all statistical information about a system! From it, you can derive energy, entropy, and all thermodynamic properties.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #statistical #thermodynamics #quantum #energy #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #mechanics #probability #systems"
+    "caption": "Which quantity sums over all a system's states and unlocks every thermodynamic property from statistics? 🎲\nDrop your guess in the comments before you swipe 👉\n\nThe central object of statistical mechanics, encoding how energy is distributed across microstates — from it flow free energy, entropy, pressure and every macroscopic thermodynamic quantity.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#statisticalmechanics #thermodynamics #theoreticalphysics #scicomm #equationtoday"
   },
   "photoelectric_effect": {
     "name": "Photoelectric Effect",
-    "caption": "Name that equation. Hint: light knocks electrons off metal — the discovery that won Einstein his Nobel.\nComment your answer first, then swipe to slide 2 to check yourself 👉\n\nANSWER: Photoelectric Effect\n\nE = hf: Light hits metal and ejects electrons—energy comes in photons! Einstein's explanation of the photoelectric effect won him the Nobel Prize and launched quantum mechanics.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #quantum #light #photons #planck #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #einstein #energy #electrons #sciencefacts"
+    "caption": "Which equation showed light comes in packets — electrons ejected only when photons carry enough energy? 💡\nComment your answer before you swipe to check 👉\n\nA Nobel-winning result that launched quantum theory, relating ejected electron energy to light frequency and work function — the basis of solar cells, photomultipliers and light sensors.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#quantumphysics #photonics #physicsstudent #scicomm #equationtoday"
   },
   "photon_energy": {
     "name": "Photon Energy",
-    "caption": "What's this equation called? Hint: why blue light packs more punch per particle than red.\nType your guess below before you swipe — no cheating, we'll know 👀\n\nANSWER: Photon Energy\n\nE = hf = hc/λ: Photon energy depends on frequency or inversely on wavelength! This equation connects particle properties (energy) to wave properties (frequency).",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #light #photons #quantum #waves #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #planck #frequency #wavelength #sciencefacts"
+    "caption": "Which equation gives the energy carried by a single particle of light from its frequency? 💡\nName it in the comments, then swipe to reveal 👉\n\nA fundamental quantum relation linking a light quantum's energy to its frequency via a universal constant — underpinning spectroscopy, solar cells, lasers and the whole electromagnetic spectrum.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#quantumphysics #photonics #physicsstudent #scicomm #equationtoday"
   },
   "poisson_equation_v1": {
     "name": "Poisson's Equation (Version 1)",
-    "caption": "Know this one? Hint: Laplace's equation with a source term switched on.\nCommit to an answer in the comments, then swipe to see if you nailed it 👉\n\nANSWER: Poisson's Equation\n\n∇²φ = ρ: Poisson's equation extends Laplace's with source terms! It governs electrostatic potential from charge distribution and gravitational potential from mass.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #pde #poisson #potential #sources #research #appliedmathematics #mathematician #physicist #nerd #geek #university #gradstudent #elliptic #boundary #fields"
+    "caption": "Which equation relates a potential's curvature directly to the source density that creates it? 🌐\nDrop your guess in the comments before you swipe 👉\n\nA fundamental partial differential equation generalising the source-free case, connecting a potential to its charge or mass density — central to electrostatics, gravitation and steady-state physics.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#appliedmaths #electrostatics #mathematicalphysics #scicomm #equationtoday"
   },
   "poisson_equation_v2": {
     "name": "Poisson's Equation (Version 2)",
-    "caption": "Today's challenge: Hint: how a charge or mass distribution sculpts the potential around it.\nGuess in the comments before checking slide 2 — how many can you get? ✅\n\nANSWER: Poisson's Equation\n\nDifferent form, same fundamental equation linking Laplacian to source: Poisson's equation is essential for electrostatics and gravity calculations with localized sources.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #pde #differential #potential #charge #research #appliedmathematics #mathematician #physicist #nerd #geek #university #gradstudent #gravity #sources #fields"
+    "caption": "Which equation ties the Laplacian of a field to the density of its sources across space? 🌐\nComment your answer before you swipe to check 👉\n\nA workhorse partial differential equation relating field curvature to source distribution — appearing in gravitational potentials, electrostatic fields and semiconductor device modelling.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#appliedmaths #mathematicalphysics #fieldtheory #scicomm #equationtoday"
   },
   "pop_sixth_derivative": {
     "name": "Pop (Sixth Derivative)",
-    "caption": "Guess the equation. Hint: position differentiated six times — snap and crackle's little sibling.\nSay it out loud, drop it in the comments, then swipe to check 👉\n\nANSWER: Pop (Sixth Derivative)\n\nPop is the sixth time derivative of position—beyond crackle! While rarely used in physics, higher derivatives showcase calculus' power and appear in robotics and advanced control systems.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #calculus #derivatives #analysis #research #theoreticalphysics #appliedmathematics #mathematician #nerd #geek #university #gradstudent #kinematics #control #advanced #sciencefacts"
+    "caption": "Which quantity is the sixth time-derivative of position — beyond jerk, snap and crackle? 🎢\nName it in the comments, then swipe to reveal 👉\n\nA whimsically named higher-order kinematic quantity, the sixth derivative of position with respect to time — of interest in precision motion control and the mathematics of smooth trajectories.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#kinematics #classicalmechanics #appliedmaths #scicomm #equationtoday"
   },
   "potential_flow": {
     "name": "Potential Flow",
-    "caption": "One equation, one guess. Hint: when a fluid's entire motion is just the gradient of one scalar field.\nComment your guess before you swipe — bonus points for the units 🤓\n\nANSWER: Potential Flow\n\nFlow where velocity is the gradient of a potential: v = ∇φ. Potential flow simplifies fluid dynamics calculations and works well for inviscid, irrotational flows.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #fluids #flow #velocity #potential #research #appliedmathematics #engineer #physicist #nerd #geek #university #gradstudent #aerodynamics #streamfunction #circulation"
+    "caption": "Which framework models smooth, swirl-free fluid motion using a single scalar whose gradient gives the velocity? 🌊\nDrop your guess in the comments before you swipe 👉\n\nAn idealisation in fluid dynamics describing irrotational, incompressible motion via a scalar velocity field — a powerful approximation for aerodynamics, water waves and streaming past bodies.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#fluiddynamics #aerodynamics #appliedmaths #scicomm #equationtoday"
   },
   "poynting_vector": {
     "name": "Poynting Vector",
-    "caption": "Can you name this equation? Hint: E × B — it literally points where electromagnetic energy is going.\nDrop your guess in the comments before you swipe — no peeking 👉\n\nANSWER: Poynting Vector\n\nS = E × B: The Poynting vector describes electromagnetic energy flux and direction! It shows how energy flows with electromagnetic waves—crucial for understanding light and radio.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #electromagnetism #energy #waves #light #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #fields #radiation #power"
+    "caption": "Which vector points in the direction electromagnetic energy flows and gives its intensity? ⚡\nComment your answer before you swipe to check 👉\n\nA key quantity in electromagnetism, giving the direction and rate of electromagnetic energy transport — describing how light, radio waves and power radiate and flow through space.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#electromagnetism #optics #fieldtheory #scicomm #equationtoday"
   },
   "pressure_head": {
     "name": "Pressure Head",
-    "caption": "Do you know this one? Hint: how engineers state a pipe's push as an equivalent column of water.\nComment your answer first, then swipe to slide 2 to check yourself 👉\n\nANSWER: Pressure Head\n\nh = P/(ρg): Pressure converted to equivalent height of fluid column! Pressure head is useful for visualizing pressure in pipes and understanding hydraulic systems.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #fluids #pressure #hydraulics #height #research #appliedmathematics #engineer #physicist #nerd #geek #university #gradstudent #gravity #water #systems"
+    "caption": "Which equation converts a fluid's pressure into an equivalent height of liquid column? 💧\nName it in the comments, then swipe to reveal 👉\n\nA practical concept in hydraulics, expressing pressure as the height of a fluid column via density and gravity — central to pump design, water supply systems and measuring pressure.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#hydraulics #fluidmechanics #engineering #scicomm #equationtoday"
   },
   "prony_equation": {
     "name": "Prony Equation",
-    "caption": "Name that equation. Hint: the 1800s pipe-friction formula that Darcy-Weisbach eventually retired.\nType your guess below before you swipe — no cheating, we'll know 👀\n\nANSWER: Prony Equation\n\nAncient formula for estimating pipe friction: Prony's equation predates Darcy-Weisbach! Though largely superseded, it represents early engineering science connecting experiments to equations.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #history #friction #pipes #research #appliedmathematics #engineer #physicist #nerd #geek #university #gradstudent #fluids #historical #empirical #sciencefacts"
+    "caption": "Which model fits a signal as a sum of decaying exponentials to extract hidden frequencies and rates? ➗\nDrop your guess in the comments before you swipe 👉\n\nA method in signal processing and applied mathematics representing data as damped sinusoids — used in system identification, spectroscopy analysis and viscoelastic material modelling.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#signalprocessing #appliedmaths #datascience #scicomm #equationtoday"
   },
   "pythagorean_theorem": {
     "name": "Pythagorean Theorem",
-    "caption": "What's this equation called? Hint: the right-triangle rule your GPS is quietly using right now.\nCommit to an answer in the comments, then swipe to see if you nailed it 👉\n\nANSWER: Pythagorean Theorem\n\na² + b² = c²: The foundation of geometry for 2500 years! This theorem enables calculating distances, designing buildings, and is essential for physics from vectors to relativity.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #geometry #basics #vectors #research #theoreticalphysics #appliedmathematics #mathematician #nerd #geek #university #gradstudent #ancient #fundamental #euclidean #sciencefacts"
+    "caption": "Which ancient equation relates the three sides of a right triangle — geometry's most famous result? 📐\nComment your answer before you swipe to check 👉\n\nA foundational result in geometry, connecting the squares of a right triangle's sides — the basis of distance calculations, trigonometry, navigation and coordinate geometry across all of mathematics.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#mathematics #geometry #mathstudent #scicomm #equationtoday"
   },
   "quadratic_formula_v1": {
     "name": "Quadratic Formula (Version 1)",
-    "caption": "Know this one? Hint: the −b ± √... incantation every algebra student learns to chant.\nGuess in the comments before checking slide 2 — how many can you get? ✅\n\nANSWER: Quadratic Formula\n\nx = (-b ± √(b²-4ac)) / 2a: The most famous formula for solving quadratics! Essential tool in algebra, physics, and engineering for decades of students worldwide.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #algebra #solutions #roots #research #appliedmathematics #mathematician #nerd #geek #university #gradstudent #polynomial #fundamental #solver #sciencefacts #physicsnerds"
+    "caption": "Which equation solves any second-degree polynomial, straight from its three coefficients? 📐\nName it in the comments, then swipe to reveal 👉\n\nA cornerstone of algebra, giving the roots of any second-degree polynomial from its coefficients — indispensable in physics, engineering, economics and anywhere parabolas and optimisation appear.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#mathematics #algebra #mathstudent #scicomm #equationtoday"
   },
   "quadratic_formula_v2": {
     "name": "Quadratic Formula (Version 2)",
-    "caption": "Today's challenge: Hint: the discriminant-flavoured route to any parabola's roots.\nSay it out loud, drop it in the comments, then swipe to check 👉\n\nANSWER: Quadratic Formula\n\nDifferent forms of the same formula emphasize different mathematical aspects. The quadratic formula's elegance inspired generations of mathematicians and physicists.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #algebra #polynomial #solutions #research #appliedmathematics #mathematician #nerd #geek #university #gradstudent #formula #elegant #fundamental #sciencefacts #physicsnerds"
+    "caption": "Which formula delivers both roots of a parabola from a, b and c, discriminant and all? 📐\nDrop your guess in the comments before you swipe 👉\n\nA staple of algebra returning the two solutions of a second-degree polynomial, with the discriminant revealing whether roots are real or complex — used throughout science and engineering.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#mathematics #algebra #mathstudent #scicomm #equationtoday"
   },
   "quantum_momentum_operator": {
     "name": "Quantum Momentum Operator",
-    "caption": "Guess the equation. Hint: −iℏ∇ — apply it to a wavefunction and out comes p.\nComment your guess before you swipe — bonus points for the units 🤓\n\nANSWER: Quantum Momentum Operator\n\np̂ = -iℏ∇: The momentum operator in quantum mechanics lets you find particle momentum from the wavefunction! It's the foundation of quantum dynamics and the Schrödinger equation.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #quantum #operators #mechanics #momentum #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #wavefunction #observables #derivatives #sciencefacts"
+    "caption": "Which quantum-mechanical quantity, written as a spatial derivative acting on the wavefunction, encodes a particle’s momentum? ⚛️\nComment your answer before you swipe to check 👉\n\nA fundamental construct in quantum mechanics acting as a derivative on the wavefunction — the basis of the Hamiltonian, commutation relations and the mathematical formalism of the quantum world.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#quantummechanics #quantumphysics #mathematicalphysics #scicomm #equationtoday"
   },
   "rayleigh_criterion": {
     "name": "Rayleigh Criterion",
-    "caption": "One equation, one guess. Hint: the diffraction limit on how close two stars can sit before a telescope blurs them.\nDrop your guess in the comments before you swipe — no peeking 👉\n\nANSWER: Rayleigh Criterion\n\nθ = 1.22λ/D: Minimum angular separation to resolve two point sources depends on wavelength and aperture! The Rayleigh criterion limits telescope resolution and optical imaging.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #optics #resolution #diffraction #light #research #appliedmathematics #physicist #engineer #nerd #geek #university #gradstudent #telescopes #wavelength #aperture"
+    "caption": "Which equation sets the smallest detail a telescope or microscope can resolve, limited by diffraction? 🔭\nName it in the comments, then swipe to reveal 👉\n\nA fundamental limit in optics, linking angular resolution to wavelength and aperture — determining the sharpness of telescopes, microscopes and cameras through diffraction.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#optics #astronomy #photonics #scicomm #equationtoday"
   },
   "rayleigh_jeans_law": {
     "name": "Rayleigh-Jeans Law",
-    "caption": "Can you name this equation? Hint: the classical glow prediction that exploded into the ultraviolet catastrophe.\nComment your answer first, then swipe to slide 2 to check yourself 👉\n\nANSWER: Rayleigh-Jeans Law\n\nClassical prediction for blackbody radiation—it fails catastrophically at high frequencies! The ultraviolet catastrophe drove Planck to quantum mechanics and changed physics forever.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #quantum #radiation #blackbody #history #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #planck #wavelength #classical #sciencefacts"
+    "caption": "Which classical equation for thermal radiation famously blew up at short wavelengths, sparking quantum theory? 🌈\nDrop your guess in the comments before you swipe 👉\n\nA classical result for blackbody radiation that fails at high frequencies — its 'ultraviolet catastrophe' exposed the limits of classical physics and helped trigger the quantum revolution.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#thermodynamics #quantumphysics #opticalphysics #scicomm #equationtoday"
   },
   "redshift_equation": {
     "name": "Redshift Equation",
-    "caption": "Do you know this one? Hint: how far a galaxy's light has been stretched by the expanding universe.\nType your guess below before you swipe — no cheating, we'll know 👀\n\nANSWER: Redshift Equation\n\nz = Δλ/λ: Cosmological redshift measures how much wavelengths stretched from expanding universe! Hubble's observations of redshift revealed the universe expands and led to the Big Bang.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #cosmology #universe #expansion #light #research #theoreticalphysics #astrophysicist #nerd #geek #university #gradstudent #doppler #wavelength #hubble #sciencefacts"
+    "caption": "Which equation measures how much a galaxy's light is stretched, revealing how fast it recedes? 🌌\nComment your answer before you swipe to check 👉\n\nA key tool in cosmology, quantifying the stretching of light from receding sources — the basis for mapping the expanding universe, Hubble's law and the distances to faraway galaxies.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#cosmology #astrophysics #astronomy #scicomm #equationtoday"
   },
   "riemann_silberstein_vector": {
     "name": "Riemann-Silberstein Vector",
-    "caption": "Name that equation. Hint: E and B fused into one complex object, beloved of quantum optics.\nCommit to an answer in the comments, then swipe to see if you nailed it 👉\n\nANSWER: Riemann-Silberstein Vector\n\nAdvanced electromagnetic theory construct combining electric and magnetic fields into a complex vector! Used in modern quantum optics and exotic light-matter interactions.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #optics #quantum #fields #complex #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #vector #electromagnetic #advanced #sciencefacts"
+    "caption": "Which complex vector elegantly bundles the electric and magnetic fields into a single object? ⚡\nName it in the comments, then swipe to reveal 👉\n\nA compact complex-field formulation of electromagnetism combining electric and magnetic fields — useful in the photon wavefunction, optics and elegant reformulations of the field equations.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#electromagnetism #mathematicalphysics #optics #scicomm #equationtoday"
   },
   "riemann_zeta_function_v1": {
     "name": "Riemann Zeta Function (Version 1)",
-    "caption": "What's this equation called? Hint: sum 1/nˢ forever — its zeros guard a $1,000,000 prize.\nGuess in the comments before checking slide 2 — how many can you get? ✅\n\nANSWER: Riemann Zeta Function\n\nζ(s) = Σ(1/n^s) from n=1 to ∞: This function connects prime numbers to physics! The Riemann Hypothesis about its zeros might be the deepest unsolved problem in mathematics.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #primes #analysis #special #research #theoreticalphysics #appliedmathematics #mathematician #nerd #geek #university #gradstudent #unsolved #hypothesis #series #sciencefacts"
+    "caption": "Which function encodes the primes and sits at the heart of the greatest unsolved problem in mathematics? ➗\nDrop your guess in the comments before you swipe 👉\n\nA profound object in number theory and complex analysis, its series and zeros are deeply tied to the distribution of prime numbers — the subject of a famous million-dollar unsolved conjecture.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#mathematics #numbertheory #puremaths #scicomm #equationtoday"
   },
   "riemann_zeta_function_v2": {
     "name": "Riemann Zeta Function (Version 2)",
-    "caption": "Know this one? Hint: the critical-line mystery: mathematics' most wanted unsolved hypothesis.\nSay it out loud, drop it in the comments, then swipe to check 👉\n\nANSWER: Riemann Zeta Function\n\nThe analytic continuation of the zeta function reveals zeros on the critical line—if the Riemann Hypothesis is true! These zeros might encode information about quantum chaos.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #zeta #primes #quantum #research #theoreticalphysics #appliedmathematics #mathematician #nerd #geek #university #gradstudent #hypothesis #analytical #mystery #sciencefacts"
+    "caption": "Which function's mysterious non-trivial zeros are conjectured to line up on a single critical line? ➗\nComment your answer before you swipe to check 👉\n\nA central function of analytic number theory whose analytic continuation and zeros connect to prime counting — its unproven hypothesis is one of the most celebrated open problems in mathematics.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#mathematics #numbertheory #analysis #scicomm #equationtoday"
   },
   "rogers_ramanujan_continued_fraction": {
     "name": "Rogers-Ramanujan Continued Fraction",
-    "caption": "Today's challenge: Hint: a nested tower of ratios — co-signed by India's self-taught mathematical genius.\nComment your guess before you swipe — bonus points for the units 🤓\n\nANSWER: Rogers-Ramanujan Continued Fraction\n\nA beautiful continued fraction appearing in partition functions and modular forms! Named after Rogers and Ramanujan, it connects number theory to mathematical physics.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #number #partitions #special #research #theoreticalphysics #appliedmathematics #mathematician #nerd #geek #university #gradstudent #analysis #fractions #beautiful #sciencefacts"
+    "caption": "Which celebrated infinite nested fraction, tied to integer partitions, emerged from a self-taught mathematical genius? ➗\nName it in the comments, then swipe to reveal 👉\n\nA remarkable object in number theory linking nested fractions, integer partitions and modular forms — celebrated identities that continue to influence combinatorics and mathematical physics.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#mathematics #numbertheory #puremaths #scicomm #equationtoday"
   },
   "rotatum": {
     "name": "Rotatum (Fourth Derivative)",
-    "caption": "Guess the equation. Hint: how quickly a torque itself changes with time — rare, but real.\nDrop your guess in the comments before you swipe — no peeking 👉\n\nANSWER: Rotatum (Fourth Derivative)\n\nRotatum is the fourth time derivative of position—also called snap! Though uncommon in physics, it appears in trajectory smoothing and high-precision spacecraft maneuvering.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #calculus #derivatives #kinematics #research #appliedmathematics #engineer #mathematician #nerd #geek #university #gradstudent #motion #control #space #sciencefacts"
+    "caption": "Which quantity is the rate of change of torque — the rotational cousin of the rate of change of force? 🌀\nDrop your guess in the comments before you swipe 👉\n\nA higher-order rotational quantity, the time derivative of torque — relevant to analysing how twisting efforts build up in engines, drivetrains and rotating machinery.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#rotationaldynamics #mechanicalengineering #classicalmechanics #scicomm #equationtoday"
   },
   "rydberg_formula": {
     "name": "Rydberg Formula",
-    "caption": "One equation, one guess. Hint: the recipe that predicts every line in hydrogen's spectrum.\nComment your answer first, then swipe to slide 2 to check yourself 👉\n\nANSWER: Rydberg Formula\n\n1/λ = R(1/n₁² - 1/n₂²): This empirical formula predicts atomic spectral lines with stunning precision! It led to Bohr's model and demonstrated quantum mechanics' power.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #quantum #atoms #spectroscopy #wavelength #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #energy #light #electrons #sciencefacts"
+    "caption": "Which equation predicts the exact wavelengths of light emitted by hydrogen's glowing spectral lines? 🌈\nComment your answer before you swipe to check 👉\n\nA landmark of atomic spectroscopy, predicting the wavelengths of spectral lines from transitions between energy levels — a key clue that led to quantum models of the atom.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#atomicphysics #quantumphysics #spectroscopy #scicomm #equationtoday"
   },
   "scale_height": {
     "name": "Scale Height",
-    "caption": "Can you name this equation? Hint: the e-folding distance of an atmosphere — Everest is only about half of one.\nType your guess below before you swipe — no cheating, we'll know 👀\n\nANSWER: Scale Height\n\nH = kT/(mg): Atmosphere scale height determines how fast pressure drops with altitude. Mount Everest is only ~0.5 scale heights high—dramatic effect on oxygen availability.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #atmosphere #pressure #altitude #temperature #research #appliedmathematics #physicist #geophysicist #nerd #geek #university #gradstudent #gravity #exponential #earth"
+    "caption": "Which quantity sets the altitude over which an atmosphere's pressure or density drops by a factor of e? ⛰️\nName it in the comments, then swipe to reveal 👉\n\nA characteristic length in atmospheric and astrophysical science, describing how quickly density falls with height in a gravity field — key to modelling planetary atmospheres and stellar and disc structure.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#atmosphericscience #astrophysics #planetaryscience #scicomm #equationtoday"
   },
   "schrodinger_equation": {
     "name": "Schrödinger Equation",
-    "caption": "Do you know this one? Hint: the master equation for how a wavefunction evolves — cat included.\nCommit to an answer in the comments, then swipe to see if you nailed it 👉\n\nANSWER: Schrödinger Equation\n\niℏ∂ψ/∂t = -ℏ²/2m ∇²ψ + Vψ: The cornerstone of quantum mechanics describes how wavefunctions evolve! Schrödinger's equation is as fundamental to quantum as Newton's is to classical mechanics.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #quantum #schrodinger #wavefunction #mechanics #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #fundamental #evolution #probability #sciencefacts"
+    "caption": "Which equation governs how a quantum wavefunction evolves in time — the F=ma of the quantum world? ⚛️\nDrop your guess in the comments before you swipe 👉\n\nThe foundational equation of quantum mechanics, describing how the wavefunction of a system evolves — the basis of atomic structure, chemistry, semiconductors and quantum technology.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#quantummechanics #quantumphysics #physicsstudent #scicomm #equationtoday"
   },
   "schwarzschild_radius": {
     "name": "Schwarzschild Radius",
-    "caption": "Name that equation. Hint: squeeze anything smaller than this and light itself can't get back out.\nGuess in the comments before checking slide 2 — how many can you get? ✅\n\nANSWER: Schwarzschild Radius\n\nrs = 2GM/c²: Collapse any mass into this radius and you create a black hole's event horizon! Schwarzschild radius reveals when gravity becomes so strong that not even light escapes.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #blackholes #gravity #relativity #light #research #theoreticalphysics #physicist #nerd #geek #university #gradstudent #event #horizon #spacetime #sciencefacts"
+    "caption": "Which equation gives the radius at which an object becomes a black hole, its escape speed reaching light? 🕳️\nComment your answer before you swipe to check 👉\n\nA key result from general relativity, giving the event-horizon radius where gravity traps even light — defining black holes and the point of no return for a given mass.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#blackholes #generalrelativity #astrophysics #scicomm #equationtoday"
   },
   "shannon_entropy": {
     "name": "Shannon Entropy",
-    "caption": "What's this equation called? Hint: the bit-counting measure of surprise that founded information theory.\nSay it out loud, drop it in the comments, then swipe to check 👉\n\nANSWER: Shannon Entropy\n\nH = -Σp(x)log₂p(x): Information theory's fundamental measure of uncertainty and data compression limits! Shannon entropy connects physics, mathematics, computer science, and biology.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #information #entropy #probability #compression #research #appliedmathematics #mathematician #nerd #geek #university #gradstudent #data #theory #bits #sciencefacts"
+    "caption": "Which equation measures information itself — how much surprise or uncertainty a message carries? 📡\nName it in the comments, then swipe to reveal 👉\n\nThe founding equation of information theory, quantifying uncertainty and information content — the basis of data compression, cryptography, communication channels and modern computing.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#informationtheory #datascience #mathematics #scicomm #equationtoday"
   },
   "simple_harmonic_motion": {
     "name": "Simple Harmonic Motion",
-    "caption": "Know this one? Hint: the −ω²x heartbeat of every pendulum, spring and vibrating atom.\nComment your guess before you swipe — bonus points for the units 🤓\n\nANSWER: Simple Harmonic Motion\n\na = -ω²x: Restoring force proportional to displacement creates oscillation! Simple harmonic motion appears everywhere—springs, pendulums, atoms—foundational to physics.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #oscillations #harmonic #motion #acceleration #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #waves #vibrations #periodic"
+    "caption": "Which equation describes anything oscillating with a restoring force proportional to its displacement? 🔄\nDrop your guess in the comments before you swipe 👉\n\nA foundational model of oscillations, giving sinusoidal motion for pendulums, springs and vibrating systems — the building block for waves, resonance and normal modes across physics.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#classicalmechanics #oscillations #physicsstudent #scicomm #equationtoday"
   },
   "snap_fourth_derivative": {
     "name": "Snap (Fourth Derivative)",
-    "caption": "Today's challenge: Hint: position differentiated four times — first of a cereal-mascot trio.\nDrop your guess in the comments before you swipe — no peeking 👉\n\nANSWER: Snap (Fourth Derivative)\n\nSnap is the fourth time derivative of position! While snap is rarely used directly, it matters in comfort (avoiding jerky transitions) and robotics trajectory planning.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #calculus #derivatives #kinematics #jerk #research #appliedmathematics #engineer #mathematician #nerd #geek #university #gradstudent #motion #robotics #control"
+    "caption": "Which quantity is the fourth time-derivative of position — the one right after jerk? 🎢\nComment your answer before you swipe to check 👉\n\nA higher-order kinematic quantity, the rate of change of jerk — important in motion planning, robotics and designing smooth acceleration profiles for machinery and vehicles.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#kinematics #classicalmechanics #mechanicalengineering #scicomm #equationtoday"
   },
   "snells_law": {
     "name": "Snell's Law",
-    "caption": "Guess the equation. Hint: why a straw looks bent in a glass of water — light kinks between media.\nComment your answer first, then swipe to slide 2 to check yourself 👉\n\nANSWER: Snell's Law\n\nn₁sinθ₁ = n₂sinθ₂: Light bends when entering different media! Snell's law explains rainbows, lenses, and fiber optic cables—governing light refraction universally.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #optics #light #refraction #angles #research #appliedmathematics #physicist #engineer #nerd #geek #university #gradstudent #waves #lenses #materials"
+    "caption": "Which equation explains how light bends when it passes from air into water or glass? 🔦\nName it in the comments, then swipe to reveal 👉\n\nA cornerstone of optics, relating the angles and refractive indices as light crosses between media — behind lenses, prisms, fibre optics and the shimmering of mirages.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#optics #photonics #physicsstudent #scicomm #equationtoday"
   },
   "standard_deviation": {
     "name": "Standard Deviation",
-    "caption": "One equation, one guess. Hint: the ± number that tells you how spread out your data really is.\nType your guess below before you swipe — no cheating, we'll know 👀\n\nANSWER: Standard Deviation\n\nσ = √(Σ(x-μ)²/N): Measures spread of data around mean—how much variation exists! Standard deviation is crucial for statistics, error analysis, and understanding measurement uncertainty.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #statistics #probability #variance #distribution #research #appliedmathematics #mathematician #nerd #geek #university #gradstudent #data #analysis #uncertainty #sciencefacts"
+    "caption": "Which statistic measures how spread out a set of data is around its average? 📊\nDrop your guess in the comments before you swipe 👉\n\nA fundamental measure of dispersion in statistics, quantifying variability around the mean — essential to data analysis, quality control, finance and interpreting experimental uncertainty.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#statistics #datascience #mathematics #scicomm #equationtoday"
   },
   "stefan_boltzmann_law": {
     "name": "Stefan-Boltzmann Law",
-    "caption": "Can you name this equation? Hint: double a star's temperature and it radiates sixteen times the power.\nCommit to an answer in the comments, then swipe to see if you nailed it 👉\n\nANSWER: Stefan-Boltzmann Law\n\nP = σAT⁴: Total power radiated by object rises with absolute temperature to the fourth power! Stefan-Boltzmann law explains why hot objects glow, stars cool, and climate depends on temperature.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #radiation #thermodynamics #temperature #power #research #appliedmathematics #physicist #nerd #geek #university #gradstudent #heat #blackbody #stars #sciencefacts"
+    "caption": "Which equation says a hot object's radiated power soars with the fourth power of its temperature? 🔥\nComment your answer before you swipe to check 👉\n\nA key result in thermal radiation, giving the power radiated by a blackbody as temperature to the fourth power — central to stellar luminosity, climate balance and thermal engineering.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#thermodynamics #astrophysics #opticalphysics #scicomm #equationtoday"
   },
   "stokes_einstein_equation": {
     "name": "Stokes-Einstein Equation",
-    "caption": "Do you know this one? Hint: how a particle's size and the fluid's syrupiness set how fast it diffuses.\nGuess in the comments before checking slide 2 — how many can you get? ✅\n\nANSWER: Stokes-Einstein Equation\n\nD = kT/(6πηr): Connects diffusion coefficient to viscosity and particle size! This equation bridges molecular properties and macroscopic transport phenomena.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #diffusion #viscosity #molecules #transport #research #appliedmathematics #chemist #physicist #nerd #geek #university #gradstudent #thermal #mobility #brownian"
+    "caption": "Which equation predicts how fast a tiny particle diffuses through a fluid from its size and viscosity? 🔬\nName it in the comments, then swipe to reveal 👉\n\nA bridge between statistical physics and fluid mechanics, relating a particle's diffusion coefficient to temperature, viscosity and radius — key to colloids, nanoparticles and molecular sizing.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#softmatter #biophysics #physicalchemistry #scicomm #equationtoday"
   },
   "stokes_law_v1": {
     "name": "Stokes' Law (Version 1)",
-    "caption": "Name that equation. Hint: the viscous drag on a tiny sphere — why raindrops don't hit like bullets.\nSay it out loud, drop it in the comments, then swipe to check 👉\n\nANSWER: Stokes' Law\n\nF = 6πηrv: Drag force on a sphere in viscous fluid—Stokes' law explains raindrops' terminal velocity and particle settling! Used to measure viscosity and analyze colloidal systems.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #drag #fluids #viscosity #forces #research #appliedmathematics #physicist #engineer #nerd #geek #university #gradstudent #flow #settling #colloidal"
+    "caption": "Which equation gives the viscous drag on a tiny sphere creeping slowly through a fluid? 🔬\nDrop your guess in the comments before you swipe 👉\n\nA classic result in low-Reynolds-number fluid dynamics, giving the drag on a small sphere from radius, viscosity and speed — behind sedimentation, aerosols and measuring fluid viscosity.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#fluidmechanics #softmatter #biophysics #scicomm #equationtoday"
   },
   "stokes_law_v2": {
     "name": "Stokes' Law (Version 2)",
-    "caption": "What's this equation called? Hint: how fast a small sphere settles through a thick fluid.\nComment your guess before you swipe — bonus points for the units 🤓\n\nANSWER: Stokes' Law\n\nDifferent form of Stokes' drag showing force dependence on radius and velocity. Essential for understanding particle motion in fluids and biological flows.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #fluids #drag #viscosity #motion #research #appliedmathematics #physicist #engineer #nerd #geek #university #gradstudent #spheres #transport #forces"
+    "caption": "Which equation predicts the terminal speed of a small sphere settling under gravity in a viscous fluid? 🔬\nComment your answer before you swipe to check 👉\n\nA cornerstone of viscous flow, balancing drag against gravity to give settling velocity — applied to sediment transport, cloud droplets, centrifugation and particle sizing.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#fluidmechanics #geoscience #softmatter #scicomm #equationtoday"
   },
   "thermodynamic_entropy": {
     "name": "Thermodynamic Entropy",
-    "caption": "Know this one? Hint: δQ over T — the bookkeeping behind the arrow of time.\nDrop your guess in the comments before you swipe — no peeking 👉\n\nANSWER: Thermodynamic Entropy\n\ndS = δQ/T: Entropy change from heat transfer at temperature reveals spontaneity direction! Thermodynamic entropy predicts which processes occur naturally—the arrow of time.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #entropy #thermodynamics #heat #disorder #research #appliedmathematics #physicist #nerd #geek #university #gradstudent #second #law #irreversible #sciencefacts"
+    "caption": "Which equation defines the change in a system's disorder from heat exchanged at a given temperature? 🌡️\nName it in the comments, then swipe to reveal 👉\n\nA foundational definition in the physics of heat, relating this quantity’s change to reversible heat flow over temperature — the property that only ever increases and sets the arrow of time.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#thermodynamics #physicalchemistry #physicsstudent #scicomm #equationtoday"
   },
   "toomre_stability_criterion": {
     "name": "Toomre Stability Criterion",
-    "caption": "Today's challenge: Hint: the Q that decides whether a galaxy's disc fragments into stars.\nComment your answer first, then swipe to slide 2 to check yourself 👉\n\nANSWER: Toomre Stability Criterion\n\nQ = σ/(3.36Gμ): Measures disk stability against collapse—critical in galaxy and accretion disk physics! Toomre's criterion determines when flat structures fragment into stars and rings.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #astrophysics #galaxies #stability #gravity #research #theoreticalphysics #astrophysicist #nerd #geek #university #gradstudent #disk #structure #fragmentation #sciencefacts"
+    "caption": "Which equation decides whether a rotating disc of gas or stars will fragment and collapse under gravity? 🌌\nDrop your guess in the comments before you swipe 👉\n\nA key result in astrophysics, balancing self-gravity against pressure and rotation to predict disc instability — central to star formation, galactic spiral structure and protoplanetary discs.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#astrophysics #galacticdynamics #starformation #scicomm #equationtoday"
   },
   "torque": {
     "name": "Torque",
-    "caption": "Guess the equation. Hint: why a longer wrench beats a stubborn bolt.\nType your guess below before you swipe — no cheating, we'll know 👀\n\nANSWER: Torque\n\nτ = r × F: Torque measures rotational force—the rotational analog of force in linear motion! Torque governs everything from opening doors to planetary spin.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #mechanics #rotational #forces #moment #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #angular #dynamics #motion"
+    "caption": "Which quantity measures the twisting effect of a force — why a longer wrench loosens a bolt more easily? 🔧\nComment your answer before you swipe to check 👉\n\nA fundamental quantity in rotational mechanics, the rotational analogue of force, depending on force and lever arm — behind engines, gears, levers and everything that rotates.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#rotationaldynamics #classicalmechanics #mechanicalengineering #scicomm #equationtoday"
   },
   "tsiolkovsky_rocket_equation": {
     "name": "Tsiolkovsky Rocket Equation",
-    "caption": "One equation, one guess. Hint: the tyranny of the mass ratio — every space mission bows to it.\nCommit to an answer in the comments, then swipe to see if you nailed it 👉\n\nANSWER: Tsiolkovsky Rocket Equation\n\nΔv = vₑ ln(m₀/mf): Final velocity change depends on exhaust velocity and mass ratio! Tsiolkovsky's equation is the foundation of rocketry—every space mission follows it.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #rockets #space #propulsion #research #appliedmathematics #engineer #physicist #nerd #geek #university #gradstudent #velocity #mass #momentum #sciencefacts"
+    "caption": "Which equation reveals how a spacecraft's final speed depends on exhaust velocity and how much propellant it burns? 🚀\nName it in the comments, then swipe to reveal 👉\n\nThe founding equation of astronautics, relating change in velocity to exhaust speed and the ratio of initial to final mass — governing spacecraft propulsion, staging and the tyranny of the fuel budget.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#astronautics #aerospaceengineering #orbitalmechanics #scicomm #equationtoday"
   },
   "van_t_hoff_equation": {
     "name": "van 't Hoff Equation",
-    "caption": "Can you name this equation? Hint: how a reaction's equilibrium shifts when you turn up the heat.\nGuess in the comments before checking slide 2 — how many can you get? ✅\n\nANSWER: van 't Hoff Equation\n\nln(K) = -ΔH/RT + ΔS/R: Relates equilibrium constant to temperature, enabling prediction of reaction equilibrium shifts! Essential for chemistry and biochemistry.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #chemistry #equilibrium #thermodynamics #reactions #research #appliedmathematics #chemist #nerd #geek #university #gradstudent #temperature #entropy #kinetics #sciencefacts"
+    "caption": "Which equation predicts how a chemical equilibrium shifts as you change the temperature? ⚗️\nDrop your guess in the comments before you swipe 👉\n\nA key relation in physical chemistry, linking the temperature dependence of an equilibrium constant to reaction enthalpy — essential to reaction engineering, solubility and thermochemistry.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#physicalchemistry #thermodynamics #chemistry #scicomm #equationtoday"
   },
   "vis_viva_equation": {
     "name": "Vis Viva Equation",
-    "caption": "Do you know this one? Hint: orbital speed anywhere on an ellipse, from just r and a — the name is Latin.\nSay it out loud, drop it in the comments, then swipe to check 👉\n\nANSWER: Vis Viva Equation\n\nv² = GM(2/r - 1/a): Orbital velocity at any distance depends on semi-major axis! Vis viva (living force) equation simplifies orbital mechanics for any eccentricity.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #orbits #gravity #velocity #mechanics #research #theoreticalphysics #astrophysicist #nerd #geek #university #gradstudent #kepler #energy #elliptical #sciencefacts"
+    "caption": "Which equation gives an orbiting body's speed at any point along its elliptical path? 🛰️\nComment your answer before you swipe to check 👉\n\nA fundamental result in orbital mechanics, relating orbital speed to distance and orbit size via energy conservation — indispensable for spacecraft trajectories, transfers and mission planning.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#orbitalmechanics #astronautics #astrophysics #scicomm #equationtoday"
   },
   "vorticity_equation": {
     "name": "Vorticity Equation",
-    "caption": "Name that equation. Hint: how swirls in a fluid stretch, tilt and spread — turbulence's bookkeeper.\nComment your guess before you swipe — bonus points for the units 🤓\n\nANSWER: Vorticity Equation\n\n∂ω/∂t + (u·∇)ω = (ω·∇)u + ν∇²ω: Describes how fluid rotation evolves! Vorticity equation underlies turbulence modeling and complex fluid dynamics.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #fluids #turbulence #vorticity #dynamics #research #appliedmathematics #engineer #physicist #nerd #geek #university #gradstudent #flow #rotation #viscous"
+    "caption": "Which equation governs how the local spinning of a fluid — its swirl — is created and transported? 🌪️\nName it in the comments, then swipe to reveal 👉\n\nA central equation in fluid dynamics describing how the local spinning of a flow is generated and transported — key to turbulence, tornadoes, aerodynamics and ocean and atmospheric circulation.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#fluiddynamics #turbulence #geophysicalfluiddynamics #scicomm #equationtoday"
   },
   "wave_equation_v1": {
     "name": "Wave Equation (Version 1)",
-    "caption": "What's this equation called? Hint: the one PDE that sound, light and water ripples all obey.\nDrop your guess in the comments before you swipe — no peeking 👉\n\nANSWER: Wave Equation\n\n∂²u/∂t² = c²∇²u: The wave equation describes propagation of waves through any medium! Sound, light, water—all obey this fundamental PDE governing wave phenomena.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #waves #pde #propagation #velocity #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #hyperbolic #dynamics #media"
+    "caption": "Which equation describes how disturbances propagate through space and time — sound, light and vibrating strings? 🌊\nDrop your guess in the comments before you swipe 👉\n\nA fundamental partial differential equation of physics, governing how disturbances travel at a fixed speed — describing sound, light, seismic motion, water ripples and vibrating strings.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#appliedmaths #waves #mathematicalphysics #scicomm #equationtoday"
   },
   "wave_equation_v2": {
     "name": "Wave Equation (Version 2)",
-    "caption": "Know this one? Hint: the d'Alembertian form Einstein used for ripples in spacetime itself.\nComment your answer first, then swipe to slide 2 to check yourself 👉\n\nANSWER: Wave Equation\n\nDifferent form emphasizing d'Alembertian operator: the wave equation unifies spacetime in relativity. Einstein used this equation to describe gravitational waves.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #waves #relativity #gravity #propagation #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #spacetime #fields #einstein"
+    "caption": "Which equation, using the spacetime d'Alembertian, captures propagating disturbances in a relativistic form? 🌊\nComment your answer before you swipe to check 👉\n\nA compact statement of how disturbances propagate, central to electromagnetism, acoustics and field theory — the mathematical backbone of nearly every propagating disturbance in physics.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#mathematicalphysics #waves #fieldtheory #scicomm #equationtoday"
   },
   "wien_displacement_law": {
     "name": "Wien Displacement Law",
-    "caption": "Today's challenge: Hint: why red-hot is cooler than white-hot — peak colour tracks temperature.\nType your guess below before you swipe — no cheating, we'll know 👀\n\nANSWER: Wien Displacement Law\n\nλₘₐₓ = b/T: Peak wavelength of blackbody radiation shifts with temperature! Wien's law explains why hot objects emit visible light while cool ones emit infrared.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #radiation #temperature #wavelength #blackbody #research #appliedmathematics #physicist #nerd #geek #university #gradstudent #thermal #stars #light #sciencefacts"
+    "caption": "Which equation says hotter objects glow at shorter wavelengths — why stars shift from red to blue? 🌈\nName it in the comments, then swipe to reveal 👉\n\nA key result in thermal radiation, relating the peak wavelength of a blackbody's glow to its temperature — behind stellar colours, infrared thermometers and thermal imaging.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#thermodynamics #astrophysics #opticalphysics #scicomm #equationtoday"
   },
   "work_energy_theorem": {
     "name": "Work-Energy Theorem",
-    "caption": "Guess the equation. Hint: push something along a distance and its ½mv² changes by exactly that amount.\nCommit to an answer in the comments, then swipe to see if you nailed it 👉\n\nANSWER: Work-Energy Theorem\n\nW = ΔKE: Work done equals change in kinetic energy! This fundamental theorem connects forces and motion, simplifying mechanics problems throughout classical physics.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #mechanics #energy #work #forces #research #theoreticalphysics #appliedmathematics #physicist #nerd #geek #university #gradstudent #conservation #kinetic #motion"
+    "caption": "Which equation says the net work done on an object equals its change in energy of motion? 🏋️\nDrop your guess in the comments before you swipe 👉\n\nA cornerstone of mechanics, connecting the work done by forces to the change in kinetic energy — a powerful shortcut for problems involving speed, forces and distance.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#classicalmechanics #physicsstudent #dynamics #scicomm #equationtoday"
   },
   "young_laplace_equation": {
     "name": "Young-Laplace Equation",
-    "caption": "One equation, one guess. Hint: why small soap bubbles have higher pressure inside than big ones.\nGuess in the comments before checking slide 2 — how many can you get? ✅\n\nANSWER: Young-Laplace Equation\n\nΔP = 2σ/r: Pressure difference across curved interface depends on surface tension and radius! Young-Laplace explains why small bubbles burst first and governs capillary phenomena.",
-    "hashtags": "#physics #mathematics #science #engineering #stem #equations #equationoftheday #scicomm #sciencelovers #physicslovers #surface #tension #pressure #interface #research #appliedmathematics #physicist #engineer #nerd #geek #university #gradstudent #bubbles #capillary #fluids"
+    "caption": "Which equation explains the pressure jump across a curved liquid surface — why bubbles and droplets form? 🫧\nComment your answer before you swipe to check 👉\n\nA foundational result in surface science, relating the pressure difference across an interface to surface tension and curvature — governing bubbles, droplets, capillarity and emulsions.\n\nSave it to quiz a friend later 📌",
+    "hashtags": "#surfacescience #softmatter #fluidmechanics #scicomm #equationtoday"
   }
 }
