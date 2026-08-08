@@ -131,5 +131,12 @@
     "posted_at": "2026-08-07T16:39:31.411949+00:00",
     "post_id": "18110684032971787",
     "matched_story": false
+  },
+  {
+    "id": "gauss_law_gravity_v2",
+    "name": "Gauss' Law - Gravity (Version 2)",
+    "posted_at": "2026-08-08T16:17:48.550789+00:00",
+    "post_id": "18115852364478821",
+    "matched_story": true
   }
 ]
