@@ -236,5 +236,12 @@
     "posted_at": "2026-08-22T16:10:18.280770+00:00",
     "post_id": "18130888597657336",
     "matched_story": true
+  },
+  {
+    "id": "boltzmann_distribution",
+    "name": "Boltzmann Distribution",
+    "posted_at": "2026-08-23T16:11:06.477902+00:00",
+    "post_id": "18352523386223184",
+    "matched_story": true
   }
 ]
