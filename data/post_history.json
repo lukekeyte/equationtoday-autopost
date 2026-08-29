@@ -278,5 +278,12 @@
     "posted_at": "2026-08-29T00:12:17.999966+00:00",
     "post_id": "17876185962543493",
     "matched_story": false
+  },
+  {
+    "id": "hawking_temperature",
+    "name": "Hawking Temperature",
+    "posted_at": "2026-08-29T18:58:00.533545+00:00",
+    "post_id": "18404765992088723",
+    "matched_story": true
   }
 ]
