@@ -285,5 +285,12 @@
     "posted_at": "2026-08-29T18:58:00.533545+00:00",
     "post_id": "18404765992088723",
     "matched_story": true
+  },
+  {
+    "id": "einstein_field_equations_with_lambda_v2",
+    "name": "Einstein Field Equations (With Lambda, Version 2)",
+    "posted_at": "2026-08-30T18:53:30.477240+00:00",
+    "post_id": "18233557330316994",
+    "matched_story": true
   }
 ]
