@@ -6,12 +6,19 @@ Each equation has a two-slide quiz story (a "Today's Question" teaser and an
 repeats), publishes BOTH story slides in order, and records the choice so that
 the afternoon carousel job posts the *matching* equation.
 
+Cadence:
+    Stories go out once every MIN_DAYS_BETWEEN_STORIES days. The workflow can
+    still run daily; on off-days this script exits without posting. The check
+    is based on story_history.json rather than calendar-modulo dates, so it's
+    self-healing: if a run fails, the next day's run posts and the rhythm
+    continues from there.
+
 Coordination with the carousel:
     We write the chosen equation to data/today_equation.json, e.g.
         {"id": "stefan_boltzmann_law", "name": "...", "date": "2026-07-13"}
     The carousel job (scripts/post_to_instagram.py) reads that file and, if the
     date is today (UTC), posts that equation's carousel — so the morning story
-    and afternoon carousel always match. If this job fails or is skipped, the
+    and afternoon carousel match on story days. On the days this job skips, the
     carousel job falls back to its own random pick, so the feed never stalls.
 
 Instagram note:
@@ -44,8 +51,13 @@ HISTORY_FILE = "data/story_history.json"
 TODAY_FILE = "data/today_equation.json"
 
 # How many recent stories to avoid before an equation can be reused.
-# With 152 equations this means ~4 months before a repeat.
+# With 152 equations and a story every 3 days, 120 is roughly a year
+# before a repeat.
 COOLDOWN = 120
+
+# ─── Posting cadence ───
+# Minimum whole days between stories. 3 = once every three days.
+MIN_DAYS_BETWEEN_STORIES = 3
 
 
 def load_json(path, default=None):
@@ -59,6 +71,37 @@ def load_json(path, default=None):
 def save_json(path, data):
     with open(path, "w") as f:
         json.dump(data, f, indent=2)
+
+
+def due_today(history):
+    """Return True if at least MIN_DAYS_BETWEEN_STORIES whole days have
+    passed since the last story was posted.
+
+    Set FORCE_STORY=1 in the environment (exposed as a manual toggle in
+    the workflow) to bypass the check for testing.
+    """
+    if os.environ.get("FORCE_STORY") == "1":
+        print("FORCE_STORY=1 set — bypassing cadence check.")
+        return True
+
+    if not history:
+        return True
+
+    try:
+        last = datetime.fromisoformat(history[-1]["posted_at"]).date()
+    except (KeyError, ValueError) as e:
+        print(f"Warning: couldn't parse last posted_at ({e}) — posting anyway.")
+        return True
+
+    days_since = (datetime.now(timezone.utc).date() - last).days
+    if days_since < MIN_DAYS_BETWEEN_STORIES:
+        print(
+            f"Last story went out {days_since} day(s) ago ({last}). "
+            f"Cadence is every {MIN_DAYS_BETWEEN_STORIES} days — skipping today."
+        )
+        return False
+
+    return True
 
 
 def pick_equation(equations, history):
@@ -127,6 +170,11 @@ def main():
 
     if not equations:
         print("No equations configured — skipping.")
+        return
+
+    # Every-3-days cadence gate. Exits before writing today_equation.json,
+    # so the carousel job falls back to its own pick on skip days.
+    if not due_today(history):
         return
 
     eq_id = pick_equation(equations, history)

@@ -1,247 +1,302 @@
 {
-  "ampere_law": {
-    "filename": "ampere_law.mp4",
-    "caption": "⏳ Beat the countdown. Hint: electric currents conjure the magnetic fields inside every motor on Earth.\nComment your answer before the reveal — and no scrubbing forward 👀\n\nANSWER: Ampère's Law\n\nMagnetic fields don't just appear — electric currents CREATE them. Ampère's Law reveals the deep link between electricity and magnetism that powers every motor on Earth. ⚡🧲",
-    "hashtags": "#AmperesLaw #Electromagnetism #Physics #MagneticField #ElectricCurrent #MaxwellsEquations #PhysicsLovers #ScienceFacts #LearnPhysics #PhysicsNerd #STEM #ScienceEducation #PhysicsStudent #Electrodynamics #AppliedPhysics #EngineeringPhysics #PhysicsIsBeautiful #ScienceIsAwesome #PhysicsFacts #ClassicalPhysics"
+  "archimedes-principle": {
+    "filename": "archimedes-principle.mp4",
+    "caption": "🤔 A 200,000-tonne steel ship floats. A steel bolt sinks. Same metal, opposite fate.\nThink you've got it? Drop your answer below before the reveal 👇\n\nANSWER: Archimedes' Principle\n\nThe upward push on anything in a fluid equals the weight of the fluid it shoves out of the way. A hull is mostly air, so it displaces far more water than it weighs. The bolt displaces almost nothing. Shape wins, not material. 🚢\n\n💾 Save this — you'll want it the next time it comes up\n🔁 Send it to someone who'd enjoy the argument",
+    "hashtags": "#Fluids #PhysicsExplained #ScienceFacts #PhysicsFacts"
   },
-  "angular_acceleration": {
-    "filename": "angular_acceleration.mp4",
-    "caption": "⏳ Three seconds on the clock. Hint: how quickly something's spin rate changes — the skater's arm-tuck trick.\nDrop your guess below before the timer hits zero — no cheating ⏳\n\nANSWER: Angular Acceleration\n\nEver wonder why a spinning figure skater speeds up when they pull in their arms? It all comes down to angular acceleration — rotational motion's most dramatic secret. 🌀",
-    "hashtags": "#AngularAcceleration #RotationalMotion #Physics #Mechanics #ClassicalMechanics #PhysicsFacts #ScienceFacts #LearnPhysics #PhysicsLovers #STEM #ScienceEducation #PhysicsNerd #Dynamics #RigidBodyMotion #PhysicsIsBeautiful #EngineeringPhysics #PhysicsStudent #ScienceIsAwesome #AppliedPhysics #PhysicsDaily"
+  "arrhenius-equation": {
+    "filename": "arrhenius-equation.mp4",
+    "caption": "🤔 Milk lasts a week in the fridge and a day on the counter. A 15°C difference should not do that.\nName it before the reveal — comment your guess 👇\n\nANSWER: The Arrhenius Equation\n\nReaction rates don't rise steadily with temperature — they rise exponentially, because only molecules above an energy threshold can react. Roughly, every 10°C drop halves the rate. Your fridge isn't slowing decay a little, it's slowing it by an order of magnitude. 🧪\n\n💾 Save it for later\n🔁 Share it with the one friend who'd already know this",
+    "hashtags": "#Chemistry #ReactionKinetics #ScienceExplained #ChemistryFacts"
   },
-  "angular_momentum": {
-    "filename": "angular_momentum.mp4",
-    "caption": "⏳ Quick — before the timer runs out. Hint: the conserved spin currency of planets, galaxies and ice skaters.\nType what you think it is in the comments, then watch the reveal 👇\n\nANSWER: Angular Momentum\n\nThe universe conserves angular momentum — it's why planets orbit, galaxies spiral, and ice skaters spin faster. One equation governs them all. 🌍💫",
-    "hashtags": "#AngularMomentum #ConservationLaws #Physics #RotationalMotion #ClassicalMechanics #PhysicsLovers #ScienceFacts #STEM #LearnPhysics #PhysicsNerd #ScienceEducation #Astrophysics #PhysicsIsBeautiful #SpinPhysics #Dynamics #PhysicsStudent #ScienceIsAwesome #PhysicsFacts #EngineeringPhysics #PhysicsDaily"
+  "barometric-formula": {
+    "filename": "barometric-formula.mp4",
+    "caption": "🤔 Your crisp packet inflates on a plane, and pasta refuses to cook properly in the mountains.\nGot it? Say it out loud, then keep watching 👀\n\nANSWER: The Barometric Formula\n\nAir pressure doesn't drop steadily with height — it decays exponentially, falling by a factor of e roughly every 8.5 km. That's why water boils at about 90°C in Denver and why Everest's summit has a third of the air you're breathing now. ⛰️\n\n💾 Save this one for revision\n🔁 Send it to someone who needs to see it",
+    "hashtags": "#Atmosphere #PhysicsExplained #EarthScience #PhysicsFacts"
   },
-  "beer_lambert_law": {
-    "filename": "beer_lambert_law.mp4",
-    "caption": "⏳ No pausing allowed. Hint: measure a solution's concentration just by shining light through it.\nComment your guess before the answer drops — how fast did you get it? 💬\n\nANSWER: Beer-Lambert Law\n\nHow do scientists measure the concentration of a solution just by shining light through it? The Beer-Lambert Law turns light into a precision instrument. 🔬💡",
-    "hashtags": "#BeerLambertLaw #Spectroscopy #Chemistry #Physics #AnalyticalChemistry #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #Optics #LearnPhysics #PhysicsNerd #Spectrophotometry #LightAbsorption #PhysicsLovers #MolecularScience #AppliedPhysics #ScienceIsAwesome #LabScience #PhysicsDaily"
+  "basel-problem": {
+    "filename": "basel-problem.mp4",
+    "caption": "🤔 Add 1 + ¼ + ⅑ + 1/16 … forever. The answer contains π. There isn't a circle anywhere in sight.\nComment your answer before it appears on screen 💬\n\nANSWER: The Basel Problem\n\nThe sum of the reciprocals of the squares converges to π²/6. It stumped Europe's best mathematicians for 90 years until Euler cracked it in 1734 and made his name overnight. Nobody has ever fully explained why a circle constant is hiding in a sum of squares. 🌀\n\n💾 Save it before it disappears down your feed\n🔁 Share it with your group chat",
+    "hashtags": "#Mathematics #NumberTheory #MathsIsBeautiful #MathsIsFun"
   },
-  "bragg_law": {
-    "filename": "bragg_law.mp4",
-    "caption": "⏳ Countdown's on. Hint: bounce X-rays off crystal planes and map atoms no microscope can see.\nComment your answer before the reveal — and no scrubbing forward 👀\n\nANSWER: Bragg's Law\n\nHow do we 'see' atoms when they're far too small for any microscope? Bragg's Law lets us use X-rays to map the hidden architecture of crystals. 💎🔬",
-    "hashtags": "#BraggsLaw #XRayDiffraction #Physics #Crystallography #CondensedMatterPhysics #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsNerd #AtomicStructure #PhysicsLovers #MaterialsScience #PhysicsIsBeautiful #AppliedPhysics #ScienceIsAwesome #XRayCrystallography #PhysicsStudent #PhysicsDaily"
+  "bayes-theorem": {
+    "filename": "bayes-theorem.mp4",
+    "caption": "🤔 A test that's 99% accurate comes back positive. Your real chance of having the disease can still be under 10%.\nKnow the one? Put it in the comments 👇\n\nANSWER: Bayes' Theorem\n\nAccuracy isn't the whole story — how rare the condition is matters just as much. If only 1 in 1,000 people have it, the false positives vastly outnumber the true ones. This is the single most misunderstood idea in medicine, law and everyday risk. 🎯\n\n💾 Save this for the next quiz night\n🔁 Send it to someone who'd love this",
+    "hashtags": "#Probability #Statistics #CriticalThinking #DataLiteracy"
   },
-  "capacitance": {
-    "filename": "capacitance.mp4",
-    "caption": "⏳ Beat the countdown. Hint: the art of storing electric charge — your touchscreen runs on it.\nDrop your guess below before the timer hits zero — no cheating ⏳\n\nANSWER: Capacitance\n\nEvery phone, circuit, and power grid relies on one deceptively simple concept: the ability to store electric charge. This is capacitance — the battery's quieter cousin. ⚡📱",
-    "hashtags": "#Capacitance #Electronics #Physics #ElectricalEngineering #Circuits #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsNerd #Capacitor #PhysicsLovers #ElectronicComponents #PhysicsIsBeautiful #AppliedPhysics #ScienceIsAwesome #CircuitDesign #EngineeringPhysics #PhysicsDaily"
+  "benfords-law": {
+    "filename": "benfords-law.mp4",
+    "caption": "🤔 In real-world data, the first digit is a 1 about 30% of the time — not the 11% you'd expect.\nGuess first, scroll after 👀\n\nANSWER: Benford's Law\n\nRiver lengths, share prices, populations, invoice totals: the leading digits follow a logarithmic distribution, not a uniform one. Forensic accountants use it to spot faked books, because people inventing numbers spread their digits far too evenly. 🕵️\n\n💾 Save it — it's better the second time\n🔁 Share it with a fellow physics nerd",
+    "hashtags": "#Statistics #DataScience #MathsFacts #DataLiteracy"
   },
-  "centripetal_force": {
-    "filename": "centripetal_force.mp4",
-    "caption": "⏳ Three seconds on the clock. Hint: the inward pull that keeps you in your seat through a rollercoaster loop.\nType what you think it is in the comments, then watch the reveal 👇\n\nANSWER: Centripetal Force\n\nWhat stops you flying off a rollercoaster loop? What keeps the Moon orbiting Earth? The same force — centripetal force — the invisible hand of circular motion. 🎢🌕",
-    "hashtags": "#CentripetalForce #CircularMotion #Physics #ClassicalMechanics #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #Dynamics #PhysicsIsBeautiful #NewtonianPhysics #AppliedPhysics #ScienceIsAwesome #ForceAndMotion #EngineeringPhysics #PhysicsStudent #PhysicsDaily"
+  "birthday-problem": {
+    "filename": "birthday-problem.mp4",
+    "caption": "🤔 Put 23 people in a room and it's more likely than not that two share a birthday.\nCall it before the reveal — comments are open 💬\n\nANSWER: The Birthday Problem\n\nThe trick is that you're not comparing yourself to 22 others — you're comparing every possible pair, and 23 people make 253 pairs. By 70 people the odds pass 99.9%. Our intuition tracks people; the maths tracks pairs. 🎂\n\n💾 Save this for later reference\n🔁 Send it to someone who won't believe it",
+    "hashtags": "#Probability #Mathematics #MathsIsFun #MathFacts"
   },
-  "coefficient_of_friction": {
-    "filename": "coefficient_of_friction.mp4",
-    "caption": "⏳ Quick — before the timer runs out. Hint: the grip number that decides whether your shoes slip or stick.\nComment your guess before the answer drops — how fast did you get it? 💬\n\nANSWER: Coefficient of Friction\n\nFriction is why we can walk, drive, and grip things — and why machines wear out. The coefficient of friction puts a number on one of physics' most everyday forces. 👟⚙️",
-    "hashtags": "#CoefficientOfFriction #Friction #Physics #ClassicalMechanics #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #Tribology #PhysicsIsBeautiful #AppliedPhysics #EngineeringPhysics #ScienceIsAwesome #ForceAndMotion #MechanicalEngineering #PhysicsStudent #PhysicsDaily"
+  "boltzmann-entropy": {
+    "filename": "boltzmann-entropy.mp4",
+    "caption": "🤔 The equation carved on its author's gravestone in Vienna — written before anyone believed atoms were real.\nCan you name it? Answer's coming up 👇\n\nANSWER: Boltzmann's Entropy Formula\n\nEntropy is just a count: the number of microscopic arrangements that look the same from outside. There are overwhelmingly more messy arrangements than tidy ones, so systems drift towards mess. That statistical fact is why time has a direction at all. ⏳\n\n💾 Save it to your science folder\n🔁 Share it with someone who's studying this",
+    "hashtags": "#Thermodynamics #StatisticalMechanics #PhysicsExplained #PhysicsFacts"
   },
-  "continuity_equation": {
-    "filename": "continuity_equation.mp4",
-    "caption": "⏳ No pausing allowed. Hint: why a river runs faster through a narrow gorge — mass must be conserved.\nComment your answer before the reveal — and no scrubbing forward 👀\n\nANSWER: Continuity Equation\n\nWhy does a river flow faster through a narrow gorge? The continuity equation is conservation of mass in fluid form — elegant, simple, and everywhere in nature. 🌊🏞️",
-    "hashtags": "#ContinuityEquation #FluidDynamics #Physics #FluidMechanics #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #ConservationOfMass #PhysicsIsBeautiful #EngineeringPhysics #HydroDynamics #ScienceIsAwesome #AppliedPhysics #MechanicalEngineering #PhysicsStudent #PhysicsDaily"
+  "carnot-efficiency": {
+    "filename": "carnot-efficiency.mp4",
+    "caption": "🤔 There's a hard ceiling on every engine ever built, and no amount of engineering will ever raise it.\nThink you've got it? Drop your answer below before the reveal 👇\n\nANSWER: Carnot Efficiency\n\nThe best possible efficiency depends only on the two temperatures you run between — nothing about the fuel, the design or the budget. A power station at 550°C exhausting to 25°C tops out near 64%, and reality lands well below. Thermodynamics sets the bill. 🔥\n\n💾 Save this — you'll want it the next time it comes up\n🔁 Send it to someone who'd enjoy the argument",
+    "hashtags": "#Thermodynamics #Engineering #PhysicsExplained #PhysicsFacts"
   },
-  "coulombs_law": {
-    "filename": "coulombs_law.mp4",
-    "caption": "⏳ Countdown's on. Hint: gravity's mathematical twin for electric charges — but up to 10³⁶ times stronger.\nDrop your guess below before the timer hits zero — no cheating ⏳\n\nANSWER: Coulomb's Law\n\nThe electric force between charges follows the exact same mathematical structure as gravity — but can be 10³⁶ times stronger. Coulomb's Law is electrostatics at its finest. ⚡🔋",
-    "hashtags": "#CoulombsLaw #Electrostatics #Physics #ElectricForce #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #MaxwellsEquations #PhysicsIsBeautiful #ClassicalPhysics #ElectricField #ScienceIsAwesome #AppliedPhysics #EngineeringPhysics #PhysicsStudent #PhysicsDaily"
+  "chandrasekhar-limit": {
+    "filename": "chandrasekhar-limit.mp4",
+    "caption": "🤔 There's a maximum mass a dead star can have: about 1.4 Suns. Cross it and gravity wins outright.\nName it before the reveal — comment your guess 👇\n\nANSWER: The Chandrasekhar Limit\n\nWhite dwarfs are held up by electron degeneracy pressure, and that pressure has a limit. Because every white dwarf detonates at the same mass, the resulting supernovae all have the same brightness — which is how we measured the accelerating expansion of the universe. 💥\n\n💾 Save it for later\n🔁 Share it with the one friend who'd already know this",
+    "hashtags": "#Astrophysics #StellarEvolution #Astronomy #SpaceFacts"
   },
-  "density": {
-    "filename": "density.mp4",
-    "caption": "⏳ Beat the countdown. Hint: the mass-per-volume idea behind floating ice and city-sized dead stars.\nType what you think it is in the comments, then watch the reveal 👇\n\nANSWER: Density (ρ = m/V)\n\nOne of the simplest equations in physics hides some of the universe's biggest secrets — from why ice floats to how neutron stars cram a Sun's worth of mass into a city. 🧊⭐",
-    "hashtags": "#Density #Physics #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #FluidMechanics #PhysicsIsBeautiful #Matter #ClassicalPhysics #ScienceIsAwesome #AppliedPhysics #Astrophysics #PhysicsStudent #ChemistryPhysics #PhysicsDaily #ScienceForAll"
+  "clausius-clapeyron": {
+    "filename": "clausius-clapeyron.mp4",
+    "caption": "🤔 Warm the air by 1°C and it can hold about 7% more water. That's why storms are getting wetter.\nGot it? Say it out loud, then keep watching 👀\n\nANSWER: The Clausius-Clapeyron Relation\n\nThe relation links saturation vapour pressure to temperature, and the dependence is exponential rather than linear. It sets where clouds form, why your glasses fog, and why a modestly warmer atmosphere delivers disproportionately heavier rainfall. 🌧️\n\n💾 Save this one for revision\n🔁 Send it to someone who needs to see it",
+    "hashtags": "#Thermodynamics #ClimateScience #PhysicsExplained #PhysicsFacts"
   },
-  "doppler_effect": {
-    "filename": "doppler_effect.mp4",
-    "caption": "⏳ Three seconds on the clock. Hint: one idea explains a passing siren's dropping pitch AND redshifted galaxies.\nComment your guess before the answer drops — how fast did you get it? 💬\n\nANSWER: Doppler Effect\n\nThe sound of a racing car drops in pitch as it passes you. Galaxies move away from us because their light is redshifted. One effect — the Doppler Effect — explains both. 🚗🌌",
-    "hashtags": "#DopplerEffect #Physics #SoundWaves #Redshift #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #WavePhysics #PhysicsIsBeautiful #Astrophysics #ScienceIsAwesome #Acoustics #Cosmology #AppliedPhysics #PhysicsStudent #PhysicsDaily"
+  "coulombs-law": {
+    "filename": "coulombs-law.mp4",
+    "caption": "🤔 Between two protons, one force is about 10³⁶ times stronger than the other. Gravity loses badly.\nComment your answer before it appears on screen 💬\n\nANSWER: Coulomb's Law\n\nElectrostatic force follows the same inverse-square shape as gravity but with a colossally bigger constant. Gravity only rules the cosmos because positive and negative charges cancel out, while mass only ever adds. ⚡\n\n💾 Save it before it disappears down your feed\n🔁 Share it with your group chat",
+    "hashtags": "#Electromagnetism #PhysicsExplained #ScienceFacts #PhysicsFacts"
   },
-  "elastic_potential_energy": {
-    "filename": "elastic_potential_energy.mp4",
-    "caption": "⏳ Quick — before the timer runs out. Hint: the power a drawn bow quietly stores before the arrow flies.\nComment your answer before the reveal — and no scrubbing forward 👀\n\nANSWER: Elastic Potential Energy\n\nEvery stretched spring, every drawn bow, every bouncing ball stores energy invisibly. Elastic potential energy is nature's way of saving power for later. 🏹🌀",
-    "hashtags": "#ElasticPotentialEnergy #PotentialEnergy #Physics #ClassicalMechanics #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #HookesLaw #PhysicsIsBeautiful #ConservationOfEnergy #ScienceIsAwesome #AppliedPhysics #EngineeringPhysics #PhysicsStudent #SpringPhysics #PhysicsDaily"
+  "de-broglie-wavelength": {
+    "filename": "de-broglie-wavelength.mp4",
+    "caption": "🤔 You have a wavelength. It's about 10⁻³⁵ metres, which is why nobody has ever seen you diffract.\nKnow the one? Put it in the comments 👇\n\nANSWER: The de Broglie Wavelength\n\nEvery object with momentum has a wave associated with it. For an electron it's atom-sized, which is why electron microscopes work and why chemistry has orbitals. For a walking human it's unimaginably smaller than a proton — so the wave side of you never shows up. 🌊\n\n💾 Save this for the next quiz night\n🔁 Send it to someone who'd love this",
+    "hashtags": "#QuantumPhysics #QuantumMechanics #PhysicsExplained #PhysicsFacts"
   },
-  "electric_power": {
-    "filename": "electric_power.mp4",
-    "caption": "⏳ No pausing allowed. Hint: the rate a circuit delivers the goods — kettles and national grids obey it.\nDrop your guess below before the timer hits zero — no cheating ⏳\n\nANSWER: Electric Power (P = IV)\n\nP = IV. Three symbols. Every power station, every circuit, every LED bulb on Earth obeys this equation. Electric power is the lifeblood of modern civilisation. 💡⚡",
-    "hashtags": "#ElectricPower #Physics #ElectricalEngineering #Circuits #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #OhmsLaw #PhysicsIsBeautiful #Electronics #ScienceIsAwesome #AppliedPhysics #EngineeringPhysics #PhysicsStudent #Electricity #PhysicsDaily"
+  "doppler-effect": {
+    "filename": "doppler-effect.mp4",
+    "caption": "🤔 The reason a siren changes pitch as it passes is the same reason we know the universe is expanding.\nGuess first, scroll after 👀\n\nANSWER: The Doppler Effect\n\nMotion compresses or stretches the waves you emit. For sound it's a change in pitch; for light it's a change in colour. Point the same idea at distant galaxies and their light is stretched to the red — the observation that rewrote cosmology. 🚑\n\n💾 Save it — it's better the second time\n🔁 Share it with a fellow physics nerd",
+    "hashtags": "#Waves #Astronomy #PhysicsExplained #SpaceFacts"
   },
-  "escape_velocity": {
-    "filename": "escape_velocity.mp4",
-    "caption": "⏳ Countdown's on. Hint: 11.2 km/s — the magic number that unchains you from Earth forever.\nType what you think it is in the comments, then watch the reveal 👇\n\nANSWER: Escape Velocity\n\nTo leave Earth forever, you need to hit exactly 11.2 km/s. No more, no less — that's escape velocity. The equation that turned space travel from dream to reality. 🚀🌍",
-    "hashtags": "#EscapeVelocity #SpacePhysics #Physics #Astrophysics #Gravity #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #SpaceScience #PhysicsIsBeautiful #Cosmology #ScienceIsAwesome #AppliedPhysics #SpaceExploration #PhysicsStudent #PhysicsDaily"
+  "drake-equation": {
+    "filename": "drake-equation.mp4",
+    "caption": "🤔 An equation nobody can solve — and it still changed everything, because it turned a daydream into a research programme.\nCall it before the reveal — comments are open 💬\n\nANSWER: The Drake Equation\n\nWritten by Frank Drake in 1961, it breaks 'are we alone?' into seven factors you can actually go and measure. Sixty years on we've pinned down the first few terms and the rest are still guesses spanning ten orders of magnitude. 👽\n\n💾 Save this for later reference\n🔁 Send it to someone who won't believe it",
+    "hashtags": "#Astrobiology #Exoplanets #Astronomy #SpaceFacts"
   },
-  "faraday_law": {
-    "filename": "faraday_law.mp4",
-    "caption": "⏳ Beat the countdown. Hint: a changing magnetic field births electricity — every generator's secret.\nComment your guess before the answer drops — how fast did you get it? 💬\n\nANSWER: Faraday's Law\n\nEvery generator on Earth works because of one discovery: a changing magnetic field creates electricity. Faraday's Law literally powers the modern world. ⚡🔄",
-    "hashtags": "#FaradayLaw #Electromagnetism #Physics #ElectromagneticInduction #MaxwellsEquations #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #ElectricalEngineering #ScienceIsAwesome #AppliedPhysics #EngineeringPhysics #MichaelFaraday #PhysicsStudent #PhysicsDaily"
+  "escape-velocity": {
+    "filename": "escape-velocity.mp4",
+    "caption": "🤔 Throw anything faster than 11.2 km/s and the Earth never gets it back. It makes no difference what you throw.\nCan you name it? Answer's coming up 👇\n\nANSWER: Escape Velocity\n\nIt depends only on the mass and radius of what you're leaving — not on the mass of what you're throwing. A pebble and a spacecraft need the same speed. Shrink Earth enough and that number reaches the speed of light, which is where black holes begin. 🚀\n\n💾 Save it to your science folder\n🔁 Share it with someone who's studying this",
+    "hashtags": "#Astrophysics #SpacePhysics #PhysicsExplained #SpaceFacts"
   },
-  "first_law_thermodynamics": {
-    "filename": "first_law_thermodynamics.mp4",
-    "caption": "⏳ Three seconds on the clock. Hint: energy can only change costume — it never appears or vanishes.\nComment your answer before the reveal — and no scrubbing forward 👀\n\nANSWER: First Law of Thermodynamics\n\nEnergy cannot be created or destroyed — only transformed. The First Law of Thermodynamics is perhaps the most important statement in all of science. 🔥🔋",
-    "hashtags": "#FirstLawThermodynamics #Thermodynamics #Physics #ConservationOfEnergy #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #ThermalPhysics #ScienceIsAwesome #AppliedPhysics #EngineeringPhysics #HeatTransfer #ClassicalPhysics #PhysicsStudent #PhysicsDaily"
+  "euler-polyhedron": {
+    "filename": "euler-polyhedron.mp4",
+    "caption": "🤔 Count the corners, subtract the edges, add the faces. You always get 2. Every solid, every time.\nThink you've got it? Drop your answer below before the reveal 👇\n\nANSWER: Euler's Polyhedron Formula\n\nA cube gives 8 − 12 + 6 = 2. So does a football, a pyramid, a crystal. Stretch and squash the shape however you like and the number refuses to budge — which is exactly the insight that gave birth to topology. 🎲\n\n💾 Save this — you'll want it the next time it comes up\n🔁 Send it to someone who'd enjoy the argument",
+    "hashtags": "#Mathematics #Topology #MathsIsBeautiful #MathsIsFun"
   },
-  "frequency_period": {
-    "filename": "frequency_period.mp4",
-    "caption": "⏳ Quick — before the timer runs out. Hint: the how-often and the how-long of every wave — each is 1 over the other.\nDrop your guess below before the timer hits zero — no cheating ⏳\n\nANSWER: Frequency and Period\n\nFrequency and period are two sides of the same coin — one tells you how fast, the other tells you how long. Together they describe every wave in the universe. 〰️🌊",
-    "hashtags": "#FrequencyAndPeriod #WavePhysics #Physics #Oscillations #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #Waves #ScienceIsAwesome #AppliedPhysics #SimpleHarmonicMotion #Acoustics #Electromagnetism #PhysicsStudent #PhysicsDaily"
+  "eulers-identity": {
+    "filename": "eulers-identity.mp4",
+    "caption": "🤔 Five of the most important numbers in mathematics, one line, and nothing left over.\nName it before the reveal — comment your guess 👇\n\nANSWER: Euler's Identity\n\nIt links e from growth, i from algebra, π from geometry, and 1 and 0 from arithmetic — quantities discovered centuries apart for unrelated reasons. Feynman called it the most remarkable formula in mathematics, and it's really just a statement about rotation. ✨\n\n💾 Save it for later\n🔁 Share it with the one friend who'd already know this",
+    "hashtags": "#Mathematics #ComplexNumbers #MathsIsBeautiful #MathsIsFun"
   },
-  "gauss_law": {
-    "filename": "gauss_law.mp4",
-    "caption": "⏳ No pausing allowed. Hint: total flux out of any closed surface equals the charge trapped inside.\nType what you think it is in the comments, then watch the reveal 👇\n\nANSWER: Gauss's Law\n\nGauss's Law might be the most elegant equation in electrostatics — it connects the total electric flux through any closed surface directly to the charge inside. Pure genius. 🔵⚡",
-    "hashtags": "#GaussLaw #Electrostatics #Physics #MaxwellsEquations #ElectricField #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #ClassicalElectrodynamics #ScienceIsAwesome #AppliedPhysics #EngineeringPhysics #PhysicsStudent #VectorCalculus #PhysicsDaily"
+  "feigenbaum-constant": {
+    "filename": "feigenbaum-constant.mp4",
+    "caption": "🤔 4.669… turns up in dripping taps, rabbit populations and electronic circuits. Nobody put it there.\nGot it? Say it out loud, then keep watching 👀\n\nANSWER: The Feigenbaum Constant\n\nAs a system slides into chaos it doubles its period again and again, and the intervals between doublings shrink by the same ratio every time. That ratio is universal — the details of the system are irrelevant. Chaos has a fingerprint. 🌀\n\n💾 Save this one for revision\n🔁 Send it to someone who needs to see it",
+    "hashtags": "#ChaosTheory #NonlinearDynamics #Mathematics #MathsIsFun"
   },
-  "gravity_law": {
-    "filename": "gravity_law.mp4",
-    "caption": "⏳ Countdown's on. Hint: the falling apple and the orbiting Moon obey one and the same rule.\nComment your guess before the answer drops — how fast did you get it? 💬\n\nANSWER: Newton's Law of Universal Gravitation\n\nAn apple falls from a tree. The Moon stays in orbit. Newton realised these were the SAME phenomenon — and wrote the equation that unified the heavens and the Earth. 🍎🌕",
-    "hashtags": "#NewtonsGravity #GravitationLaw #Physics #ClassicalMechanics #Gravity #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #IsaacNewton #PhysicsIsBeautiful #Astrophysics #ScienceIsAwesome #UniversalGravitation #AppliedPhysics #PhysicsHistory #PhysicsDaily"
+  "fermi-estimate": {
+    "filename": "fermi-estimate.mp4",
+    "caption": "🤔 How many piano tuners are there in Chicago? You can get within a factor of ten with no data whatsoever.\nComment your answer before it appears on screen 💬\n\nANSWER: Fermi Estimation\n\nBreak an impossible question into a chain of guessable ones and the errors mostly cancel. Fermi famously estimated the Trinity bomb's yield by dropping scraps of paper and watching how far the blast blew them. It's the most useful thinking tool in science. 📝\n\n💾 Save it before it disappears down your feed\n🔁 Share it with your group chat",
+    "hashtags": "#ProblemSolving #PhysicsExplained #CriticalThinking #PhysicsFacts"
   },
-  "inductance": {
-    "filename": "inductance.mp4",
-    "caption": "⏳ Beat the countdown. Hint: inertia, but for electric current — transformers depend on it.\nComment your answer before the reveal — and no scrubbing forward 👀\n\nANSWER: Inductance\n\nAn inductor resists changes in electric current — it's like inertia, but for electricity. Without inductance, every transformer and wireless charger would be impossible. 🔄⚡",
-    "hashtags": "#Inductance #Electromagnetism #Physics #ElectricalEngineering #Circuits #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #Inductor #PhysicsIsBeautiful #Electronics #ScienceIsAwesome #AppliedPhysics #FaradayLaw #PhysicsStudent #PhysicsDaily"
+  "five-sigma": {
+    "filename": "five-sigma.mp4",
+    "caption": "🤔 Physics refuses to call anything a discovery until the odds of a fluke fall below 1 in 3.5 million.\nKnow the one? Put it in the comments 👇\n\nANSWER: The Five-Sigma Threshold\n\nLook at enough data and something impressive-looking will always appear by chance. Five sigma is the deliberately brutal bar that a signal has to clear, and it's the standard the Higgs boson and gravitational waves both had to meet. 📊\n\n💾 Save this for the next quiz night\n🔁 Send it to someone who'd love this",
+    "hashtags": "#Statistics #ParticlePhysics #ScienceExplained #DataLiteracy"
   },
-  "length_contraction": {
-    "filename": "length_contraction.mp4",
-    "caption": "⏳ Three seconds on the clock. Hint: near light speed, space itself squeezes along your direction of travel.\nDrop your guess below before the timer hits zero — no cheating ⏳\n\nANSWER: Length Contraction\n\nAt near-light speed, space itself compresses in the direction of travel. Length contraction isn't science fiction — it's Special Relativity, and it's very real. 🚀📏",
-    "hashtags": "#LengthContraction #SpecialRelativity #Physics #Einstein #Relativity #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #SpacetimePhysics #ScienceIsAwesome #ModernPhysics #AlbertEinstein #RelativisticPhysics #PhysicsStudent #PhysicsDaily"
+  "foucault-pendulum": {
+    "filename": "foucault-pendulum.mp4",
+    "caption": "🤔 A pendulum that swings in a straight line while the floor quietly rotates underneath it.\nGuess first, scroll after 👀\n\nANSWER: The Foucault Pendulum\n\nIn 1851 Foucault hung a 67-metre pendulum in the Panthéon and let Paris watch its swing plane creep round. It was the first direct, visible proof that the Earth turns — no telescope, no astronomy, just a heavy weight on a wire. 🌍\n\n💾 Save it — it's better the second time\n🔁 Share it with a fellow physics nerd",
+    "hashtags": "#ClassicalMechanics #PhysicsExplained #HistoryOfScience #PhysicsFacts"
   },
-  "lorentz_factor": {
-    "filename": "lorentz_factor.mp4",
-    "caption": "⏳ Quick — before the timer runs out. Hint: the γ that blows up to infinity as you chase the speed of light.\nType what you think it is in the comments, then watch the reveal 👇\n\nANSWER: Lorentz Factor\n\nThe Lorentz factor (γ) is where Special Relativity hides all its drama. As you approach the speed of light, γ shoots toward infinity — and physics gets wonderfully weird. ∞🚀",
-    "hashtags": "#LorentzFactor #SpecialRelativity #Physics #Einstein #Relativity #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #SpeedOfLight #ScienceIsAwesome #ModernPhysics #TimeDilation #RelativisticPhysics #PhysicsStudent #PhysicsDaily"
+  "golden-ratio": {
+    "filename": "golden-ratio.mp4",
+    "caption": "🤔 1.618… is, in a precise mathematical sense, the hardest number to approximate with fractions.\nCall it before the reveal — comments are open 💬\n\nANSWER: The Golden Ratio\n\nThat awkwardness is exactly why plants use it: seeds set at the golden angle never line up in wasteful rows, so sunflowers and pinecones pack perfectly. The botany is real and beautiful. Most of the claims about the Parthenon and Renaissance paintings are not. 🌻\n\n💾 Save this for later reference\n🔁 Send it to someone who won't believe it",
+    "hashtags": "#Mathematics #Fibonacci #MathsIsBeautiful #MathsIsFun"
   },
-  "lorentz_force": {
-    "filename": "lorentz_force.mp4",
-    "caption": "⏳ No pausing allowed. Hint: the sideways shove magnetic fields give moving charges — motors live on it.\nComment your guess before the answer drops — how fast did you get it? 💬\n\nANSWER: Lorentz Force\n\nA moving charge in a magnetic field gets pushed sideways. This bizarre perpendicular force — the Lorentz force — drives every electric motor and particle accelerator on Earth. ⚡🧲",
-    "hashtags": "#LorentzForce #Electromagnetism #Physics #MagneticForce #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #ParticlePhysics #ScienceIsAwesome #AppliedPhysics #ElectricMotors #EngineeringPhysics #PhysicsStudent #MaxwellsEquations #PhysicsDaily"
+  "gps-time-dilation": {
+    "filename": "gps-time-dilation.mp4",
+    "caption": "🤔 The clocks above your head run 38 microseconds a day faster than yours. Ignore it and your maps drift 10 km a day.\nCan you name it? Answer's coming up 👇\n\nANSWER: Relativistic Correction in GPS\n\nHeight speeds satellite clocks up by 45 microseconds a day, orbital speed slows them by 7, and the net offset is engineered in before launch. Both of Einstein's theories are running quietly in your phone every time you check a route. 🛰️\n\n💾 Save it to your science folder\n🔁 Share it with someone who's studying this",
+    "hashtags": "#Relativity #Einstein #PhysicsExplained #PhysicsFacts"
   },
-  "magnetic_force_wire": {
-    "filename": "magnetic_force_wire.mp4",
-    "caption": "⏳ Countdown's on. Hint: put amps through metal inside a field and the metal jumps — motors, in one line.\nComment your answer before the reveal — and no scrubbing forward 👀\n\nANSWER: Magnetic Force on a Current-Carrying Wire\n\nRun current through a wire inside a magnetic field and it MOVES. This is the entire principle behind every electric motor ever built. Physics put to work. ⚡🔧",
-    "hashtags": "#MagneticForceWire #Electromagnetism #Physics #ElectricMotor #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #EngineeringPhysics #ScienceIsAwesome #AppliedPhysics #LorentzForce #ElectricalEngineering #MagneticField #PhysicsStudent #PhysicsDaily"
+  "hawking-temperature": {
+    "filename": "hawking-temperature.mp4",
+    "caption": "🤔 Black holes glow. Faintly, absurdly faintly — and it means they eventually die.\nThink you've got it? Drop your answer below before the reveal 👇\n\nANSWER: Hawking Temperature\n\nQuantum effects at the horizon give a black hole a real temperature, inversely proportional to its mass. A Sun-sized one sits at about 60 nanokelvin, colder than empty space, so it takes 10⁶⁷ years to evaporate. Smaller holes are hotter and go faster. 🕳️\n\n💾 Save this — you'll want it the next time it comes up\n🔁 Send it to someone who'd enjoy the argument",
+    "hashtags": "#BlackHoles #QuantumGravity #Astrophysics #SpaceFacts"
   },
-  "moment_of_inertia": {
-    "filename": "moment_of_inertia.mp4",
-    "caption": "⏳ Beat the countdown. Hint: rotation's stand-in for mass — flywheel designers obsess over it.\nDrop your guess below before the timer hits zero — no cheating ⏳\n\nANSWER: Moment of Inertia\n\nMoment of inertia is 'mass' for rotation — it tells you how hard it is to spin something up or slow it down. Engineers obsess over it for everything from flywheels to figure skating. 🌀⚙️",
-    "hashtags": "#MomentOfInertia #RotationalMotion #Physics #ClassicalMechanics #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #RigidBodyDynamics #ScienceIsAwesome #EngineeringPhysics #AppliedPhysics #AngularMomentum #MechanicalEngineering #PhysicsStudent #PhysicsDaily"
+  "herd-immunity": {
+    "filename": "herd-immunity.mp4",
+    "caption": "🤔 You never have to protect everyone to protect everyone. The maths tells you exactly where to stop.\nName it before the reveal — comment your guess 👇\n\nANSWER: The Herd Immunity Threshold\n\nThe threshold is 1 − 1/R₀, so a disease that spreads to 3 people per case needs about 67% coverage. Measles spreads to 15, which is why it demands roughly 95% — and why its outbreaks return the moment coverage slips a few points. 💉\n\n💾 Save it for later\n🔁 Share it with the one friend who'd already know this",
+    "hashtags": "#Epidemiology #PublicHealth #ScienceExplained #DataLiteracy"
   },
-  "momentum": {
-    "filename": "momentum.mp4",
-    "caption": "⏳ Three seconds on the clock. Hint: the quantity the universe refuses to lose in any collision or explosion.\nType what you think it is in the comments, then watch the reveal 👇\n\nANSWER: Momentum (p = mv)\n\np = mv. The most important quantity in collisions, explosions, and rocket science. Conservation of momentum is a law the universe NEVER breaks. 💥🚀",
-    "hashtags": "#Momentum #ConservationOfMomentum #Physics #ClassicalMechanics #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #NewtonianPhysics #ScienceIsAwesome #AppliedPhysics #CollisionPhysics #ForceAndMotion #EngineeringPhysics #PhysicsStudent #PhysicsDaily"
+  "hubble-law": {
+    "filename": "hubble-law.mp4",
+    "caption": "🤔 Every distant galaxy is running from us, and the further away it is the faster it goes.\nGot it? Say it out loud, then keep watching 👀\n\nANSWER: The Hubble-Lemaître Law\n\nRecession speed is proportional to distance — roughly 70 km/s for every megaparsec. It isn't that we're unpopular: space itself is expanding, so every observer everywhere sees exactly the same thing. Run it backwards and you get the Big Bang. 🌌\n\n💾 Save this one for revision\n🔁 Send it to someone who needs to see it",
+    "hashtags": "#Cosmology #Astronomy #Astrophysics #SpaceFacts"
   },
-  "newtons_second_law": {
-    "filename": "newtons_second_law.mp4",
-    "caption": "⏳ Quick — before the timer runs out. Hint: the three-letter law the whole of classical mechanics stands on.\nComment your guess before the answer drops — how fast did you get it? 💬\n\nANSWER: Newton's Second Law\n\nF = ma. Three letters that launched the scientific revolution. Newton's Second Law is the cornerstone of classical mechanics and the most famous equation after E=mc². 🍎⚡",
-    "hashtags": "#NewtonsSecondLaw #NewtonsLaws #Physics #ClassicalMechanics #ForceAndMotion #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #IsaacNewton #ScienceIsAwesome #AppliedPhysics #EngineeringPhysics #PhysicsHistory #PhysicsStudent #PhysicsDaily"
+  "ideal-gas-law": {
+    "filename": "ideal-gas-law.mp4",
+    "caption": "🤔 One line explains why an aerosol can explodes in a fire and why your tyres read low in winter.\nComment your answer before it appears on screen 💬\n\nANSWER: The Ideal Gas Law\n\nPressure, volume, temperature and amount of gas are locked together in a single relationship. It's an approximation — real molecules take up space and attract each other — but it's astonishingly good across most of everyday life. 🎈\n\n💾 Save it before it disappears down your feed\n🔁 Share it with your group chat",
+    "hashtags": "#Thermodynamics #Chemistry #PhysicsExplained #ChemistryFacts"
   },
-  "ohms_law": {
-    "filename": "ohms_law.mp4",
-    "caption": "⏳ No pausing allowed. Hint: V, I and R in one line — the alphabet of every circuit ever built.\nComment your answer before the reveal — and no scrubbing forward 👀\n\nANSWER: Ohm's Law\n\nV = IR. If you understand this one equation, you understand the fundamentals of every electrical circuit ever built. Ohm's Law is the alphabet of electronics. 🔌💡",
-    "hashtags": "#OhmsLaw #Electricity #Physics #ElectricalEngineering #Circuits #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #Electronics #ScienceIsAwesome #AppliedPhysics #Voltage #Resistance #PhysicsStudent #PhysicsDaily"
+  "joule-heating": {
+    "filename": "joule-heating.mp4",
+    "caption": "🤔 Double the current and you get four times the heat. This is why power lines run at 400,000 volts.\nKnow the one? Put it in the comments 👇\n\nANSWER: Joule Heating\n\nPower lost as heat goes as the square of the current, so pushing the same energy at high voltage and low current cuts losses dramatically. The same equation heats your kettle deliberately and your phone charger accidentally. 🔌\n\n💾 Save this for the next quiz night\n🔁 Send it to someone who'd love this",
+    "hashtags": "#Electronics #Engineering #PhysicsExplained #PhysicsFacts"
   },
-  "photoelectric_effect": {
-    "filename": "photoelectric_effect.mp4",
-    "caption": "⏳ Countdown's on. Hint: light kicking electrons out of metal — the Nobel Einstein actually won.\nDrop your guess below before the timer hits zero — no cheating ⏳\n\nANSWER: Photoelectric Effect\n\nEinstein won the Nobel Prize for THIS — not relativity. Light kicks electrons out of metal, proving light comes in packets. The photoelectric effect launched quantum mechanics. 💡⚛️",
-    "hashtags": "#PhotoelectricEffect #QuantumPhysics #Physics #Einstein #QuantumMechanics #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #PhotonPhysics #ScienceIsAwesome #ModernPhysics #AlbertEinstein #NobelPrize #PhysicsStudent #PhysicsDaily"
+  "kelly-criterion": {
+    "filename": "kelly-criterion.mp4",
+    "caption": "🤔 There's an optimal amount to bet when the odds are in your favour — and going all in guarantees ruin.\nGuess first, scroll after 👀\n\nANSWER: The Kelly Criterion\n\nDeveloped at Bell Labs in 1956, it sizes each bet by your edge divided by the odds, maximising long-run growth. Bet more than Kelly and you eventually lose everything even with a genuine advantage. Traders and professional gamblers live by it. 🎲\n\n💾 Save it — it's better the second time\n🔁 Share it with a fellow physics nerd",
+    "hashtags": "#Probability #RiskManagement #Mathematics #MathsIsFun"
   },
-  "poiseuille_law": {
-    "filename": "poiseuille_law.mp4",
-    "caption": "⏳ Beat the countdown. Hint: why halving an artery's width slashes the blood flow sixteen-fold.\nType what you think it is in the comments, then watch the reveal 👇\n\nANSWER: Poiseuille's Law\n\nWhy does halving the width of an artery reduce blood flow by 16×? Poiseuille's Law governs how fluids move through pipes — and it's the key to understanding cardiovascular medicine. 🩸🔬",
-    "hashtags": "#PoiseuillesLaw #FluidDynamics #Physics #FluidMechanics #Biophysics #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #Viscosity #ScienceIsAwesome #AppliedPhysics #MedicalPhysics #CardiovascularPhysics #PhysicsStudent #PhysicsDaily"
+  "keplers-third-law": {
+    "filename": "keplers-third-law.mp4",
+    "caption": "🤔 Time how long a planet takes to go round and you instantly know how far out it orbits.\nCall it before the reveal — comments are open 💬\n\nANSWER: Kepler's Third Law\n\nThe square of the orbital period is proportional to the cube of the orbital radius. Kepler found it in Tycho's data decades before anyone knew why, and today it's how we weigh distant stars and size up exoplanet systems. 🪐\n\n💾 Save this for later reference\n🔁 Send it to someone who won't believe it",
+    "hashtags": "#Astronomy #OrbitalMechanics #Astrophysics #SpaceFacts"
   },
-  "potential_energy": {
-    "filename": "potential_energy.mp4",
-    "caption": "⏳ Three seconds on the clock. Hint: what a boulder perched on a cliff edge is silently saving up.\nComment your guess before the answer drops — how fast did you get it? 💬\n\nANSWER: Gravitational Potential Energy\n\nEvery object held at a height is silently storing energy, waiting to be released. Gravitational potential energy is stored patience — and it shapes everything from dams to roller coasters. ⛰️🎢",
-    "hashtags": "#PotentialEnergy #GravitationalEnergy #Physics #ClassicalMechanics #ConservationOfEnergy #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #EnergyPhysics #ScienceIsAwesome #AppliedPhysics #EngineeringPhysics #PhysicsStudent #WorkEnergyTheorem #PhysicsDaily"
+  "kinetic-energy": {
+    "filename": "kinetic-energy.mp4",
+    "caption": "🤔 Double your speed and you don't need twice the stopping distance. You need four times.\nCan you name it? Answer's coming up 👇\n\nANSWER: Kinetic Energy\n\nEnergy scales with the square of velocity, so a car at 60 mph carries four times the energy it had at 30. That single factor is behind speed limits, crumple zones and why small speed increases matter so much more than they feel. 🚗\n\n💾 Save it to your science folder\n🔁 Share it with someone who's studying this",
+    "hashtags": "#ClassicalMechanics #PhysicsExplained #ScienceFacts #PhysicsFacts"
   },
-  "power_formula": {
-    "filename": "power_formula.mp4",
-    "caption": "⏳ Quick — before the timer runs out. Hint: not how much work you do — how FAST you do it.\nComment your answer before the reveal — and no scrubbing forward 👀\n\nANSWER: Power (P = W/t)\n\nPower isn't just about how much work you do — it's about how fast you do it. The power formula is what separates a sprinter from a marathon runner, and a sports car from a truck. 🏎️⚡",
-    "hashtags": "#PowerFormula #Physics #ClassicalMechanics #WorkEnergyTheorem #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #EnergyPhysics #ScienceIsAwesome #AppliedPhysics #EngineeringPhysics #MechanicalEngineering #PhysicsStudent #Thermodynamics #PhysicsDaily"
+  "light-deflection": {
+    "filename": "light-deflection.mp4",
+    "caption": "🤔 In 1919 an eclipse showed that starlight bends round the Sun by twice what anyone expected — and Newton was dethroned.\nThink you've got it? Drop your answer below before the reveal 👇\n\nANSWER: Gravitational Light Deflection\n\nGeneral relativity predicted 1.75 arcseconds, exactly double the Newtonian figure, and Eddington's expedition measured it. Today the same effect gives us gravitational lensing, our best tool for mapping dark matter. 🌒\n\n💾 Save this — you'll want it the next time it comes up\n🔁 Send it to someone who'd enjoy the argument",
+    "hashtags": "#Relativity #Einstein #Astrophysics #SpaceFacts"
   },
-  "pressure_formula": {
-    "filename": "pressure_formula.mp4",
-    "caption": "⏳ No pausing allowed. Hint: why a stiletto heel dents a floor that an elephant's foot won't.\nDrop your guess below before the timer hits zero — no cheating ⏳\n\nANSWER: Pressure (P = F/A)\n\nPressure is force spread over an area — which is why a stiletto heel does more damage to a floor than an elephant's foot. Simple equation, profound consequences. 👠🐘",
-    "hashtags": "#PressureFormula #Physics #FluidMechanics #ClassicalMechanics #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #AppliedPhysics #ScienceIsAwesome #EngineeringPhysics #Hydrostatics #AtmosphericPressure #PhysicsStudent #FluidDynamics #PhysicsDaily"
+  "lyapunov-exponent": {
+    "filename": "lyapunov-exponent.mp4",
+    "caption": "🤔 There's a number that tells you exactly how long a system stays predictable before it turns into noise.\nName it before the reveal — comment your guess 👇\n\nANSWER: The Lyapunov Exponent\n\nIt measures how fast two nearly identical starting points fly apart. For the atmosphere it caps useful weather forecasts at around two weeks — not because our models are bad, but because errors double every few days no matter what. 🌪️\n\n💾 Save it for later\n🔁 Share it with the one friend who'd already know this",
+    "hashtags": "#ChaosTheory #NonlinearDynamics #PhysicsExplained #MathsIsFun"
   },
-  "radioactive_decay": {
-    "filename": "radioactive_decay.mp4",
-    "caption": "⏳ Countdown's on. Hint: perfectly random for one atom, perfectly predictable for a trillion.\nType what you think it is in the comments, then watch the reveal 👇\n\nANSWER: Radioactive Decay Law\n\nRadioactive decay is perfectly random at the quantum level — yet in bulk, it follows a precise mathematical law. Half-lives power everything from carbon dating to nuclear medicine. ☢️🌍",
-    "hashtags": "#RadioactiveDecay #NuclearPhysics #Physics #HalfLife #QuantumPhysics #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #NuclearScience #ScienceIsAwesome #Radioactivity #CarbonDating #ModernPhysics #PhysicsStudent #PhysicsDaily"
+  "mass-energy-equivalence": {
+    "filename": "mass-energy-equivalence.mp4",
+    "caption": "🤔 The Sun turns 4 million tonnes of itself into sunlight every second, and has done for 4.6 billion years.\nGot it? Say it out loud, then keep watching 👀\n\nANSWER: Mass-Energy Equivalence\n\nMass and energy are the same currency at an exchange rate of c², which is enormous. It's why fusion powers stars, why nuclear reactors work, and why the mass of a helium nucleus is less than the parts that made it. ☀️\n\n💾 Save this one for revision\n🔁 Send it to someone who needs to see it",
+    "hashtags": "#Relativity #NuclearPhysics #Astrophysics #SpaceFacts"
   },
-  "rc_time_constant": {
-    "filename": "rc_time_constant.mp4",
-    "caption": "⏳ Beat the countdown. Hint: the heartbeat of a charging capacitor — it sets how fast a camera flash recovers.\nComment your guess before the answer drops — how fast did you get it? 💬\n\nANSWER: RC Time Constant (τ = RC)\n\nThe RC time constant determines how fast a capacitor charges and discharges. It's the heartbeat of timing circuits — from camera flashes to the rhythm of your digital devices. ⏱️🔋",
-    "hashtags": "#RCTimeConstant #Electronics #Physics #ElectricalEngineering #Circuits #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #Capacitor #ScienceIsAwesome #AppliedPhysics #CircuitDesign #Resistor #PhysicsStudent #PhysicsDaily"
+  "molecular-speed": {
+    "filename": "molecular-speed.mp4",
+    "caption": "🤔 The air in your room is perfectly still. The molecules in it are travelling at roughly 500 metres per second.\nComment your answer before it appears on screen 💬\n\nANSWER: Root-Mean-Square Molecular Speed\n\nTemperature is just average kinetic energy, so nitrogen molecules at room temperature move at about 500 m/s — faster than sound. They go nowhere because each one collides billions of times a second. Lighter molecules move faster, which is how Earth lost its hydrogen. 💨\n\n💾 Save it before it disappears down your feed\n🔁 Share it with your group chat",
+    "hashtags": "#Thermodynamics #KineticTheory #PhysicsExplained #PhysicsFacts"
   },
-  "relativistic_energy": {
-    "filename": "relativistic_energy.mp4",
-    "caption": "⏳ Three seconds on the clock. Hint: the equation on every physics T-shirt — matter, unmasked.\nComment your answer before the reveal — and no scrubbing forward 👀\n\nANSWER: Mass-Energy Equivalence (E = mc²)\n\nE = mc². The most famous equation in history tells us that mass IS energy — frozen, concentrated, waiting to be unleashed. Relativity rewrote our understanding of reality itself. 💥🌌",
-    "hashtags": "#RelativisticEnergy #EMC2 #SpecialRelativity #Physics #Einstein #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #AlbertEinstein #ScienceIsAwesome #ModernPhysics #MassEnergy #NuclearPhysics #PhysicsStudent #PhysicsDaily"
+  "navier-stokes": {
+    "filename": "navier-stokes.mp4",
+    "caption": "🤔 These describe every flowing fluid on Earth, and nobody can prove they always have a solution. There's $1M waiting.\nKnow the one? Put it in the comments 👇\n\nANSWER: The Navier-Stokes Equations\n\nThey govern weather, blood, aircraft and ocean currents, and we solve them numerically every day. But whether smooth solutions always exist in three dimensions is one of the seven Millennium Prize Problems, unclaimed since 2000. 🌊\n\n💾 Save this for the next quiz night\n🔁 Send it to someone who'd love this",
+    "hashtags": "#FluidDynamics #Mathematics #MillenniumPrize #MathsIsFun"
   },
-  "relativistic_momentum": {
-    "filename": "relativistic_momentum.mp4",
-    "caption": "⏳ Quick — before the timer runs out. Hint: push as hard as you like — this is why nothing overtakes light.\nDrop your guess below before the timer hits zero — no cheating ⏳\n\nANSWER: Relativistic Momentum\n\nAt everyday speeds, p = mv works fine. But near the speed of light, momentum grows toward infinity — no matter how hard you push. Relativistic momentum is why c is the cosmic speed limit. 🚀∞",
-    "hashtags": "#RelativisticMomentum #SpecialRelativity #Physics #Einstein #SpeedOfLight #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #RelativisticPhysics #ScienceIsAwesome #ModernPhysics #LorentzFactor #ParticlePhysics #PhysicsStudent #PhysicsDaily"
+  "nyquist-sampling": {
+    "filename": "nyquist-sampling.mp4",
+    "caption": "🤔 To capture a sound perfectly you must sample it at least twice per cycle. That's the whole reason CDs run at 44.1 kHz.\nGuess first, scroll after 👀\n\nANSWER: The Nyquist-Shannon Sampling Theorem\n\nSample too slowly and high frequencies masquerade as low ones — the same aliasing that makes wagon wheels spin backwards on film. Human hearing tops out near 20 kHz, so 44.1 kHz sits just above the required threshold. 🎧\n\n💾 Save it — it's better the second time\n🔁 Share it with a fellow physics nerd",
+    "hashtags": "#SignalProcessing #AudioEngineering #Mathematics #MathsIsFun"
   },
-  "resistance_formula": {
-    "filename": "resistance_formula.mp4",
-    "caption": "⏳ No pausing allowed. Hint: why fat copper wires feed your house while thin ones glow in your toaster.\nType what you think it is in the comments, then watch the reveal 👇\n\nANSWER: Resistance (R = ρL/A)\n\nResistance isn't futile — it's fundamental. The resistance formula explains why thick copper wires power your home and thin nichrome wires glow in your toaster. 🔌🍞",
-    "hashtags": "#ResistanceFormula #Electricity #Physics #ElectricalEngineering #Circuits #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #OhmsLaw #ScienceIsAwesome #AppliedPhysics #Resistivity #Electronics #PhysicsStudent #PhysicsDaily"
+  "particle-in-a-box": {
+    "filename": "particle-in-a-box.mp4",
+    "caption": "🤔 Trap a particle and its energy can no longer be anything it likes. It comes in steps.\nCall it before the reveal — comments are open 💬\n\nANSWER: The Particle in a Box\n\nConfinement forces the wave to fit a whole number of half-wavelengths, so only certain energies survive — and the smaller the box, the bigger the gaps. Shrink a semiconductor crystal and its colour changes, which is exactly how quantum dot displays work. 🔬\n\n💾 Save this for later reference\n🔁 Send it to someone who won't believe it",
+    "hashtags": "#QuantumMechanics #QuantumPhysics #PhysicsExplained #PhysicsFacts"
   },
-  "rotational_kinetic_energy": {
-    "filename": "rotational_kinetic_energy.mp4",
-    "caption": "⏳ Countdown's on. Hint: the invisible stockpile inside every spinning flywheel and rolling wheel.\nComment your guess before the answer drops — how fast did you get it? 💬\n\nANSWER: Rotational Kinetic Energy\n\nA spinning flywheel stores enormous energy invisibly. Rotational kinetic energy is the rotational twin of regular kinetic energy — and it's why tops spin, wheels roll, and planets rotate. 🌍⚙️",
-    "hashtags": "#RotationalKineticEnergy #RotationalMotion #Physics #ClassicalMechanics #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #EnergyPhysics #ScienceIsAwesome #EngineeringPhysics #MomentOfInertia #AngularVelocity #PhysicsStudent #Flywheel #PhysicsDaily"
+  "poiseuille-law": {
+    "filename": "poiseuille-law.mp4",
+    "caption": "🤔 Halve the radius of a pipe and the flow through it drops to one sixteenth. Not one half, and not one quarter.\nCan you name it? Answer's coming up 👇\n\nANSWER: Poiseuille's Law\n\nFlow rate scales with the fourth power of the radius, an unforgivingly steep dependence. It's why a modest narrowing of an artery is medically serious, and why plumbers and anaesthetists both obsess over tube diameter. 🩺\n\n💾 Save it to your science folder\n🔁 Share it with someone who's studying this",
+    "hashtags": "#FluidDynamics #Biophysics #PhysicsExplained #PhysicsFacts"
   },
-  "rydberg_formula": {
-    "filename": "rydberg_formula.mp4",
-    "caption": "⏳ Beat the countdown. Hint: the pre-quantum recipe that nailed hydrogen's rainbow of spectral lines.\nComment your answer before the reveal — and no scrubbing forward 👀\n\nANSWER: Rydberg Formula\n\nBefore quantum mechanics existed, Rydberg cracked the code of hydrogen's spectral lines with a single elegant formula. It was the first crack in the wall of classical physics. 🌈⚛️",
-    "hashtags": "#RydbergFormula #AtomicPhysics #Physics #QuantumMechanics #SpectralLines #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #HydrogenAtom #ScienceIsAwesome #ModernPhysics #Spectroscopy #BohrModel #PhysicsStudent #PhysicsDaily"
+  "prime-number-theorem": {
+    "filename": "prime-number-theorem.mp4",
+    "caption": "🤔 Primes appear to be scattered at random, yet their overall density follows an exact rule.\nThink you've got it? Drop your answer below before the reveal 👇\n\nANSWER: The Prime Number Theorem\n\nNear a number x, roughly 1 in every ln(x) integers is prime — so around a trillion, about 1 in 28. Individually unpredictable, collectively disciplined. Gauss guessed it as a teenager; it took a century and complex analysis to prove. 🔢\n\n💾 Save this — you'll want it the next time it comes up\n🔁 Send it to someone who'd enjoy the argument",
+    "hashtags": "#NumberTheory #Mathematics #PrimeNumbers #MathsIsFun"
   },
-  "schrodinger_equation": {
-    "filename": "schrodinger_equation.mp4",
-    "caption": "⏳ Three seconds on the clock. Hint: it won't say where the particle is — only where it might be (ask the cat).\nDrop your guess below before the timer hits zero — no cheating ⏳\n\nANSWER: Schrödinger Equation\n\nThe Schrödinger Equation doesn't tell you where a particle IS — it tells you where it might be. It's the master equation of quantum mechanics, and reality gets strange from here. 🐱⚛️",
-    "hashtags": "#SchrodingerEquation #QuantumMechanics #Physics #QuantumPhysics #WaveFunction #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #SchrodingersCat #ScienceIsAwesome #ModernPhysics #QuantumTheory #ParticlePhysics #PhysicsStudent #PhysicsDaily"
+  "pythagoras": {
+    "filename": "pythagoras.mp4",
+    "caption": "🤔 Roughly 3,000 years old and still the most-used equation on the planet — most of the time nobody notices it running.\nName it before the reveal — comment your guess 👇\n\nANSWER: The Pythagorean Theorem\n\nEvery distance calculation is this in disguise: GPS positioning, computer graphics, machine learning, the length of any vector in any number of dimensions. Builders still use the 3-4-5 triangle to square a corner. 📐\n\n💾 Save it for later\n🔁 Share it with the one friend who'd already know this",
+    "hashtags": "#Geometry #Mathematics #MathsIsFun #MathFacts"
   },
-  "stefan_boltzmann_law": {
-    "filename": "stefan_boltzmann_law.mp4",
-    "caption": "⏳ Quick — before the timer runs out. Hint: double a star's temperature and you get sixteen times the glow.\nType what you think it is in the comments, then watch the reveal 👇\n\nANSWER: Stefan-Boltzmann Law\n\nDouble the temperature of a star and it radiates 16× more energy. The Stefan-Boltzmann Law governs how every hot object glows — from a candle flame to a supernova. 🌟🔥",
-    "hashtags": "#StefanBoltzmannLaw #Thermodynamics #Physics #BlackBodyRadiation #Astrophysics #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #ThermalRadiation #ScienceIsAwesome #ModernPhysics #StellarPhysics #Cosmology #PhysicsStudent #PhysicsDaily"
+  "quantum-tunnelling": {
+    "filename": "quantum-tunnelling.mp4",
+    "caption": "🤔 Particles routinely pass through barriers they haven't got the energy to climb. The Sun depends on it.\nGot it? Say it out loud, then keep watching 👀\n\nANSWER: Quantum Tunnelling\n\nThe wavefunction leaks through, so there's a small chance of finding a particle on the far side. Solar-core protons are too cold to overcome their mutual repulsion classically — they tunnel. Flash memory and scanning tunnelling microscopes run on the same trick. ⚛️\n\n💾 Save this one for revision\n🔁 Send it to someone who needs to see it",
+    "hashtags": "#QuantumPhysics #QuantumMechanics #PhysicsExplained #PhysicsFacts"
   },
-  "thermal_expansion": {
-    "filename": "thermal_expansion.mp4",
-    "caption": "⏳ No pausing allowed. Hint: the reason bridges have gaps and railway tracks buckle in a heatwave.\nComment your guess before the answer drops — how fast did you get it? 💬\n\nANSWER: Thermal Expansion\n\nBridges have expansion gaps. Railway tracks buckle in summer. Thermometers work by expansion. Thermal expansion is one of the most quietly consequential equations in engineering. 🌡️🌉",
-    "hashtags": "#ThermalExpansion #Thermodynamics #Physics #ThermalPhysics #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #MaterialsScience #ScienceIsAwesome #AppliedPhysics #EngineeringPhysics #MechanicalEngineering #PhysicsStudent #HeatTransfer #PhysicsDaily"
+  "radioactive-decay": {
+    "filename": "radioactive-decay.mp4",
+    "caption": "🤔 You cannot predict when one atom will decay. Predict a trillion of them and you'll be right to five decimal places.\nComment your answer before it appears on screen 💬\n\nANSWER: The Radioactive Decay Law\n\nEach nucleus has a fixed chance of decaying per unit time, with no memory and no ageing. Individual randomness plus huge numbers gives exponential decay so reliable we date 50,000-year-old bones with it. ☢️\n\n💾 Save it before it disappears down your feed\n🔁 Share it with your group chat",
+    "hashtags": "#NuclearPhysics #Radioactivity #PhysicsExplained #PhysicsFacts"
   },
-  "time_dilation": {
-    "filename": "time_dilation.mp4",
-    "caption": "⏳ Countdown's on. Hint: GPS satellites' clocks drift — Einstein told us exactly how much to correct.\nComment your answer before the reveal — and no scrubbing forward 👀\n\nANSWER: Time Dilation\n\nTime passes slower for someone moving fast or sitting in a strong gravitational field. GPS satellites would be useless without correcting for time dilation. Einstein was right. ⏳🛰️",
-    "hashtags": "#TimeDilation #SpecialRelativity #Physics #Einstein #Relativity #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #SpacetimePhysics #ScienceIsAwesome #ModernPhysics #GeneralRelativity #AlbertEinstein #PhysicsStudent #PhysicsDaily"
+  "rayleigh-criterion": {
+    "filename": "rayleigh-criterion.mp4",
+    "caption": "🤔 Why a bigger telescope always sees finer detail — and why no software will ever truly enhance that blurry frame.\nKnow the one? Put it in the comments 👇\n\nANSWER: The Rayleigh Criterion\n\nThe smallest angle you can resolve is set by the wavelength divided by the aperture. It's diffraction, a hard physical wall, not a limitation of the glass. Beating it means building bigger or linking telescopes across continents. 🔭\n\n💾 Save this for the next quiz night\n🔁 Send it to someone who'd love this",
+    "hashtags": "#Optics #Astronomy #PhysicsExplained #SpaceFacts"
   },
-  "torque": {
-    "filename": "torque.mp4",
-    "caption": "⏳ Beat the countdown. Hint: the leverage law: why door handles sit far from the hinge.\nDrop your guess below before the timer hits zero — no cheating ⏳\n\nANSWER: Torque\n\nTorque is the rotational version of force — it's why a long wrench loosens a stubborn bolt and why door handles are placed far from the hinge. Leverage is physics made practical. 🔧🚪",
-    "hashtags": "#Torque #RotationalMotion #Physics #ClassicalMechanics #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #EngineeringPhysics #ScienceIsAwesome #AppliedPhysics #MechanicalEngineering #ForceAndMotion #PhysicsStudent #Leverage #PhysicsDaily"
+  "reynolds-number": {
+    "filename": "reynolds-number.mp4",
+    "caption": "🤔 One number with no units at all decides whether a flow glides smoothly or collapses into chaos.\nGuess first, scroll after 👀\n\nANSWER: The Reynolds Number\n\nIt compares inertia to viscosity. Below about 2,300 in a pipe the flow stays orderly; above it, turbulence. It's also why bacteria swimming feel water as thick as treacle — at their scale, viscosity wins completely. 🌀\n\n💾 Save it — it's better the second time\n🔁 Share it with a fellow physics nerd",
+    "hashtags": "#FluidDynamics #Turbulence #Engineering #PhysicsFacts"
   },
-  "velocity_formula": {
-    "filename": "velocity_formula.mp4",
-    "caption": "⏳ Three seconds on the clock. Hint: speed with a direction attached — the difference changes everything.\nType what you think it is in the comments, then watch the reveal 👇\n\nANSWER: Velocity (v = d/t)\n\nSpeed tells you how fast. Velocity tells you how fast AND in which direction. That difference changes everything in physics — from projectile motion to relativity. 🏃➡️",
-    "hashtags": "#VelocityFormula #Physics #ClassicalMechanics #Kinematics #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #ForceAndMotion #ScienceIsAwesome #AppliedPhysics #NewtonianPhysics #SpeedVsVelocity #PhysicsStudent #Dynamics #PhysicsDaily"
+  "rocket-equation": {
+    "filename": "rocket-equation.mp4",
+    "caption": "🤔 The cruel arithmetic that forces every rocket to be about 90% fuel — and there's no way around it.\nCall it before the reveal — comments are open 💬\n\nANSWER: The Tsiolkovsky Rocket Equation\n\nSpeed gained depends on the logarithm of the mass ratio, so each extra bit of velocity costs exponentially more propellant. Fuel needs fuel to lift it. This single relationship explains staging, and why spaceflight stays so hard. 🚀\n\n💾 Save this for later reference\n🔁 Send it to someone who won't believe it",
+    "hashtags": "#Rocketry #Aerospace #SpacePhysics #SpaceFacts"
   },
-  "wave_equation": {
-    "filename": "wave_equation.mp4",
-    "caption": "⏳ Quick — before the timer runs out. Hint: sound, light and ripples on a pond all march to this single PDE.\nComment your guess before the answer drops — how fast did you get it? 💬\n\nANSWER: Wave Equation\n\nSound, light, water ripples, quantum particles — they're all described by the wave equation. One mathematical structure governs the oscillating heartbeat of the universe. 🌊🔊",
-    "hashtags": "#WaveEquation #WavePhysics #Physics #QuantumMechanics #Optics #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #Acoustics #ScienceIsAwesome #AppliedPhysics #Electromagnetism #ClassicalPhysics #PhysicsStudent #PhysicsDaily"
+  "rydberg-formula": {
+    "filename": "rydberg-formula.mp4",
+    "caption": "🤔 Hydrogen only glows in a handful of exact colours, and one 1888 formula nails every single one.\nCan you name it? Answer's coming up 👇\n\nANSWER: The Rydberg Formula\n\nRydberg fitted it to data with no idea why it worked. Explaining those integers took Bohr, then full quantum mechanics. Every spectrum we take of a star or a distant galaxy still leans on the same lines. 🌈\n\n💾 Save it to your science folder\n🔁 Share it with someone who's studying this",
+    "hashtags": "#Spectroscopy #AtomicPhysics #QuantumPhysics #PhysicsFacts"
   },
-  "work_energy": {
-    "filename": "work_energy.mp4",
-    "caption": "⏳ No pausing allowed. Hint: every joule you put in shows up, exactly, in the object's ½mv².\nComment your answer before the reveal — and no scrubbing forward 👀\n\nANSWER: Work-Energy Theorem\n\nWork is force applied over a distance — and every joule of work done changes the kinetic energy of an object by exactly the same amount. The work-energy theorem is physics keeping score. 💪⚡",
-    "hashtags": "#WorkEnergyTheorem #WorkAndEnergy #Physics #ClassicalMechanics #PhysicsFacts #ScienceFacts #STEM #ScienceEducation #LearnPhysics #PhysicsLovers #PhysicsNerd #PhysicsIsBeautiful #ConservationOfEnergy #ScienceIsAwesome #AppliedPhysics #NewtonianPhysics #EnergyPhysics #PhysicsStudent #KineticEnergy #PhysicsDaily"
+  "schwarzschild-radius": {
+    "filename": "schwarzschild-radius.mp4",
+    "caption": "🤔 Squeeze the entire Earth down to the size of a marble and it becomes something light can't escape.\nThink you've got it? Drop your answer below before the reveal 👇\n\nANSWER: The Schwarzschild Radius\n\nThe radius scales linearly with mass: 9 mm for Earth, 3 km for the Sun, 12 million km for the monster in M87. It isn't a surface, just the boundary where escape velocity reaches the speed of light. 🕳️\n\n💾 Save this — you'll want it the next time it comes up\n🔁 Send it to someone who'd enjoy the argument",
+    "hashtags": "#BlackHoles #Relativity #Astrophysics #SpaceFacts"
+  },
+  "shannon-entropy": {
+    "filename": "shannon-entropy.mp4",
+    "caption": "🤔 In 1948 one paper worked out how to measure information itself — and every file you've ever compressed obeys it.\nName it before the reveal — comment your guess 👇\n\nANSWER: Shannon Entropy\n\nEntropy counts how surprising a message is on average, in bits. It sets a hard floor on how far data can be compressed losslessly, and it's why predictable text shrinks enormously while random noise refuses to shrink at all. 💾\n\n💾 Save it for later\n🔁 Share it with the one friend who'd already know this",
+    "hashtags": "#InformationTheory #DataScience #Mathematics #MathsIsFun"
+  },
+  "simple-pendulum": {
+    "filename": "simple-pendulum.mp4",
+    "caption": "🤔 Swap the bob for one ten times heavier and the swing takes exactly as long. Only the length matters.\nGot it? Say it out loud, then keep watching 👀\n\nANSWER: The Simple Pendulum\n\nPeriod depends on length and gravity, and for small swings not on amplitude or mass at all. That reliability made pendulum clocks the world's timekeepers for 300 years — and it lets you measure g with a piece of string. ⏱️\n\n💾 Save this one for revision\n🔁 Send it to someone who needs to see it",
+    "hashtags": "#ClassicalMechanics #PhysicsExplained #ScienceFacts #PhysicsFacts"
+  },
+  "snells-law": {
+    "filename": "snells-law.mp4",
+    "caption": "🤔 The same rule that makes a straw look snapped in half also fires the internet under the oceans.\nComment your answer before it appears on screen 💬\n\nANSWER: Snell's Law\n\nLight changes direction when it changes speed between media. Push the angle far enough and it stops escaping altogether — total internal reflection, which traps signals inside a fibre optic cable for thousands of kilometres. 💡\n\n💾 Save it before it disappears down your feed\n🔁 Share it with your group chat",
+    "hashtags": "#Optics #Photonics #PhysicsExplained #PhysicsFacts"
+  },
+  "speed-of-light": {
+    "filename": "speed-of-light.mp4",
+    "caption": "🤔 We stopped measuring it in 1983. Now it's a defined number — and the metre is what got redefined around it.\nKnow the one? Put it in the comments 👇\n\nANSWER: The Speed of Light\n\nFixing c at exactly 299,792,458 m/s means a metre is simply how far light travels in 1/299,792,458 of a second. The measurement got so precise that the ruler was the least accurate thing left in the experiment. 💫\n\n💾 Save this for the next quiz night\n🔁 Send it to someone who'd love this",
+    "hashtags": "#Relativity #Metrology #PhysicsExplained #PhysicsFacts"
+  },
+  "speed-of-sound": {
+    "filename": "speed-of-sound.mp4",
+    "caption": "🤔 Count the seconds between the flash and the rumble. You're exploiting a factor of about a million.\nGuess first, scroll after 👀\n\nANSWER: The Speed of Sound\n\nSound moves at roughly 343 m/s in room-temperature air, set by temperature and molecular mass rather than pressure. Light arrives essentially instantly, so every three seconds of delay puts the strike about a kilometre away. ⛈️\n\n💾 Save it — it's better the second time\n🔁 Share it with a fellow physics nerd",
+    "hashtags": "#Acoustics #Waves #PhysicsExplained #PhysicsFacts"
+  },
+  "standard-error": {
+    "filename": "standard-error.mp4",
+    "caption": "🤔 A poll of 1,000 people can represent 50 million to within 3 points. The population size barely matters.\nCall it before the reveal — comments are open 💬\n\nANSWER: The Standard Error of the Mean\n\nUncertainty shrinks with the square root of the sample, not the fraction of the population you asked. Which means quadrupling your sample only halves your error — the reason surveys stop at a few thousand and stay there. 📈\n\n💾 Save this for later reference\n🔁 Send it to someone who won't believe it",
+    "hashtags": "#Statistics #DataScience #ScienceExplained #DataLiteracy"
+  },
+  "stefan-boltzmann-law": {
+    "filename": "stefan-boltzmann-law.mp4",
+    "caption": "🤔 Double a star's surface temperature and it doesn't shine twice as bright. It shines sixteen times brighter.\nCan you name it? Answer's coming up 👇\n\nANSWER: The Stefan-Boltzmann Law\n\nRadiated power scales with the fourth power of temperature. That steepness is why hot blue stars burn out fast, why a modest greenhouse effect matters so much, and how we take a star's temperature from light alone. ⭐\n\n💾 Save it to your science folder\n🔁 Share it with someone who's studying this",
+    "hashtags": "#Astrophysics #Thermodynamics #Astronomy #SpaceFacts"
+  },
+  "stellar-parallax": {
+    "filename": "stellar-parallax.mp4",
+    "caption": "🤔 Hold up your thumb and blink one eye then the other. Scale that up and you've measured the distance to the stars.\nThink you've got it? Drop your answer below before the reveal 👇\n\nANSWER: Stellar Parallax\n\nEarth's orbit gives a 300-million-km baseline, so nearby stars appear to shift over six months. Even the closest shifts by less than an arcsecond. Every distance in astronomy is ultimately calibrated against this one geometric measurement. 📏\n\n💾 Save this — you'll want it the next time it comes up\n🔁 Send it to someone who'd enjoy the argument",
+    "hashtags": "#Astronomy #Astrometry #Astrophysics #SpaceFacts"
+  },
+  "time-dilation": {
+    "filename": "time-dilation.mp4",
+    "caption": "🤔 Fly around the world and you land fractionally younger than everyone who stayed. This has been measured.\nName it before the reveal — comment your guess 👇\n\nANSWER: Time Dilation\n\nIn 1971 Hafele and Keating flew atomic clocks on commercial airliners and found exactly the predicted offset, tens of nanoseconds. It's not an illusion or a clock fault — moving clocks genuinely tick slower. ✈️\n\n💾 Save it for later\n🔁 Share it with the one friend who'd already know this",
+    "hashtags": "#Relativity #Einstein #PhysicsExplained #PhysicsFacts"
+  },
+  "uncertainty-principle": {
+    "filename": "uncertainty-principle.mp4",
+    "caption": "🤔 This isn't about clumsy instruments. It's a statement about what a particle actually has.\nGot it? Say it out loud, then keep watching 👀\n\nANSWER: The Heisenberg Uncertainty Principle\n\nPosition and momentum aren't simultaneously well-defined, because a particle is a wave and a wave can't be both localised and single-frequency. Perfect instruments wouldn't help. It's also why atoms don't collapse. ⚛️\n\n💾 Save this one for revision\n🔁 Send it to someone who needs to see it",
+    "hashtags": "#QuantumPhysics #QuantumMechanics #PhysicsExplained #PhysicsFacts"
+  },
+  "wiens-law": {
+    "filename": "wiens-law.mp4",
+    "caption": "🤔 Everything glows, including you. The colour of the glow tells you the temperature, and nothing else.\nComment your answer before it appears on screen 💬\n\nANSWER: Wien's Displacement Law\n\nPeak wavelength is inversely proportional to temperature, so hot stars look blue and cool ones red. You peak in the infrared at about 10 microns, which is precisely what a thermal camera is built to see. 🔥\n\n💾 Save it before it disappears down your feed\n🔁 Share it with your group chat",
+    "hashtags": "#Astrophysics #Thermodynamics #PhysicsExplained #SpaceFacts"
   }
 }

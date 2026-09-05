@@ -26,7 +26,7 @@ COOLDOWN = 30
 # Basing this on reel_history.json rather than calendar-modulo
 # dates makes it self-healing: if a run ever fails, the next day's
 # run posts, and the every-3-days rhythm continues from there.
-MIN_DAYS_BETWEEN_REELS = 3
+MIN_DAYS_BETWEEN_REELS = 2
 
 
 def load_json(path):
