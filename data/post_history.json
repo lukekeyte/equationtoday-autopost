@@ -334,5 +334,12 @@
     "posted_at": "2026-09-05T17:46:21.059403+00:00",
     "post_id": "17992627869013814",
     "matched_story": true
+  },
+  {
+    "id": "gauss_law_electricity_v2",
+    "name": "Gauss' Law - Electricity (Version 2)",
+    "posted_at": "2026-09-06T17:49:51.832169+00:00",
+    "post_id": "18125941249764811",
+    "matched_story": false
   }
 ]
