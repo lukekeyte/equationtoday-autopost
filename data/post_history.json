@@ -348,5 +348,12 @@
     "posted_at": "2026-09-07T19:27:47.755015+00:00",
     "post_id": "18107541371228926",
     "matched_story": false
+  },
+  {
+    "id": "rogers_ramanujan_continued_fraction",
+    "name": "Rogers-Ramanujan Continued Fraction",
+    "posted_at": "2026-09-08T19:03:38.520266+00:00",
+    "post_id": "18338806603283676",
+    "matched_story": true
   }
 ]
