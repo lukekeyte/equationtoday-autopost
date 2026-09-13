@@ -383,5 +383,12 @@
     "posted_at": "2026-09-12T17:56:24.219305+00:00",
     "post_id": "18049602155601252",
     "matched_story": false
+  },
+  {
+    "id": "borda_carnot_equation",
+    "name": "Borda-Carnot Equation",
+    "posted_at": "2026-09-13T18:23:50.541385+00:00",
+    "post_id": "18214782484359629",
+    "matched_story": false
   }
 ]
