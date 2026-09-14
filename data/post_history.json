@@ -390,5 +390,12 @@
     "posted_at": "2026-09-13T18:23:50.541385+00:00",
     "post_id": "18214782484359629",
     "matched_story": false
+  },
+  {
+    "id": "adams_williamson_equation",
+    "name": "Adams-Williamson Equation",
+    "posted_at": "2026-09-14T19:59:11.464299+00:00",
+    "post_id": "17956232679229325",
+    "matched_story": true
   }
 ]
