@@ -432,5 +432,12 @@
     "posted_at": "2026-09-19T18:16:14.834854+00:00",
     "post_id": "18101616443562988",
     "matched_story": false
+  },
+  {
+    "id": "rayleigh_criterion",
+    "name": "Rayleigh Criterion",
+    "posted_at": "2026-09-20T18:21:16.435568+00:00",
+    "post_id": "18115831912963175",
+    "matched_story": true
   }
 ]
