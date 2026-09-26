@@ -474,5 +474,12 @@
     "posted_at": "2026-09-25T19:38:30.971474+00:00",
     "post_id": "18111696910847085",
     "matched_story": false
+  },
+  {
+    "id": "helmholtz_free_energy_v2",
+    "name": "Helmholtz Free Energy (Version 2)",
+    "posted_at": "2026-09-26T18:46:43.484682+00:00",
+    "post_id": "18141755626510172",
+    "matched_story": true
   }
 ]
