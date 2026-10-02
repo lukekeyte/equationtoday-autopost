@@ -509,5 +509,12 @@
     "posted_at": "2026-10-01T20:37:39.071684+00:00",
     "post_id": "18027677081857075",
     "matched_story": false
+  },
+  {
+    "id": "malus_law",
+    "name": "Malus' Law",
+    "posted_at": "2026-10-02T20:13:26.892438+00:00",
+    "post_id": "18129477514763640",
+    "matched_story": true
   }
 ]
