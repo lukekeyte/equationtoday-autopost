@@ -537,5 +537,12 @@
     "posted_at": "2026-10-05T22:14:02.901081+00:00",
     "post_id": "18016123616744814",
     "matched_story": true
+  },
+  {
+    "id": "capacitive_reactance",
+    "name": "Capacitive Reactance",
+    "posted_at": "2026-10-24T11:12:15.823612+00:00",
+    "post_id": "17934882132143460",
+    "matched_story": false
   }
 ]
