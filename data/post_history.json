@@ -565,5 +565,12 @@
     "posted_at": "2026-10-26T20:47:56.350012+00:00",
     "post_id": "18140114149642543",
     "matched_story": false
+  },
+  {
+    "id": "simple_harmonic_motion",
+    "name": "Simple Harmonic Motion",
+    "posted_at": "2026-10-27T20:17:05.677987+00:00",
+    "post_id": "18112411502463885",
+    "matched_story": true
   }
 ]
