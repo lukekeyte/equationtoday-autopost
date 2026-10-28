@@ -572,5 +572,12 @@
     "posted_at": "2026-10-27T20:17:05.677987+00:00",
     "post_id": "18112411502463885",
     "matched_story": true
+  },
+  {
+    "id": "rydberg_formula",
+    "name": "Rydberg Formula",
+    "posted_at": "2026-10-28T20:39:32.425040+00:00",
+    "post_id": "18021112352945233",
+    "matched_story": false
   }
 ]
