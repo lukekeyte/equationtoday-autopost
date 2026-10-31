@@ -593,5 +593,12 @@
     "posted_at": "2026-10-30T20:14:42.324734+00:00",
     "post_id": "18645736198021721",
     "matched_story": true
+  },
+  {
+    "id": "poisson_equation_v1",
+    "name": "Poisson's Equation (Version 1)",
+    "posted_at": "2026-10-31T19:37:05.745853+00:00",
+    "post_id": "17953137981297501",
+    "matched_story": false
   }
 ]
