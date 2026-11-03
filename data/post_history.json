@@ -614,5 +614,12 @@
     "posted_at": "2026-11-02T23:15:10.135575+00:00",
     "post_id": "18107903822661541",
     "matched_story": true
+  },
+  {
+    "id": "faradays_law_v2",
+    "name": "Faraday's Law (Version 2)",
+    "posted_at": "2026-11-03T21:21:25.274145+00:00",
+    "post_id": "17928009069429587",
+    "matched_story": false
   }
 ]
