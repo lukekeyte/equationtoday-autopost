@@ -628,5 +628,12 @@
     "posted_at": "2026-11-04T21:36:24.122258+00:00",
     "post_id": "18674683882051960",
     "matched_story": false
+  },
+  {
+    "id": "quadratic_formula_v1",
+    "name": "Quadratic Formula (Version 1)",
+    "posted_at": "2026-11-05T21:38:15.069028+00:00",
+    "post_id": "18119480330105432",
+    "matched_story": true
   }
 ]
