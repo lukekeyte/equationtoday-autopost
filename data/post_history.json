@@ -649,5 +649,12 @@
     "posted_at": "2026-11-07T19:42:45.070306+00:00",
     "post_id": "18502810312099735",
     "matched_story": false
+  },
+  {
+    "id": "luminosity_v2",
+    "name": "Luminosity (Version 2)",
+    "posted_at": "2026-11-08T20:01:39.284944+00:00",
+    "post_id": "17967947750985116",
+    "matched_story": true
   }
 ]
