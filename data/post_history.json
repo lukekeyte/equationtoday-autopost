@@ -712,5 +712,12 @@
     "posted_at": "2026-11-16T23:53:33.749493+00:00",
     "post_id": "17993997849059927",
     "matched_story": false
+  },
+  {
+    "id": "shannon_entropy",
+    "name": "Shannon Entropy",
+    "posted_at": "2026-11-17T23:13:31.853303+00:00",
+    "post_id": "17977578657157256",
+    "matched_story": true
   }
 ]
